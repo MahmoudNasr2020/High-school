@@ -1,0 +1,121 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+.att-std {
+    background-color: #dedede;
+    position: relative;
+    top: 44px;
+    height: 480px;
+}
+.back1-att,.back2-att,.back3-att{
+
+}
+.btn-att {
+    position: relative;
+    left: 90px;
+}
+.btn-att1{
+    position: relative;
+    top: 132px;
+    left: 562px;
+}
+.back-att1{
+    position: relative;
+    left: 312px;
+    top: -39px;
+    cursor: pointer;
+}
+.back-att2{
+    position: relative;
+    left: 312px;
+    top: -39px;
+    cursor: pointer;
+}
+.back-att3{
+    position: relative;
+    left: 312px;
+    top: -39px;
+    cursor: pointer;
+}
+.btn-att2{
+    position: relative;
+    top: 224px;
+    left: 713px;
+}
+.btn-att3{
+    position: relative;
+    top: 310px;
+    left: 869px;
+}
+.att-std1 {
+    position: relative;
+    right: 10px;
+}
+.input-show1{
+    position: relative;
+    right: 682px;
+    top: 67px;
+}
+.input-submit1{
+    position: relative;
+    width: 86px;
+    right: 809px;
+    top: 88px;
+}
+.att-std2 {
+    position: relative;
+    right: 170px;
+}
+.input-show2{
+    position: relative;
+    right: 525px;
+    top: 67px;
+}
+.input-submit2{
+    position: relative;
+    width: 86px;
+    right: 648px;
+    top: 88px;
+}
+.att-std3 {
+    position: relative;
+    right: 170px;
+}
+.input-show3{
+    position: relative;
+    right: 525px;
+    top: 67px;
+}
+.input-submit3{
+    position: relative;
+    width: 86px;
+    right: 648px;
+    top: 88px;
+}
+.alter-att1-std1 {
+    position: relative;
+    width: 600px;
+    top: 144px;
+    right: 563px;
+}
+.fetch-att{
+        text-align: center;
+        color:black;
+        font-weight: bold
+}
+.span-att-name{
+    color: #0062cc;
+    font-weight: bold;
+}
+.span-att-id{
+    color: #1e7e34;
+    font-weight: bold;
+}
+.span-att-number{
+    color:#dc3545;
+    font-weight: bold;
+}
+.danger-show-att{
+    position: relative;
+    width: 295px;
+    top: 112px;
+    right: 714px;
+}

@@ -1,0 +1,4494 @@
+@media(max-width:320px){
+
+    .h2setting {
+        position: absolute;
+        top: 135px;
+        left: 38px;
+        font-size: 18px;
+        color: #1f4b68 !important;
+                }
+
+    .content-of-setting {
+        right: 122px;
+        width: 196px;
+        top:242px;
+        height: 458px;
+    }
+    .input-sitename {
+        right: -25px;
+        width: 156px;
+    }
+    .input-siteemail {
+        right: -25px;
+        width: 156px;
+    }
+    .input-sitephone, .input-siteaddress {
+        position: relative;
+        right: -18px;
+        width: 156px;
+}
+     .errorname {
+        position: absolute;
+        top: 117px;
+        left: 8px;
+        width: 158px;
+    }
+    .content-of-setting .label1 {
+        right: -46px;
+}
+    .label-email {
+        right: -42px;
+
+}
+    .label-phone, .label-address {
+        left: 62px;
+    }
+    .content-of-setting .label2 {
+        left: 69px;
+}
+    select {
+        right: 40px;
+    }
+    .btn-danger {
+    right: -69px;
+}
+    .success-setting {
+        position: absolute;
+        top: 104px;
+        left: 8px;
+}
+    .content-of-about-school {
+        top: 203px;
+        left: 0;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 45px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 64px;
+}
+    .input-address-news {
+        width: 165px;
+}
+    textarea {
+        width: 164px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 56px;
+        width: 102px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 15px;
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 3px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+    .btn-slidermain {
+        left: 4px;
+        width: 90px;
+}
+    .btn-slider {
+        left: 9px;
+        width: 75px;
+    }
+    .input-slider {
+        width: 158px;
+        left: -181px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left: -125px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -152px;
+    width: 97px;
+}
+    .slider-news {
+        width: 166px;
+        left: 14px;
+}
+    .img-database {
+        right: 0;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 0;
+    top: 76px;
+}
+    .slider-remove  {
+        right: 74px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left: -134px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 160px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 159px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 166px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 168px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .group-slider1, .group-slider2 {
+        width: 0;
+}
+    .form-slider {
+    height: 290px;
+}
+    .slider-content {
+        left: 200px;
+        width: 0;
+}
+    .fetch-news {
+        width: 169px;
+        left: 12px;
+}
+    .group-news .input-news {
+        width: 168px;
+        left: -30px;
+        top:-26px
+    }
+    .input-submit {
+        left: 20px;
+        top:-17px
+}
+    .input-edit {
+        width: 168px;
+        position: relative;
+        left: -157px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .btn1-edit {
+        left: -104px;
+}
+    .addnews {
+        left: 54px;
+}
+    .update-news {
+        right: -66px;
+}
+    .remove-news {
+        right: 64px;
+}
+    .input-del {
+    width: 168px;
+    position: relative;
+    right: 160px;
+    top: -34px;
+    }
+    .btn-del {
+        top: -23px;
+        left: -108px;
+}
+     .lebal-news,.label-edit,.lebal-del {
+        visibility: hidden;
+}
+   .group-res {
+        left: 18px;
+        width: 0;
+}
+    .group-res1, .group-res2, .group-res3 {
+        width: 188px;
+}
+    .input-res1, .input-res2, .input-res3 {
+        width: 163px;
+}
+    .lebal-result-1, .lebal-result-2, .lebal-result-3 {
+        left: -6px;
+        width: 200px;
+        white-space: nowrap;
+}
+    .input-submit-res {
+        left: 51px;
+}
+    .h2-res {
+        left: 80px;
+        font-size: 22px;
+}
+    .res-alert {
+        top: 154px;
+        left: 9px;
+}
+    .res-alert {
+        left: 0;
+}
+    .btn-att1 {
+        left: 35px;
+    }
+    .btn-att2 {
+        left: -78px;
+}
+    .btn-att3 {
+        top: -232px;
+        left: 32px;
+}
+    .btn-show1 {
+        top: -211px;
+        left: 33px;
+}
+    .btn-ins1 {
+        top: -154px;
+        left: -78px;
+}
+    .label-id-std,.label-id-std{
+        white-space: nowrap;
+        left: 24px;
+    }
+    .label-name-std {
+        left: 55px;
+         white-space: nowrap;
+}
+    .label-day-std {
+        left: 94px;
+        white-space: nowrap;
+}
+    .content-of-std {
+        width: 206px;
+        top: -139px;
+        left: -7px;
+}
+    .label-day-std {
+        left: 50px;
+        white-space: nowrap;
+}
+    .std_btn {
+        top: 17px;
+        left: 72px;
+}
+    .input-id-std,.input-name-std,.input-day-std {
+        width: 175px;
+}
+    .alert-show-att1 {
+        width: 178px;
+        top: -132px;
+        left: 8px;
+}
+    .update-std {
+        left: 60px;
+}
+    .delete-std {
+        top: 0px;
+        left: -82px;
+}
+    .alert-att-edit {
+        width: 191px;
+        position: relative;
+        top: -409px;
+        left: 4px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:321px) and (max-width:349px){
+    .btn-att1 {
+        left: 35px;
+    }
+    .btn-att2 {
+        left: -78px;
+}
+    .btn-att3 {
+        top: -232px;
+        left: 32px;
+}
+    .btn-show1 {
+        top: -211px;
+        left: 33px;
+}
+    .btn-ins1 {
+        top: -154px;
+        left: -78px;
+}
+    .label-id-std,.label-id-std{
+        white-space: nowrap;
+        left: 24px;
+    }
+    .label-name-std {
+        left: 55px;
+         white-space: nowrap;
+}
+    .label-day-std {
+        left: 94px;
+        white-space: nowrap;
+}
+    .content-of-std {
+        width: 206px;
+        top: -139px;
+        left: -7px;
+}
+    .label-day-std {
+        left: 50px;
+        white-space: nowrap;
+}
+    .std_btn {
+        top: 17px;
+        left: 72px;
+}
+    .input-id-std,.input-name-std,.input-day-std {
+        width: 175px;
+}
+    .alert-show-att1 {
+        width: 187px;
+        top: -132px;
+        left: 8px;
+}
+    .update-std {
+        left: 60px;
+}
+    .delete-std {
+        top: 0px;
+        left: -82px;
+}
+    .alert-att-edit {
+        width: 191px;
+        position: relative;
+        top: -409px;
+        left: 4px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media (min-width:350px) and (max-width:383px){
+      .btn-att1 {
+        left: 35px;
+    }
+    .btn-att2 {
+        left: -78px;
+}
+      .btn-att3 {
+        top: -201px;
+        left: -193px;
+}
+    .btn-show1 {
+          top: -180px;
+          left: 28px;
+}
+    .btn-ins1 {
+        top: -125px;
+        left: -82px;
+}
+    .label-id-std,.label-id-std{
+        white-space: nowrap;
+        left: 24px;
+    }
+    .label-name-std {
+        left: 55px;
+         white-space: nowrap;
+}
+    .label-day-std {
+        left: 94px;
+        white-space: nowrap;
+}
+    .content-of-std {
+        width: 206px;
+        top: -90px;
+        left: -7px;
+}
+    .label-day-std {
+        left: 50px;
+        white-space: nowrap;
+}
+    .std_btn {
+        top: 17px;
+        left: 72px;
+}
+    .input-id-std,.input-name-std,.input-day-std {
+        width: 175px;
+}
+    .alert-show-att1 {
+        width: 187px;
+        top: -100px;
+        left: 8px;
+}
+    .update-std {
+        left: 60px;
+}
+    .delete-std {
+        top: 0px;
+        left: -82px;
+}
+    .alert-att-edit {
+        width: 191px;
+        position: relative;
+        top: -409px;
+        left: 4px;
+}
+    .alert-att {
+        width: 143px;
+        position: relative;
+        top: -298px;
+        left: 194px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------321px--------------------------------------------------*/
+@media(min-width:321px) and (max-width:359px){
+     .h2setting {
+        position: absolute;
+        top: 135px;
+        left: 53px;
+        font-size: 18px;
+        color: #1f4b68 !important;
+                }
+
+    .content-of-setting {
+        right: 122px;
+        width: 196px;
+        top:242px;
+        height: 458px;
+    }
+    .input-sitename {
+        right: -15px;
+        width: 156px;
+    }
+    .input-siteemail {
+        right: -15px;
+        width: 156px;
+    }
+    .input-sitephone, .input-siteaddress {
+        position: relative;
+        right: -7px;
+        width: 156px;
+}
+     .errorname {
+        position: absolute;
+        top: 117px;
+        left: 8px;
+        width: 158px;
+    }
+    .content-of-setting .label1 {
+        right: -46px;
+}
+    .label-email {
+        right: -42px;
+
+}
+    .label-phone, .label-address {
+        left: 62px;
+    }
+    .content-of-setting .label2 {
+        left: 69px;
+}
+    select {
+        right: 40px;
+    }
+    .btn-danger {
+    right: -69px;
+}
+    .success-setting {
+    position: absolute;
+    top: 104px;
+    left: 8px;
+}
+        .content-of-about-school {
+        top: 203px;
+        left: 0;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 45px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 64px;
+}
+    .input-address-news {
+        width: 165px;
+}
+    textarea {
+        width: 164px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 56px;
+        width: 102px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 15px;
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 3px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+    .btn-slidermain {
+        left: 9px;
+        width: 90px;
+}
+    .btn-slider {
+        left: 23px;
+        width: 75px;
+    }
+
+    .input-slider {
+        width: 158px;
+        left: -181px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left: -125px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -152px;
+    width: 97px;
+}
+    .slider-news {
+        width: 166px;
+        left: 14px;
+}
+    .img-database {
+        right: 0;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 0;
+    top: 76px;
+}
+    .slider-remove  {
+        right: 74px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left: -134px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 160px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 159px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 166px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 168px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .group-slider1, .group-slider2 {
+        width: 0;
+}
+    .form-slider {
+    height: 290px;
+}
+     .slider-content {
+        left: 200px;
+        width: 0;
+}
+    .slider-add-success {
+        width: 172px;
+        left: 19px;
+}
+    .fetch-news {
+        width: 169px;
+        left: 25px;
+}
+    .group-news .input-news {
+        width: 168px;
+        left: -30px;
+        top:-26px
+    }
+    .input-submit {
+        left: 20px;
+        top:-17px
+}
+    .input-edit {
+        width: 168px;
+        position: relative;
+        left: -154px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .btn1-edit {
+        left: -104px;
+}
+    .addnews {
+        left: 54px;
+}
+    .update-news {
+        right: -66px;
+}
+    .remove-news {
+        right: 64px;
+}
+    .input-del {
+    width: 168px;
+    position: relative;
+    right: 160px;
+    top: -34px;
+    }
+    .btn-del {
+        top: -23px;
+        left: -108px;
+}
+   .lebal-news,.label-edit,.lebal-del {
+        visibility: hidden;
+}
+      .group-res {
+        left: 18px;
+        width: 0;
+}
+    .group-res1, .group-res2, .group-res3 {
+        width: 188px;
+}
+    .input-res1, .input-res2, .input-res3 {
+        width: 163px;
+}
+    .lebal-result-1, .lebal-result-2, .lebal-result-3 {
+        left: -6px;
+        width: 200px;
+        white-space: nowrap;
+}
+    .input-submit-res {
+        left: 51px;
+}
+    .h2-res {
+        left: 80px;
+        font-size: 22px;
+}
+      .res-alert {
+        top: 154px;
+        left: 9px;
+}
+    .res-alert {
+        left: 0;
+}
+
+
+}
+
+/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:360px) and (max-width:374px){
+     .h2setting {
+        position: absolute;
+        top: 135px;
+        left: 61px;
+        font-size: 18px;
+        color: #1f4b68 !important;
+                }
+
+    .content-of-setting {
+        right: 122px;
+        width: 196px;
+        top:242px;
+        height: 458px;
+    }
+    .input-sitename {
+        right: 4px;
+        width: 156px;
+    }
+    .input-siteemail {
+        right: 4px;
+        width: 156px;
+    }
+    .input-sitephone, .input-siteaddress {
+        position: relative;
+        right: 15px;
+        width: 156px;
+}
+     .errorname {
+        position: absolute;
+        top: 117px;
+        left: 8px;
+        width: 158px;
+    }
+    .content-of-setting .label1 {
+        right: -46px;
+}
+    .label-email {
+        right: -42px;
+
+}
+    .label-phone, .label-address {
+        left: 56px;
+    }
+    .content-of-setting .label2 {
+        left: 52px;
+}
+    select {
+        right: 56px;
+    }
+    .btn-danger {
+    right: -56px;
+}
+    .success-setting {
+    position: absolute;
+    top: 104px;
+    left: 8px;
+}
+        .content-of-about-school {
+        top: 203px;
+        left: 14px;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 45px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 64px;
+}
+    .input-address-news {
+        width: 165px;
+}
+    textarea {
+        width: 164px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 56px;
+        width: 102px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 15px;
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 3px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+    .btn-slidermain {
+        left: 9px;
+        width: 90px;
+}
+    .btn-slider {
+        left: 23px;
+        width: 75px;
+    }
+
+    .input-slider {
+        width: 158px;
+        left: -181px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left: -125px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -152px;
+    width: 97px;
+}
+    .slider-news {
+        width: 166px;
+        left: 14px;
+}
+    .img-database {
+        right: 0;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 0;
+    top: 76px;
+}
+    .slider-remove  {
+        right: 74px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left: -134px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 160px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 159px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 166px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 168px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .group-slider1, .group-slider2 {
+        width: 0;
+}
+    .form-slider {
+    height: 290px;
+}
+       .slider-content {
+        left: 200px;
+        width: 0;
+}
+    .slider-add-success {
+        width: 172px;
+        left: 19px;
+}
+    .fetch-news {
+        width: 169px;
+        left: 33px;
+}
+    .group-news .input-news {
+        width: 168px;
+        left: -15px;
+        top:-26px
+    }
+    .input-submit {
+        left: 39px;
+        top:-17px
+}
+    .input-edit {
+        width: 168px;
+        position: relative;
+        left: -146px;
+        top: -30px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .btn1-edit {
+        left: -95px;
+        top: -21px;
+}
+    .addnews {
+        left: 73px;
+}
+    .update-news {
+        right: -66px;
+}
+    .remove-news {
+        right: 64px;
+}
+    .input-del {
+        width: 168px;
+        position: relative;
+        right: 140px;
+        top: -34px;
+    }
+    .btn-del {
+        top: -23px;
+        left: -89px;
+}
+  .lebal-news,.label-edit,.lebal-del {
+        visibility: hidden;
+}
+     .group-res {
+        left: 28px;
+        width: 0;
+}
+    .group-res1, .group-res2, .group-res3 {
+    width: 188px;
+}
+    .input-res1, .input-res2, .input-res3 {
+        width: 159px;
+}
+    .lebal-result-1, .lebal-result-2, .lebal-result-3 {
+        left: -6px;
+        width: 200px;
+        white-space: nowrap;
+}
+    .input-submit-res {
+        left: 51px;
+}
+    .h2-res {
+        left: 80px;
+        font-size: 22px;
+}
+      .res-alert {
+        top: 154px;
+        left: 9px;
+}
+    .res-alert {
+        left: 0;
+}
+
+
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:375px) and (max-width:383px){
+    .h2setting {
+        position: absolute;
+        top: 135px;
+        left: 75px;
+        font-size: 18px;
+        color: #1f4b68 !important;
+                }
+
+    .content-of-setting {
+        right: 122px;
+        width: 196px;
+        top:242px;
+        height: 458px;
+    }
+    .input-sitename {
+        right: 4px;
+        width: 156px;
+    }
+    .input-siteemail {
+        right: 4px;
+        width: 156px;
+    }
+    .input-sitephone, .input-siteaddress {
+        position: relative;
+        right: 15px;
+        width: 156px;
+}
+     .errorname {
+        position: absolute;
+        top: 117px;
+        left: 8px;
+        width: 158px;
+    }
+    .content-of-setting .label1 {
+        right: -46px;
+}
+    .label-email {
+        right: -42px;
+
+}
+    .label-phone, .label-address {
+        left: 56px;
+    }
+    .content-of-setting .label2 {
+        left: 52px;
+}
+    select {
+        right: 56px;
+    }
+    .btn-danger {
+    right: -56px;
+}
+    .success-setting {
+    position: absolute;
+    top: 104px;
+    left: 8px;
+}
+        .content-of-about-school {
+        top: 203px;
+        left: 18px;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 45px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 64px;
+}
+    .input-address-news {
+        width: 165px;
+}
+    textarea {
+        width: 164px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 56px;
+        width: 102px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 15px;
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 3px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+    .btn-slidermain {
+        left: 9px;
+        width: 90px;
+}
+    .btn-slider {
+        left: 23px;
+        width: 75px;
+     }
+    .input-slider {
+        width: 158px;
+        left: -181px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left: -125px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -152px;
+    width: 97px;
+}
+    .slider-news {
+        width: 166px;
+        left: 14px;
+}
+    .img-database {
+        right: 0;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 0;
+    top: 76px;
+}
+    .slider-remove  {
+        right: 74px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left: -134px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 160px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 159px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 166px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 168px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .group-slider1, .group-slider2 {
+        width: 0;
+}
+    .form-slider {
+    height: 290px;
+}
+      .slider-content {
+            left: 200px;
+            width: 0;
+}
+    .slider-add-success {
+        width: 172px;
+        left: 19px;
+}
+ .fetch-news {
+        width: 169px;
+        left: 33px;
+}
+    .group-news .input-news {
+        width: 168px;
+        left: -15px;
+        top:-26px
+    }
+    .input-submit {
+        left: 39px;
+        top:-17px
+}
+    .input-edit {
+        width: 168px;
+        position: relative;
+        left: -146px;
+        top: -30px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .btn1-edit {
+        left: -95px;
+        top: -21px;
+}
+    .addnews {
+        left: 73px;
+}
+    .update-news {
+        right: -66px;
+}
+    .remove-news {
+        right: 64px;
+}
+    .input-del {
+        width: 168px;
+        position: relative;
+        right: 140px;
+        top: -34px;
+    }
+    .btn-del {
+        top: -23px;
+        left: -89px;
+}
+  .lebal-news,.label-edit,.lebal-del {
+        visibility: hidden;
+}
+     .group-res {
+        left: 28px;
+        width: 0;
+}
+    .group-res1, .group-res2, .group-res3 {
+    width: 188px;
+}
+    .input-res1, .input-res2, .input-res3 {
+        width: 159px;
+}
+    .lebal-result-1, .lebal-result-2, .lebal-result-3 {
+        left: -6px;
+        width: 200px;
+        white-space: nowrap;
+}
+    .input-submit-res {
+        left: 51px;
+}
+    .h2-res {
+        left: 80px;
+        font-size: 22px;
+}
+      .res-alert {
+        top: 154px;
+        left: 9px;
+}
+    .res-alert {
+        left: 0;
+}
+}
+/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:384px) and (max-width:480px){
+    .h2setting {
+        position: absolute;
+        top: 135px;
+        left: 75px;
+        font-size: 18px;
+        color: #1f4b68 !important;
+                }
+
+    .content-of-setting {
+        right: 149px;
+        width: 196px;
+        top:242px;
+        height: 458px;
+    }
+    .input-sitename {
+        right: 4px;
+        width: 156px;
+    }
+    .input-siteemail {
+        right: 4px;
+        width: 156px;
+    }
+    .input-sitephone, .input-siteaddress {
+        position: relative;
+        right: 15px;
+        width: 156px;
+}
+     .errorname {
+        position: absolute;
+        top: 117px;
+        left: 8px;
+        width: 158px;
+    }
+    .content-of-setting .label1 {
+        right: -46px;
+}
+    .label-email {
+        right: -42px;
+
+}
+    .label-phone, .label-address {
+        left: 56px;
+    }
+    .content-of-setting .label2 {
+        left: 52px;
+}
+    select {
+        right: 56px;
+    }
+    .btn-danger {
+    right: -56px;
+}
+    .success-setting {
+    position: absolute;
+    top: 104px;
+    left: 8px;
+}
+        .content-of-about-school {
+        top: 203px;
+        left:33px;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 45px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 64px;
+}
+    .input-address-news {
+        width: 165px;
+}
+    textarea {
+        width: 164px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 56px;
+        width: 102px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 15px;
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 3px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+    .btn-slidermain {
+        left: 32px;
+        width: 90px;
+}
+    .btn-slider {
+        left: 56px;
+        width: 75px;
+       }
+    .input-slider {
+        width: 158px;
+        left: -181px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left: -125px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -152px;
+    width: 97px;
+}
+    .slider-news {
+        width: 166px;
+        left: 14px;
+}
+    .img-database {
+        right: 0;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 0;
+    top: 76px;
+}
+    .slider-remove  {
+        right: 74px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left: -134px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 160px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 159px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 166px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 168px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .group-slider1, .group-slider2 {
+        width: 0;
+}
+    .form-slider {
+    height: 290px;
+}
+    .slider-content {
+            left: 200px;
+            width: 0;
+}
+    .slider-add-success {
+        width: 172px;
+        left: 19px;
+}
+    .fetch-news {
+        width: 169px;
+        left: 47px;
+}
+    .group-news .input-news {
+        width: 168px;
+        left: 1px;
+        top:-26px
+    }
+    .input-submit {
+        left: 50px;
+        top:-17px
+}
+    .input-edit {
+        width: 168px;
+        position: relative;
+        left: -129px;
+        top: -30px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .btn1-edit {
+        left: -81px;
+        top: -21px;
+}
+    .addnews {
+        left: 84px;
+}
+    .update-news {
+        right: -66px;
+}
+    .remove-news {
+        right: 64px;
+}
+    .input-del {
+        width: 168px;
+        position: relative;
+        right: 140px;
+        top: -34px;
+    }
+    .btn-del {
+        top: -23px;
+        left: -89px;
+}
+    .lebal-news,.label-edit,.lebal-del {
+        visibility: hidden;
+}
+     .group-res {
+        left: 45px;
+        width: 0;
+}
+    .group-res1, .group-res2, .group-res3 {
+    width: 188px;
+}
+    .input-res1, .input-res2, .input-res3 {
+        width: 159px;
+}
+    .lebal-result-1, .lebal-result-2, .lebal-result-3 {
+        left: -6px;
+        width: 200px;
+        white-space: nowrap;
+}
+    .input-submit-res {
+        left: 51px;
+}
+    .h2-res {
+        left: 80px;
+        font-size: 22px;
+}
+      .res-alert {
+        top: 154px;
+        left: 9px;
+}
+    .res-alert {
+        left: 21px;
+}
+    .btn-att1 {
+        left: 65px;
+    }
+    .btn-att2 {
+        left: -48px;
+}
+      .btn-att3 {
+        top: -201px;
+        left: -164px;
+}
+    .btn-show1 {
+          top: -180px;
+          left: 57px;
+}
+    .btn-ins1 {
+        top: -125px;
+        left: -54px;
+}
+    .label-id-std,.label-id-std{
+        white-space: nowrap;
+        left: 24px;
+    }
+    .label-name-std {
+        left: 55px;
+         white-space: nowrap;
+}
+    .label-day-std {
+        left: 94px;
+        white-space: nowrap;
+}
+    .content-of-std {
+        width: 206px;
+        top: -90px;
+        left:13px;
+}
+    .label-day-std {
+        left: 50px;
+        white-space: nowrap;
+}
+    .std_btn {
+        top: 17px;
+        left: 72px;
+}
+    .input-id-std,.input-name-std,.input-day-std {
+        width: 175px;
+}
+    .alert-show-att1 {
+        width: 187px;
+        top: -106px;
+        left: 30px;
+}
+    .update-std {
+        left: 60px;
+}
+    .delete-std {
+        top: 0px;
+        left: -82px;
+}
+    .alert-att-edit {
+        width: 191px;
+        position: relative;
+        top: -409px;
+        left: 4px;
+}
+    .alert-att {
+        width: 143px;
+        position: relative;
+        top: -298px;
+        left: 194px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:481px) and (max-width:567px){
+    .h2setting {
+        position: absolute;
+        top: 135px;
+        left: 75px;
+        font-size: 18px;
+        color: #1f4b68 !important;
+                }
+
+    .content-of-setting {
+        right: 222px;
+        width: 196px;
+        top:242px;
+        height: 458px;
+    }
+    .input-sitename {
+        right: 4px;
+        width: 156px;
+    }
+    .input-siteemail {
+        right: 4px;
+        width: 156px;
+    }
+    .input-sitephone, .input-siteaddress {
+        position: relative;
+        right: 15px;
+        width: 156px;
+}
+     .errorname {
+        position: absolute;
+        top: 117px;
+        left: 8px;
+        width: 158px;
+    }
+    .content-of-setting .label1 {
+        right: -46px;
+}
+    .label-email {
+        right: -42px;
+
+}
+    .label-phone, .label-address {
+        left: 56px;
+    }
+    .content-of-setting .label2 {
+        left: 52px;
+}
+    select {
+        right: 56px;
+    }
+    .btn-danger {
+    right: -56px;
+}
+    .success-setting {
+    position: absolute;
+    top: 104px;
+    left: 8px;
+}
+      .content-of-about-school {
+            top: 203px;
+            left: 59px;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 45px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 64px;
+}
+    .input-address-news {
+        width: 165px;
+}
+    textarea {
+        width: 164px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 56px;
+        width: 102px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 68px
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 35px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+    .btn-slidermain {
+        left: 32px;
+        width: 90px;
+}
+   .btn-slider {
+    left: 78px;
+    width: 99px;
+}
+    .input-slider {
+        width: 158px;
+        left: -124px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left:-69px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -100px;
+    width: 97px;
+}
+    .slider-news {
+        width: 166px;
+        left: 69px;
+}
+    .img-database {
+        right: 0;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 0;
+    top: 76px;
+}
+    .slider-remove  {
+        right: 74px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left: -85px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 160px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 159px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 166px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 168px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .group-slider1, .group-slider2 {
+        width: 0;
+}
+    .form-slider {
+    height: 290px;
+}
+      .slider-content {
+            left: 200px;
+            width: 0;
+}
+    .slider-add-success {
+        width: 172px;
+        left: 19px;
+}
+     .fetch-news {
+        width: 235px;
+        left: 47px;
+}
+    .group-news .input-news {
+        width: 235px;
+        left: 1px;
+        top: -5px;
+    }
+    .input-submit {
+       left: 83px;
+        top: 4px;
+}
+    .input-edit {
+        width: 242px;
+        position: relative;
+        left: -129px;
+        top: -14px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .lebal-edit {
+        left: -61px;
+        top: -12px;
+}
+    .btn1-edit {
+        left: -43px;
+        top: 5px;
+}
+    .addnews {
+        left: 121px;
+}
+    .update-news {
+        right: -39px;
+        top: 27px;
+}
+    .remove-news {
+        right: 87px;
+        top: 27px;
+}
+    .input-del {
+        width: 258px;
+        position: relative;
+        right: 140px;
+        top: -8px;
+    }
+    .btn-del {
+        top: 5px;
+        left: -42px;
+}
+    .lebal-news {
+        left: 60px;
+        top: 2px;
+    }
+    .lebal-del {
+        left: -57px;
+        top: -8px
+}
+     .group-res {
+        left: 85px;
+        width: 0;
+}
+    .group-res1, .group-res2, .group-res3 {
+    width: 188px;
+}
+    .input-res1, .input-res2, .input-res3 {
+        width: 159px;
+}
+    .lebal-result-1, .lebal-result-2, .lebal-result-3 {
+        left: -6px;
+        width: 200px;
+        white-space: nowrap;
+}
+    .input-submit-res {
+        left: 51px;
+}
+    .h2-res {
+        left: 134px;
+        font-size: 22px;
+}
+      .res-alert {
+        top: 154px;
+        left: 9px;
+}
+    .res-alert {
+        left: 117px;
+}
+    .btn-att1 {
+        left: 116px;
+    }
+    .btn-att2 {
+        left: 7px;
+}
+      .btn-att3 {
+        top: -201px;
+        left: -107px;
+}
+    .btn-show1 {
+          top: -180px;
+          left: 114px;
+}
+    .btn-ins1 {
+        top: -125px;
+        left: 4px;
+}
+    .label-id-std,.label-id-std{
+        white-space: nowrap;
+        left: 24px;
+    }
+    .label-name-std {
+        left: 55px;
+         white-space: nowrap;
+}
+    .label-day-std {
+        left: 94px;
+        white-space: nowrap;
+}
+    .content-of-std {
+        width: 206px;
+        top: -90px;
+        left: 59px;
+}
+    .label-day-std {
+        left: 50px;
+        white-space: nowrap;
+}
+    .std_btn {
+        top: 17px;
+        left: 72px;
+}
+    .input-id-std,.input-name-std,.input-day-std {
+        width: 175px;
+}
+    .alert-show-att1 {
+        width: 187px;
+        top: -107px;
+        left: 73px;
+}
+    .update-std {
+        left: 60px;
+}
+    .delete-std {
+        top: 0px;
+        left: -82px;
+}
+    .alert-att-edit {
+        width: 191px;
+        position: relative;
+        top: -409px;
+        left: 4px;
+}
+    .alert-att {
+        width: 143px;
+        position: relative;
+        top: -298px;
+        left: 194px;
+}
+}
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:568px) and (max-width:666px){
+    .h2setting {
+        position: absolute;
+        top: 135px;
+        left: 144px;
+        font-size: 18px;
+        color: #1f4b68 !important;
+                }
+
+    .content-of-setting {
+        right: 274px;
+        width: 196px;
+        top:242px;
+        height: 458px;
+    }
+    .input-sitename {
+        right: 4px;
+        width: 156px;
+    }
+    .input-siteemail {
+        right: 4px;
+        width: 156px;
+    }
+    .input-sitephone, .input-siteaddress {
+        position: relative;
+        right: 15px;
+        width: 156px;
+}
+     .errorname {
+        position: absolute;
+        top: 117px;
+        left: 8px;
+        width: 158px;
+    }
+    .content-of-setting .label1 {
+        right: -46px;
+}
+    .label-email {
+        right: -42px;
+
+}
+    .label-phone, .label-address {
+        left: 56px;
+    }
+    .content-of-setting .label2 {
+        left: 52px;
+}
+    select {
+        right: 56px;
+    }
+    .btn-danger {
+    right: -56px;
+}
+    .success-setting {
+    position: absolute;
+    top: 104px;
+    left: 8px;
+}
+      .content-of-about-school {
+            top: 203px;
+            left: 59px;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 62px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 80px;
+}
+    .input-address-news {
+        width: 213px;
+}
+    textarea {
+        width: 213px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 19px;
+        width: 211px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 68px
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 35px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+      .btn-slidermain {
+        left: 32px;
+        width: 141px;
+}
+       .btn-slider {
+        left: 78px;
+        width: 99px;
+    }
+       .btn-slider {
+    left: 78px;
+    width: 99px;
+}
+    .input-slider {
+        width: 225px;
+        left: -153px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left: -67px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -152px;
+    width: 210px;
+}
+    .slider-news {
+        width: 277px;
+        left: 56px;
+}
+    .img-database {
+        right: -136px;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 33px;
+    top: 38px;
+}
+    .slider-remove  {
+        right: 181px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left:-88px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 243px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 243px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 243px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 243px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .slider-content {
+        left: 227px;
+         width: 114px;
+}
+    .group-slider1, .group-slider2 {
+        width: 147px;
+}
+    .form-slider {
+        height: 305px;
+}
+    .slider-add-success {
+        width: 172px;
+        left: 19px;
+}
+      .fetch-news {
+           width: 313px;
+          left: 47px;
+}
+    .group-news .input-news {
+        width: 282px;
+        left: 1px;
+        top: -5px;
+    }
+    .input-submit {
+       left: 124px;
+        top: 4px;
+}
+    .input-edit {
+        width: 296px;
+        position: relative;
+        left: -129px;
+        top: -14px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .lebal-edit {
+        left: -28px;
+        top: -12px;
+}
+    .btn1-edit {
+        left: -13px;
+        top: 5px;
+}
+    .addnews {
+        left: 160px;
+}
+    .update-news {
+        right: -48px;
+        top: 5px;
+}
+    .remove-news {
+       right: 83px;
+        top: 4px;
+}
+    .input-del {
+        width: 313px;
+        position: relative;
+        right: 140px;
+        top: -8px;
+    }
+    .btn-del {
+        top: 5px;
+        left: -8px;
+}
+    .lebal-news {
+        left: 102px;
+        top: 2px;
+    }
+    .lebal-del {
+        left: -22px;
+        top: -8px
+}
+         .group-res {
+        left: 85px;
+        width: 0;
+}
+    .group-res1, .group-res2, .group-res3 {
+        width: 188px;
+}
+    .input-res1, .input-res2, .input-res3 {
+        width: 226px;
+
+}
+    .lebal-result-1, .lebal-result-2, .lebal-result-3 {
+        left: -6px;
+        width: 200px;
+        white-space: nowrap;
+}
+    .input-submit-res {
+        left: 78px;
+}
+    .h2-res {
+        left: 164px;
+        font-size: 22px;
+}
+      .res-alert {
+        top: 154px;
+        left: 9px;
+}
+    .res-alert {
+        left: 21px;
+}
+    .content-of-std {
+        width: 356px;
+        position: relative;
+        top: -225px;
+        left: 39px;
+}
+    .btn-att1 {
+        position: relative;
+        top: -381px;
+        left: 184px;
+}
+    .btn-att2 {
+        position: relative;
+        top: -331px;
+        left: 75px;
+}
+    .btn-att3 {
+        position: relative;
+        top: -282px;
+        left: -41px;
+}
+    .btn-show1 {
+        position: relative;
+        top: -257px;
+        left: 173px;
+}
+    .btn-ins1 {
+        position: relative;
+        top: -256px;
+        left: -68px;
+}
+    .alert-show-att1 {
+        position: relative;
+        width: 290px;
+        top: -223px;
+        left: 48px;
+        text-align: right;
+}
+    .update-std {
+    position: relative;
+    left: -47px;
+}
+    .delete-std {
+    position: relative;
+    top: 0px;
+    left: -191px;
+}
+    .alert-att-edit {
+        width: 118px;
+        position: relative;
+        top: -1000px;
+        left: 44px;
+}
+}
+/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:667px) and (max-width:735px){
+       .h2setting {
+        position: absolute;
+        top: 135px;
+        left: 178px;
+        font-size: 18px;
+        color: #1f4b68 !important;
+                }
+
+    .content-of-setting {
+        right: 348px;
+        width: 196px;
+        top:242px;
+        height: 458px;
+    }
+    .input-sitename {
+        right: 4px;
+        width: 156px;
+    }
+    .input-siteemail {
+        right: 4px;
+        width: 156px;
+    }
+    .input-sitephone, .input-siteaddress {
+        position: relative;
+        right: 15px;
+        width: 156px;
+}
+     .errorname {
+        position: absolute;
+        top: 117px;
+        left: 8px;
+        width: 158px;
+    }
+    .content-of-setting .label1 {
+        right: -46px;
+}
+    .label-email {
+        right: -42px;
+
+}
+    .label-phone, .label-address {
+        left: 56px;
+    }
+    .content-of-setting .label2 {
+        left: 52px;
+}
+    select {
+        right: 56px;
+    }
+    .btn-danger {
+    right: -56px;
+}
+    .success-setting {
+    position: absolute;
+    top: 104px;
+    left: 8px;
+}
+     .content-of-about-school {
+            top: 203px;
+            left: 110px;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 62px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 80px;
+}
+    .input-address-news {
+        width: 213px;
+}
+    textarea {
+        width: 213px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 19px;
+        width: 211px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 68px
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 35px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+    .btn-slidermain {
+        left: 32px;
+        width: 153px;
+}
+       .btn-slider {
+        left: 78px;
+        width: 126px;
+    }
+          .btn-slider {
+    left: 78px;
+    width: 99px;
+}
+    .input-slider {
+        width: 225px;
+        left: -153px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left: -67px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -152px;
+    width: 210px;
+}
+    .slider-news {
+        width: 277px;
+        left: 56px;
+}
+    .img-database {
+        right: -136px;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 33px;
+    top: 38px;
+}
+    .slider-remove  {
+        right: 181px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left:-88px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 243px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 243px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 243px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 243px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .slider-content {
+        left: 227px;
+         width: 114px;
+}
+    .group-slider1, .group-slider2 {
+        width: 147px;
+}
+    .form-slider {
+        height: 305px;
+}
+    .slider-add-success {
+        width: 172px;
+        left: 19px;
+}
+    .fetch-news {
+           width: 313px;
+          left: 73px;
+}
+    .group-news .input-news {
+        width: 349px;
+        left: 1px;
+        top: -5px;
+    }
+    .input-submit {
+       left: 151px;
+        top: 4px;
+}
+    .input-edit {
+        width: 347px;
+        position: relative;
+        left: -129px;
+        top: -14px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .lebal-edit {
+        left: -4px;
+        top: -12px;
+}
+    .btn1-edit {
+        left: 22px;
+        top: 5px;
+}
+    .addnews {
+        left: 186px;
+}
+    .update-news {
+        right: -48px;
+        top: 5px;
+}
+    .remove-news {
+       right: 83px;
+        top: 4px;
+}
+    .input-del {
+        width: 378px;
+        position: relative;
+        right: 140px;
+        top: -8px;
+    }
+    .btn-del {
+        top: 5px;
+        left: 18px;
+}
+    .lebal-news {
+        left: 126px;
+        top: 2px;
+    }
+    .lebal-del {
+        left: 3px;
+        top: -8px
+}
+      .group-res {
+        left: 126px;
+        width: 0;
+}
+    .group-res1, .group-res2, .group-res3 {
+        width: 188px;
+}
+    .input-res1, .input-res2, .input-res3 {
+        width: 226px;
+
+}
+    .lebal-result-1, .lebal-result-2, .lebal-result-3 {
+        left: -6px;
+        width: 200px;
+        white-space: nowrap;
+}
+    .input-submit-res {
+        left: 78px;
+}
+    .h2-res {
+        left: 212px;
+        font-size: 22px;
+}
+      .res-alert {
+        top: 154px;
+        left: 9px;
+}
+    .res-alert {
+        left: 21px;
+}
+     .content-of-std {
+        width: 356px;
+        position: relative;
+        top: -225px;
+        left: 73px;
+}
+    .btn-att1 {
+        position: relative;
+        top: -381px;
+        left: 184px;
+}
+    .btn-att2 {
+        position: relative;
+        top: -331px;
+        left: 75px;
+}
+    .btn-att3 {
+        position: relative;
+        top: -282px;
+        left: -41px;
+}
+    .btn-show1 {
+        position: relative;
+        top: -257px;
+        left: 173px;
+}
+    .btn-ins1 {
+        position: relative;
+        top: -256px;
+        left: -68px;
+}
+    .alert-show-att1 {
+        position: relative;
+        width: 290px;
+        top: -223px;
+        left: 78px;
+        text-align: right;
+}
+    .update-std {
+    position: relative;
+    left: -47px;
+}
+    .delete-std {
+    position: relative;
+    top: 0px;
+    left: -191px;
+}
+    .alert-att-edit {
+        width: 118px;
+        position: relative;
+        top: -1000px;
+        left: 44px;
+}
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:736px) and (max-width:799px){
+    .h2setting {
+        position: absolute;
+        top: 135px;
+        left: 185px;
+        font-size: 18px;
+        color: #1f4b68 !important;
+                }
+
+    .content-of-setting {
+        right: 386px;
+        width: 196px;
+        top:242px;
+        height: 458px;
+    }
+    .input-sitename {
+        right: 4px;
+        width: 156px;
+    }
+    .input-siteemail {
+        right: 4px;
+        width: 156px;
+    }
+    .input-sitephone, .input-siteaddress {
+        position: relative;
+        right: 15px;
+        width: 156px;
+}
+     .errorname {
+        position: absolute;
+        top: 117px;
+        left: 8px;
+        width: 158px;
+    }
+    .content-of-setting .label1 {
+        right: -46px;
+}
+    .label-email {
+        right: -42px;
+
+}
+    .label-phone, .label-address {
+        left: 56px;
+    }
+    .content-of-setting .label2 {
+        left: 52px;
+}
+    select {
+        right: 56px;
+    }
+    .btn-danger {
+    right: -56px;
+}
+    .success-setting {
+    position: absolute;
+    top: 104px;
+    left: 8px;
+}
+      .content-of-about-school {
+            top: 203px;
+            left: 119px;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 62px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 80px;
+}
+    .input-address-news {
+        width: 213px;
+}
+    textarea {
+        width: 213px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 19px;
+        width: 211px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 68px
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 35px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+    .btn-slidermain {
+        left: 47px;
+        width: 153px;
+}
+       .btn-slider {
+        left: 111px;
+        width: 126px;
+    }
+        .btn-slider {
+    left: 78px;
+    width: 99px;
+}
+    .input-slider {
+        width: 225px;
+        left: -153px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left: -67px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -152px;
+    width: 210px;
+}
+    .slider-news {
+        width: 277px;
+        left: 56px;
+}
+    .img-database {
+        right: -136px;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 33px;
+    top: 38px;
+}
+    .slider-remove  {
+        right: 181px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left:-88px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 243px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 243px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 243px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 243px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .slider-content {
+        left: 227px;
+         width: 114px;
+}
+    .group-slider1, .group-slider2 {
+        width: 147px;
+}
+    .form-slider {
+        height: 305px;
+}
+    .slider-add-success {
+        left: 92px;
+}
+     .fetch-news {
+           width: 313px;
+          left: 73px;
+}
+    .group-news .input-news {
+        width: 349px;
+        left: 1px;
+        top: -5px;
+    }
+    .input-submit {
+       left: 151px;
+        top: 4px;
+}
+    .input-edit {
+        width: 347px;
+        position: relative;
+        left: -129px;
+        top: -14px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .lebal-edit {
+        left: -4px;
+        top: -12px;
+}
+    .btn1-edit {
+        left: 22px;
+        top: 5px;
+}
+    .addnews {
+        left: 186px;
+}
+    .update-news {
+        right: -48px;
+        top: 5px;
+}
+    .remove-news {
+       right: 83px;
+        top: 4px;
+}
+    .input-del {
+        width: 378px;
+        position: relative;
+        right: 140px;
+        top: -8px;
+    }
+    .btn-del {
+        top: 5px;
+        left: 18px;
+}
+    .lebal-news {
+        left: 126px;
+        top: 2px;
+    }
+    .lebal-del {
+        left: 3px;
+        top: -8px
+}
+       .group-res {
+        left: 138px;
+        width: 0;
+}
+    .group-res1, .group-res2, .group-res3 {
+        width: 188px;
+}
+    .input-res1, .input-res2, .input-res3 {
+        width: 226px;
+
+}
+    .lebal-result-1, .lebal-result-2, .lebal-result-3 {
+        left: -6px;
+        width: 200px;
+        white-space: nowrap;
+}
+    .input-submit-res {
+        left: 78px;
+}
+    .h2-res {
+        left: 212px;
+        font-size: 22px;
+}
+      .res-alert {
+        top: 154px;
+        left: 9px;
+}
+    .res-alert {
+        left: 21px;
+}
+    .content-of-std {
+        width: 356px;
+        position: relative;
+        top: -225px;
+        left: 104px;
+}
+    .btn-att1 {
+        position: relative;
+        top: -381px;
+        left: 184px;
+}
+    .btn-att2 {
+        position: relative;
+        top: -331px;
+        left: 75px;
+}
+    .btn-att3 {
+        position: relative;
+        top: -282px;
+        left: -41px;
+}
+    .btn-show1 {
+        position: relative;
+        top: -257px;
+        left: 256px;
+}
+    .btn-ins1 {
+        position: relative;
+        top: -256px;
+        left: 4px;
+}
+    .alert-show-att1 {
+        position: relative;
+        width: 290px;
+        top: -223px;
+        left: 98px;
+        text-align: right;
+}
+    .update-std {
+    position: relative;
+    left: -47px;
+}
+    .delete-std {
+    position: relative;
+    top: 0px;
+    left: -191px;
+}
+    .alert-att-edit {
+        width: 118px;
+        position: relative;
+        top: -1000px;
+        left: 44px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:800px) and (max-width:852px){
+    .h2setting {
+        position: absolute;
+        top: 135px;
+        left: 237px;
+        font-size: 18px;
+        color: #1f4b68 !important;
+                }
+
+    .content-of-setting {
+        right: 417px;
+        width: 196px;
+        top:242px;
+        height: 458px;
+    }
+    .input-sitename {
+        right: 4px;
+        width: 156px;
+    }
+    .input-siteemail {
+        right: 4px;
+        width: 156px;
+    }
+    .input-sitephone, .input-siteaddress {
+        position: relative;
+        right: 15px;
+        width: 156px;
+}
+     .errorname {
+        position: absolute;
+        top: 117px;
+        left: 8px;
+        width: 158px;
+    }
+    .content-of-setting .label1 {
+        right: -46px;
+}
+    .label-email {
+        right: -42px;
+
+}
+    .label-phone, .label-address {
+        left: 56px;
+    }
+    .content-of-setting .label2 {
+        left: 52px;
+}
+    select {
+        right: 56px;
+    }
+    .btn-danger {
+    right: -56px;
+}
+    .success-setting {
+    position: absolute;
+    top: 104px;
+    left: 8px;
+}
+      .content-of-about-school {
+            top: 203px;
+            left: 135px;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 62px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 80px;
+}
+    .input-address-news {
+        width: 213px;
+}
+    textarea {
+        width: 213px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 19px;
+        width: 211px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 68px
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 35px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+    .btn-slidermain {
+        left: 74px;
+        width: 153px;
+}
+       .btn-slider {
+        left: 148px;
+        width: 126px;
+    }
+        .btn-slider {
+    left: 78px;
+    width: 99px;
+}
+    .input-slider {
+        width: 297px;
+        left: -153px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left: -31px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -152px;
+    width: 210px;
+}
+    .slider-news {
+        width: 277px;
+        left: 115px;
+}
+    .img-database {
+        right: -136px;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 33px;
+    top: 38px;
+}
+    .slider-remove  {
+        right: 181px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left:-45px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 243px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 243px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 243px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 243px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .slider-content {
+        left: 227px;
+         width: 114px;
+}
+    .group-slider1, .group-slider2 {
+        width: 147px;
+}
+    .form-slider {
+        height: 305px;
+}
+    .slider-add-success {
+        left: 92px;
+}
+     .fetch-news {
+           width: 313px;
+           left: 115px;
+}
+    .group-news .input-news {
+        width: 349px;
+        left: 44px;
+        top: -5px;
+    }
+    .input-submit {
+       left: 187px;
+        top: 4px;
+}
+    .input-edit {
+        width: 347px;
+        position: relative;
+        left: -129px;
+        top: -14px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .lebal-edit {
+        left: -4px;
+        top: -12px;
+}
+    .btn1-edit {
+        left: 22px;
+        top: 5px;
+}
+    .addnews {
+        left: 231px;
+}
+    .update-news {
+        right: -48px;
+        top: 5px;
+}
+    .remove-news {
+       right: 83px;
+        top: 4px;
+}
+    .input-del {
+        width: 378px;
+        position: relative;
+        right: 140px;
+        top: -8px;
+    }
+    .btn-del {
+        top: 5px;
+        left: 18px;
+}
+    .lebal-news {
+        left: 171px;
+        top: 2px;
+    }
+    .lebal-del {
+        left: 3px;
+        top: -8px
+}
+    .edit-news {
+        top: -345px;
+        left: 227px;
+}
+    .del-news {
+        top: -345px;
+        left: 222px;
+}
+       .group-res {
+        left: 138px;
+        width: 0;
+}
+    .group-res1, .group-res2, .group-res3 {
+        width: 188px;
+}
+    .input-res1, .input-res2, .input-res3 {
+        width: 274px;
+
+}
+    .lebal-result-1, .lebal-result-2, .lebal-result-3 {
+        left: -6px;
+        width: 200px;
+        white-space: nowrap;
+}
+    .input-submit-res {
+        left: 96px;
+}
+    .h2-res {
+        left: 245px;
+        font-size: 22px;
+}
+      .res-alert {
+        top: 154px;
+        left: 9px;
+}
+    .res-alert {
+        left: 21px;
+}
+     .content-of-std {
+        width: 356px;
+        position: relative;
+        top: -225px;
+        left: 104px;
+}
+    .btn-att1 {
+        position: relative;
+        top: -381px;
+        left: 184px;
+}
+    .btn-att2 {
+        position: relative;
+        top: -331px;
+        left: 75px;
+}
+    .btn-att3 {
+        position: relative;
+        top: -282px;
+        left: -41px;
+}
+    .btn-show1 {
+        position: relative;
+        top: -257px;
+        left: 256px;
+}
+    .btn-ins1 {
+        position: relative;
+        top: -256px;
+        left: 4px;
+}
+    .alert-show-att1 {
+        position: relative;
+        width: 290px;
+        top: -223px;
+        left: 98px;
+        text-align: right;
+}
+    .update-std {
+    position: relative;
+    left: -47px;
+}
+    .delete-std {
+    position: relative;
+    top: 0px;
+    left: -191px;
+}
+    .alert-att-edit {
+        width: 118px;
+        position: relative;
+        top: -1000px;
+        left: 44px;
+}
+}
+/*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:853px) and (max-width:950px){
+    .h2setting {
+        position: absolute;
+        top: 135px;
+        left: 237px;
+        font-size: 18px;
+        color: #1f4b68 !important;
+                }
+
+    .content-of-setting {
+        right: 476px;
+        width: 196px;
+        top:242px;
+        height: 458px;
+    }
+    .input-sitename {
+        right: 4px;
+        width: 156px;
+    }
+    .input-siteemail {
+        right: 4px;
+        width: 156px;
+    }
+    .input-sitephone, .input-siteaddress {
+        position: relative;
+        right: 15px;
+        width: 156px;
+}
+     .errorname {
+        position: absolute;
+        top: 117px;
+        left: 8px;
+        width: 158px;
+    }
+    .content-of-setting .label1 {
+        right: -46px;
+}
+    .label-email {
+        right: -42px;
+
+}
+    .label-phone, .label-address {
+        left: 56px;
+    }
+    .content-of-setting .label2 {
+        left: 52px;
+}
+    select {
+        right: 56px;
+    }
+    .btn-danger {
+    right: -56px;
+}
+    .success-setting {
+    position: absolute;
+    top: 104px;
+    left: 8px;
+}
+    .content-of-about-school {
+            top: 203px;
+            left: 174px;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 62px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 80px;
+}
+    .input-address-news {
+        width: 213px;
+}
+    textarea {
+        width: 213px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 19px;
+        width: 211px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 68px
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 35px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+    .btn-slidermain {
+        left: 96px;
+        width: 153px;
+}
+       .btn-slider {
+        left: 148px;
+        width: 126px;
+    }
+     .input-slider {
+        width: 373px;
+        left: -153px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left: 19px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -62px;
+    width: 210px;
+}
+    .slider-news {
+        width: 277px;
+        left: 129px;
+}
+    .img-database {
+        right: -136px;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 33px;
+    top: 38px;
+}
+    .slider-remove  {
+        right: 181px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left:-5px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 243px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 243px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 243px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 243px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .slider-content {
+        left: 227px;
+         width: 114px;
+}
+    .group-slider1, .group-slider2 {
+        width: 147px;
+}
+    .form-slider {
+        height: 305px;
+}
+    .slider-add-success {
+        left: 92px;
+}
+     .fetch-news {
+           width: 313px;
+           left: 115px;
+}
+    .group-news .input-news {
+        width: 349px;
+        left: 44px;
+        top: -5px;
+    }
+    .input-submit {
+       left: 187px;
+        top: 4px;
+}
+    .input-edit {
+        width: 347px;
+        position: relative;
+        left: -129px;
+        top: -14px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .lebal-edit {
+        left: -4px;
+        top: -12px;
+}
+    .btn1-edit {
+        left: 22px;
+        top: 5px;
+}
+    .addnews {
+        left: 231px;
+}
+    .update-news {
+        right: -48px;
+        top: 5px;
+}
+    .remove-news {
+       right: 83px;
+        top: 4px;
+}
+    .input-del {
+        width: 378px;
+        position: relative;
+        right: 140px;
+        top: -8px;
+    }
+    .btn-del {
+        top: 5px;
+        left: 18px;
+}
+    .lebal-news {
+        left: 171px;
+        top: 2px;
+    }
+    .lebal-del {
+        left: 3px;
+        top: -8px
+}
+    .edit-news {
+        top: -345px;
+        left: 227px;
+}
+    .del-news {
+        top: -345px;
+        left: 222px;
+}
+    .group-res {
+        top: -303px;
+        left: 50px;
+}
+    .h2-res {
+        left: 226px;
+}
+     .content-of-std {
+        width: 356px;
+        position: relative;
+        top: -225px;
+        left: 133px;
+}
+    .btn-att1 {
+        position: relative;
+        top: -381px;
+        left: 271px;
+}
+    .btn-att2 {
+        position: relative;
+        top: -331px;
+        left: 159px;
+}
+    .btn-att3 {
+        position: relative;
+        top: -282px;
+        left: 44px;
+}
+    .btn-show1 {
+        position: relative;
+        top: -257px;
+        left: 297px;
+}
+    .btn-ins1 {
+        position: relative;
+        top: -256px;
+        left: 37px;
+}
+    .alert-show-att1 {
+        position: relative;
+        width: 290px;
+        top: -223px;
+        left: 136px;
+        text-align: right;
+}
+    .update-std {
+    position: relative;
+    left: -47px;
+}
+    .delete-std {
+    position: relative;
+    top: 0px;
+    left: -191px;
+}
+    .alert-att-edit {
+        width: 118px;
+        position: relative;
+        top: -1000px;
+        left: 44px;
+}
+}
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:951px) and (max-width:1150px){
+.h2setting {
+        left: 245px;
+}
+    .content-of-setting {
+        position: absolute;
+        top: 264px;
+        right: 486px;
+        height: 425px;
+}
+.content-of-setting .label1{
+    text-align: center;
+    position: relative;
+    right: 35px;
+    font-weight: bold;
+    top: -76px;
+}
+select {
+    word-wrap: normal;
+    position: relative;
+    right: 133px;
+    top: 56px;
+    width: 73px;
+    height: 33px;
+}
+.btn-submit-setting{
+    position: relative !important;
+    top: 71px !important;
+
+}
+.content-of-setting .label2 {
+    top: 13px;
+    left: -20px;
+    font-weight: bold;
+}
+.input-sitename{
+    position: absolute;
+    right: 72px;
+    text-align: center;
+    top: -77px;
+    width: 202px;
+}
+.input-siteemail{
+    position: absolute;
+    right: 72px;
+    text-align: center;
+    top: -50px;
+    margin-top: 17px;
+    width: 202px;
+
+}
+.label-email{
+    text-align: center;
+    position: relative;
+    right: 35px;
+    font-weight: bold;
+    top: -28px;
+}
+.label-phone,.label-address{
+    position: relative;
+    margin-top: 13px;
+    left: -5px;
+    font-weight: bold;
+}
+.input-sitephone,.input-siteaddress {
+    position: relative;
+    right: 87px;
+    width: 204px;
+}
+    .success-setting {
+        position: absolute;
+        top: 104px;
+        left: 8px;
+    }
+    .errorname {
+        position: absolute;
+        top: 138px;
+        left: 12px;
+}
+    .content-of-about-school {
+            top: 203px;
+            left: 200px;
+}
+    .h2about {
+        font-size: 17px;
+        top: -49px;
+        left: 49px;
+}
+    .label-add {
+        position: relative;
+        left: 83px;
+        font-weight: bold;
+        width: 216px;
+}
+    .label-text {
+
+        left: 90px;
+}
+    .input-address-news {
+        width: 260px;
+}
+    textarea {
+        width: 260px;
+}
+    .label-img {
+        right: -65px;
+}
+    .fileimg {
+        left: 19px;
+        width: 211px;
+}
+    .danger-img {
+        position: absolute;
+        top: 104px;
+        left: 68px
+}
+    .danger-add {
+        position: absolute;
+        top: 106px;
+        left: 35px;
+}
+    .danger-text {
+        position: absolute;
+        top: 105px;
+        left: 28px;
+}
+    .success-about {
+        position: absolute;
+        top: 116px;
+        left: 1px;
+}
+    .btn-slidermain {
+        left: 142px;
+        width: 153px;
+}
+       .btn-slider {
+        left: 223px;
+        width: 126px;
+    }
+    .input-slider {
+        width: 373px;
+        left: -79px;
+        position: relative;
+}
+    .label-slider {
+        position: relative;
+        left: 86px;
+        font-weight: bold;
+}
+   .file-slider {
+    position: relative;
+    left: -9px;
+    width: 210px;
+}
+    .slider-news {
+        width: 277px;
+        left: 188px;
+}
+    .img-database {
+        right: -136px;
+}
+    .date {
+        top: -51px;
+        left: -59px;
+}
+    .slider-update {
+    right: 33px;
+    top: 38px;
+}
+    .slider-remove  {
+        right: 181px;
+}
+    .submit-slider {
+        position: relative;
+        top: -16px;
+        left:64px;
+}
+    .slider-add-alert {
+        top: -350px;
+        width: 243px;
+        left: 18px;
+}
+    .slider-edit-success {
+        width: 243px;
+        left: 21px;
+}
+    .slider-edit-alert {
+        top: -350px;
+        width: 243px;
+        left: 21px;
+}
+    .slider-del-alert {
+        width: 243px;
+        left: 20px;
+}
+    .slider-del-success {
+        width: 157px;
+        left: 22px;
+}
+    .slider-content {
+        left: 227px;
+         width: 114px;
+}
+    .group-slider1, .group-slider2 {
+        width: 147px;
+}
+    .form-slider {
+        height: 305px;
+}
+    .slider-add-success {
+        left: 253px;
+}
+     .fetch-news {
+           width: 313px;
+           left: 214px;
+}
+    .group-news .input-news {
+        width: 349px;
+        left: 44px;
+        top: -5px;
+    }
+    .input-submit {
+       left: 187px;
+        top: 4px;
+}
+    .input-edit {
+        width: 347px;
+        position: relative;
+        left: -129px;
+        top: -14px;
+}
+    .news-alert {
+        top: 280px;
+        left: 23px;
+}
+    .lebal-edit {
+        left: -4px;
+        top: -12px;
+}
+    .btn1-edit {
+        left: 22px;
+        top: 5px;
+}
+    .addnews {
+        left: 334px;
+}
+    .update-news {
+        right: -48px;
+        top: 5px;
+}
+    .remove-news {
+       right: 83px;
+        top: 4px;
+}
+    .input-del {
+        width: 378px;
+        position: relative;
+        right: 140px;
+        top: -8px;
+    }
+    .btn-del {
+        top: 5px;
+        left: 18px;
+}
+    .lebal-news {
+        left: 171px;
+        top: 2px;
+    }
+    .lebal-del {
+        left: 3px;
+        top: -8px
+}
+    .edit-news {
+        top: -345px;
+        left: 325px;
+}
+    .del-news {
+        top: -345px;
+        left: 322px;
+}
+    .group-news {
+        top: -357px;
+        left: 154px;
+}
+    .group-res{
+    position: relative;
+    top: -303px;
+    left: 111px;
+    width: 491px;
+}
+.group-res1,.group-res2,.group-res3{
+    width: 453px;
+}
+.input-res1,.input-res2,.input-res3{
+    width: 449px;
+}
+.input-submit-res {
+    top: 22px;
+    left: 194px;
+}
+.lebal-result-1,.lebal-result-2,.lebal-result-3{
+    position: relative;
+    left: 129px;
+    font-weight: bold;
+    width: 200px;
+
+}
+.h2-res{
+    position: relative;
+    top: -334px;
+    left: 287px;
+    color:#1f4b68 !important
+}
+.res-alert {
+    position: absolute;
+    top: 168px;
+    left: 509px;
+}
+.form-res{
+        height: 70px
+}
+     .content-of-std {
+        width: 356px;
+        position: relative;
+        top: -225px;
+        left: 133px;
+}
+    .btn-att1 {
+        position: relative;
+        top: -381px;
+        left: 271px;
+}
+    .btn-att2 {
+        position: relative;
+        top: -331px;
+        left: 159px;
+}
+    .btn-att3 {
+        position: relative;
+        top: -282px;
+        left: 44px;
+}
+    .btn-show1 {
+        position: relative;
+        top: -257px;
+        left: 297px;
+}
+    .btn-ins1 {
+        position: relative;
+        top: -256px;
+        left: 37px;
+}
+    .alert-show-att1 {
+        position: relative;
+        width: 290px;
+        top: -223px;
+        left: 136px;
+        text-align: right;
+}
+    .update-std {
+    position: relative;
+    left: -47px;
+}
+    .delete-std {
+    position: relative;
+    top: 0px;
+    left: -191px;
+}
+    .alert-att-edit {
+        width: 118px;
+        position: relative;
+        top: -1000px;
+        left: 44px;
+}
+}
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:1151px) and (max-width:1299px){
+    .h2setting {
+        left: 295px;
+}
+    .content-of-setting {
+    position: absolute;
+    top: 264px;
+    right: 542px;
+    height: 425px;
+}
+.content-of-setting .label1{
+    text-align: center;
+    position: relative;
+    right: 35px;
+    font-weight: bold;
+    top: -76px;
+}
+select {
+    word-wrap: normal;
+    position: relative;
+    right: 133px;
+    top: 56px;
+    width: 73px;
+    height: 33px;
+}
+.btn-submit-setting{
+    position: relative !important;
+    top: 71px !important;
+
+}
+.content-of-setting .label2 {
+    top: 13px;
+    left: -20px;
+    font-weight: bold;
+}
+.input-sitename{
+    position: absolute;
+    right: 72px;
+    text-align: center;
+    top: -77px;
+    width: 202px;
+}
+.input-siteemail{
+    position: absolute;
+    right: 72px;
+    text-align: center;
+    top: -50px;
+    margin-top: 17px;
+    width: 202px;
+
+}
+.label-email{
+    text-align: center;
+    position: relative;
+    right: 35px;
+    font-weight: bold;
+    top: -28px;
+}
+.label-phone,.label-address{
+    position: relative;
+    margin-top: 13px;
+    left: -5px;
+    font-weight: bold;
+}
+.input-sitephone,.input-siteaddress {
+    position: relative;
+    right: 87px;
+    width: 204px;
+}
+    .success-setting {
+        position: absolute;
+        top: 540px;
+        left: 79px;
+}
+    .content-of-about-school {
+    position: absolute;
+    top: 203px;
+    left: 298px;
+}
+.input-address-news{
+    width: 262px;
+    margin-bottom: 17px;
+    direction: rtl;
+}
+.label-add{
+    position: relative;
+    left: 97px;
+    font-weight: bold;
+}
+.label-text{
+    position: relative;
+    left: 111px;
+    font-weight: bold;
+}
+textarea{
+    margin-top: 0px;
+    margin-bottom: 0;
+    height: 122px;
+    width: 264px;
+    resize:none;
+    direction:rtl;
+    margin-bottom: 17px;
+}
+.fileimg{
+    position: absolute;
+    left: 56px;
+    margin-bottom: 17px;
+}
+.label-img{
+    position: relative;
+    right: -103px;
+    font-weight: bold;
+}
+.danger-about{
+    position: relative;
+    right: -115px;
+    top: 54px;
+}
+.h2about {
+    position: absolute;
+    top: -54px;
+    left: 70px;
+    width: 165px;
+    color: #1f4b68 !important;
+}
+.danger-add{
+    position: absolute;
+    top: 226px;
+    left: 74px;
+}
+.danger-text {
+    position: absolute;
+    top: 357px;
+    left: 103px;
+}
+.danger-img {
+    position: absolute;
+    top: 487px;
+    left: 103px;
+}
+.success-about{
+    position: absolute;
+    top: 543px;
+    left: 130px;
+}
+.h2about {
+        width: 182px;
+}
+    .btn-att1 {
+        left: 635px;
+}
+    .btn-att2 {
+        left: 527px;
+}
+    .btn-att3 {
+        left: 415px;
+}
+    .alert-show-att1 {
+        left: 95px;
+}
+}
+/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:1300px){
+    .content-of-setting {
+    position: absolute;
+    top: 264px;
+    right: 678px;
+    height: 400px;
+}
+.content-of-setting .label1{
+    text-align: center;
+    position: relative;
+    right: 35px;
+    font-weight: bold;
+    top: -76px;
+}
+select {
+    word-wrap: normal;
+    position: relative;
+    right: 133px;
+    top: 56px;
+    width: 73px;
+    height: 33px;
+}
+.btn-submit-setting{
+    position: relative !important;
+    top: 71px !important;
+
+}
+.content-of-setting .label2 {
+    top: 13px;
+    left: -20px;
+    font-weight: bold;
+}
+.input-sitename{
+    position: absolute;
+    right: 72px;
+    text-align: center;
+    top: -77px;
+    width: 202px;
+}
+.input-siteemail{
+    position: absolute;
+    right: 72px;
+    text-align: center;
+    top: -50px;
+    margin-top: 17px;
+    width: 202px;
+
+}
+.label-email{
+    text-align: center;
+    position: relative;
+    right: 35px;
+    font-weight: bold;
+    top: -28px;
+}
+.label-phone,.label-address{
+    position: relative;
+    margin-top: 13px;
+    left: -5px;
+    font-weight: bold;
+}
+.input-sitephone,.input-siteaddress {
+    position: relative;
+    right: 87px;
+    width: 204px;
+}
+.success-setting {
+    position: absolute;
+    top: 540px;
+    left: 102px;
+}
+    .h2setting {
+        left: 369px;
+}
+    .content-of-about-school {
+    position: absolute;
+    top: 203px;
+    left: 298px;
+}
+.input-address-news{
+    width: 262px;
+    margin-bottom: 17px;
+    direction: rtl;
+}
+.label-add{
+    position: relative;
+    left: 97px;
+    font-weight: bold;
+}
+.label-text{
+    position: relative;
+    left: 111px;
+    font-weight: bold;
+}
+textarea{
+    margin-top: 0px;
+    margin-bottom: 0;
+    height: 122px;
+    width: 264px;
+    resize:none;
+    direction:rtl;
+    margin-bottom: 17px;
+}
+.fileimg{
+    position: absolute;
+    left: 56px;
+    margin-bottom: 17px;
+}
+.label-img{
+    position: relative;
+    right: -103px;
+    font-weight: bold;
+}
+.danger-about{
+    position: relative;
+    right: -115px;
+    top: 54px;
+}
+.h2about {
+    position: absolute;
+    top: -54px;
+    left: 70px;
+    width: 165px;
+    color: #1f4b68 !important;
+}
+.danger-add{
+    position: absolute;
+    top: 226px;
+    left: 74px;
+}
+.danger-text {
+    position: absolute;
+    top: 357px;
+    left: 103px;
+}
+.danger-img {
+    position: absolute;
+    top: 487px;
+    left: 103px;
+}
+.success-about{
+    position: absolute;
+    top: 543px;
+    left: 130px;
+}
+    .h2about {
+        width: 192px;
+}
+    .content-of-std {
+    width: 401px;
+    position: relative;
+    top: -300px;
+    left: 229px;
+}
+.label-id-std{
+    position: relative;
+    left: 72px;
+    font-weight: bold;
+}
+.input-id-std{
+    margin-bottom: 18px;
+    text-align: right;
+}
+.label-name-std{
+    position: relative;
+    left: 105px;
+    font-weight: bold;
+}
+.input-name-std{
+    margin-bottom: 18px;
+    text-align: right;
+}
+.input-day-std{
+    text-align: right;
+}
+.label-day-std{
+    position: relative;
+    left: 94px;
+    font-weight: bold;
+}
+.std_btn {
+    position: relative;
+    top: 30px;
+    left: 131px;
+}
+.first-att {
+    height: 344px;
+}
+.alert-att {
+    width: 269px;
+    position: relative;
+    top: -376px;
+    left: 79px;
+}
+.alert-show-att1{
+    position: relative;
+    width: 498px;
+    top: -317px;
+    left: 147px;
+    text-align: right;
+}
+.p-att1{
+    font-weight: bold;
+    color: black;
+}
+.span-att1{
+    color: #0062cc;
+}
+.span-att2{
+    color: #1e7e34;
+}
+.span-att3{
+    color: #dc3545;
+}
+.update-std{
+    position: relative;
+    left: -262px;
+}
+.delete-std {
+    position: relative;
+    top: 0px;
+    left:-400px;
+}
+.alert-att-edit {
+    width: 269px;
+    position: relative;
+    top: -578px;
+    left: 77px;
+}
+.first-att1-del{
+    height: 188px;
+}
+}
+/*---------------------90%--------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:1497px){
+    .content-of-setting {
+    right: 800px;
+    }
+    .content-of-about-school {
+        left: 337px;
+}
+
+}
+/*---------------------80%--------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:1686px){
+    .content-of-setting {
+        right: 966px;
+    }
+    .content-of-about-school {
+        left: 420px;
+}
+
+}
+/*---------------------75%--------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:1798px){
+    .content-of-setting {
+    right: 1080px;
+    }
+    .h2setting {
+        left: 411px;
+}
+    .content-of-about-school {
+        left: 453px;
+}
+}
+/*---------------------67%--------------------------------------------------------------------------------------------------------------------------------*/
+@media(min-width:2023px){
+    .content-of-setting {
+    right: 1080px;
+    }
+    .h2setting {
+        left: 611px;
+}
+    .content-of-about-school {
+        left: 541px;
+}
+}

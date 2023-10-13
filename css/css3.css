@@ -1,0 +1,3823 @@
+
+@media(max-width:320px){
+    .header .logo {
+        width: 98px;
+        right: 8px;
+    }
+        .marquee-news {
+        right: -216px;
+    }
+    .marquee-news .marquee {
+        right: 243px;
+        width: 260px;
+    }
+    .marquee-news .marquee marquee {
+        width:158px;
+         margin-right: -13px;
+    }
+    .marquee-news .marquee p {
+    right: -79px;
+}
+        .year {
+            height: 1276px;
+            overflow: hidden
+            }
+        .first-year {
+            width: 300px;
+            top: 146px;
+            right: -14px;
+            margin-bottom: 10px;
+        }
+    .first-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+    }
+    .first-year .back-face .h3 {
+        width: 300px;
+    }
+    .second-year{
+            width: 300px;
+            top: 146px;
+            right: -14px;
+            margin-bottom: 10px;
+    }
+        .second-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+         .second-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .third-year{
+            width: 300px;
+            top: 146px;
+            right: -14px;
+            margin-bottom: 10px;
+    }
+    .third-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+     .third-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .service {
+        height: 1000px;
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 55px;
+        right: 76px;
+        }
+    .service .eduction {
+        top: 137px;
+        right:52px
+}
+
+    .service .lib {
+        top: 275px;
+        right:52px
+                }
+    .service .call {
+        top: 415px;
+        right:52px;
+
+}
+    .service .tour {
+        top: 557px;
+        right:52px
+}
+    .service .result {
+        top: 699px;
+        right:52px
+}
+    .service .absence {
+        top: 839px;
+        right:52px
+
+}
+    .circle {
+        display: none;}
+    .manager-location {
+
+        height: 1089px;
+        top: 2940px;
+
+}
+    .manager-location .manager img {
+        top: 65px;
+        right: 0px;
+        height: 100%;
+        width: 268px;
+}
+    .manager-location h2 {
+        font-size: 16px;
+        top: 481px;
+        right: 4px;
+
+}
+    .manager-location .manager-words {
+        width: 278px;
+        font-size: 15px;
+        top: 517px;
+        right: 8px;
+}
+    .address {
+        position: absolute;
+        top: 4029px;
+        height: 470px;
+}
+    iframe {
+        position: absolute;
+        top: 59px;
+        width: 260px;
+        right: 24px;
+}
+    .address .inforamtion-call {
+        display: none;
+}
+
+    footer {
+        top:4499px;
+    }
+    .footer-word {
+        position: relative;
+        right: -560px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+        font-size: 18px
+}
+    footer p:nth-of-type(2) {
+        width: 315px;
+        font-size: 18px
+}
+    .loading img {
+        right: 44px;
+}
+}
+/*--------------------------------------------------------------------------------------------------------------*/
+@media(min-width:321px) and (max-width:359px){
+        .header .logo {
+        width: 98px;
+        right: 8px;
+    }
+        .marquee-news {
+        right: -216px;
+    }
+    .marquee-news .marquee {
+        right: 243px;
+        width: 260px;
+    }
+    .marquee-news .marquee marquee {
+        width:158px;
+         margin-right: -13px;
+    }
+    .marquee-news .marquee p {
+    right: -79px;
+}
+        .year {
+            height: 1276px;
+            overflow: hidden
+            }
+        .first-year {
+            width: 265px;
+            top: 146px;
+            right: 14px;
+            margin-bottom: 10px;
+        }
+    .first-year .front-face img {
+        height: 200px;
+        position: relative;
+        top: 50px;
+        right: -59px;
+}
+    .first-year .front-face p {
+        font-size: 30px;
+        font-weight: bold;
+        position: relative;
+        top: 62px;
+        right: -16px;
+        color: white;
+}
+    .first-year .front-face span {
+        right:154px;
+        font-size: 10px;
+}
+    .first-year .back-face img {
+        width: 150px;
+        height: 200px;
+        position: relative;
+        right: -50px;
+        top: 18px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 18px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+        right: -15px;
+    }
+    .first-year .back-face .h3 {
+        width: 300px;
+    }
+    .second-year{
+            width: 265px;
+            top: 146px;
+            right: 14px;
+            margin-bottom: 10px;
+    }
+    .second-year .front-face img {
+            height: 200px;
+            position: relative;
+            top: 50px;
+            right: -29px;
+}
+    .second-year .front-face p {
+            font-size: 30px;
+            font-weight: bold;
+            position: relative;
+            top: 62px;
+            right: -13px;
+            color: white;
+}
+    .second-year .back-face img {
+            width: 150px;
+            height: 200px;
+            position: relative;
+            right: -50px;
+            top: 40px;
+}
+        .second-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+         .second-year .back-face .h3 h3 {
+            font-size: 18px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+            right: -9px;
+        }
+    .third-year{
+            width: 265px;
+            top: 146px;
+            right: 14px;
+            margin-bottom: 10px;
+    }
+    .third-year .front-face img {
+            height: 220px;
+            position: relative;
+            top: 33px;
+            right: -65px;
+}
+    .third-year .front-face p {
+            font-size: 30px;
+            font-family: 'Cairo', sans-serif;
+            font-weight: bold;
+            position: relative;
+            top: 50px;
+            right: -9px;
+            color: white;
+}
+    .third-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+    .third-year .back-face img {
+        width: 150px;
+        height: 200px;
+        position: relative;
+        right: -56px;
+        top: 51px;
+}
+     .third-year .back-face .h3 h3 {
+        font-size: 18px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+        right: -9px;
+}
+    .service {
+        height: 1000px;
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 55px;
+        right: 76px;
+        }
+    .service .eduction {
+        top: 137px;
+        right:52px
+}
+
+    .service .lib {
+        top: 275px;
+        right:52px
+                }
+    .service .call {
+        top: 415px;
+        right:52px;
+
+}
+    .service .tour {
+        top: 557px;
+        right:52px
+}
+    .service .result {
+        top: 699px;
+        right:52px
+}
+    .service .absence {
+        top: 839px;
+        right:52px
+
+}
+    .circle {
+        display: none;}
+    .manager-location {
+
+        height: 1089px;
+        top: 2940px;
+
+}
+    .manager-location .manager img {
+        top: 65px;
+        right: 9px;
+        height: 100%;
+        width: 268px;
+}
+    .manager-location h2 {
+        font-size: 16px;
+        top: 481px;
+        right: -4px;
+
+}
+    .manager-location .manager-words {
+        width: 278px;
+        font-size: 15px;
+        top: 517px;
+        right: 19px;
+}
+    .address {
+        position: absolute;
+        top: 4029px;
+        height: 470px;
+}
+    iframe {
+        position: absolute;
+        top: 59px;
+        width: 260px;
+        right: 24px;
+}
+    .address .inforamtion-call {
+        display: none;
+}
+
+    footer {
+        top:4499px;
+    }
+    .footer-word {
+        position: relative;
+        right: -560px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+        font-size: 18px
+}
+    footer p:nth-of-type(2) {
+        width: 315px;
+        font-size: 18px
+}
+.loading img {
+    right: 63px;
+}
+}
+
+/*---------------------------------------------------------------------------------------------------------*/
+@media(min-width:360px) and (max-width:374px){
+    .header .logo {
+        width: 118px;
+        right: 6px;
+}
+    .marquee-news {
+        right: -216px;
+    }
+    .marquee-news .marquee {
+        right: 263px;
+        width: 260px;
+    }
+    .marquee-news .marquee marquee {
+    width:158px;
+    }
+    .marquee-news .marquee p {
+    right: -79px;
+}
+    .year {
+            height: 1276px;
+            overflow: hidden
+            }
+        .first-year {
+            width: 300px;
+            top: 146px;
+            right: 8px;
+            margin-bottom: 10px;
+        }
+        .first-year .front-face img {
+            height: 200px;
+            position: relative;
+            top: 50px;
+            right: -84px;
+}
+    .first-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+    }
+    .first-year .back-face .h3 {
+        width: 300px;
+    }
+    .first-year .front-face p {
+        font-size: 30px;
+        font-weight: bold;
+        position: relative;
+        top: 62px;
+        right: -36px;
+        color: white;
+}
+    .first-year .front-face span {
+        right: 167px;
+        font-size: 10px;
+}
+    .second-year{
+            width: 300px;
+            top: 146px;
+            right: 8px;
+            margin-bottom: 10px;
+    }
+    .second-year .front-face p {
+            font-size: 30px;
+            font-weight: bold;
+            position: relative;
+            top: 62px;
+            right: -28px;
+            color: white;
+}
+    .second-year .front-face img {
+            height: 200px;
+            position: relative;
+            top: 50px;
+            right: -46px;
+}
+        .second-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+         .second-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .third-year{
+            width: 300px;
+            top: 146px;
+            right:8px;
+            margin-bottom: 10px;
+    }
+    .third-year .front-face p {
+            font-size: 30px;
+            font-family: 'Cairo', sans-serif;
+            font-weight: bold;
+            position: relative;
+            top: 50px;
+            right: -29px;
+            color: white;
+}
+    .third-year .front-face img {
+        height: 220px;
+        position: relative;
+        top: 33px;
+        right: -80px;
+}
+    .third-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+     .third-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+        .service {
+        height: 1000px;
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 55px;
+        right: 76px;
+        }
+    .service .eduction {
+        top: 135px;
+        right: 79px;
+}
+
+    .service .lib {
+        top: 275px;
+        right:79px;
+                }
+    .service .call {
+        top: 415px;
+        right:79px;
+
+}
+    .service .tour {
+        top: 555px;
+        right: 79px;
+}
+    .service .result {
+        top: 696px;
+        right: 79px;
+}
+    .service .absence {
+        top: 838px;
+        right: 79px;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 63px;
+        right:100px;;
+}
+    .circle {
+        display: none;}
+    .manager-location {
+        height: 1047px;
+        top: 2940px;
+}
+    .manager-location .manager img {
+        top: 65px;
+        height: 100%;
+        width: 267px;
+        right: 31px;
+}
+    .manager-location h2 {
+        font-size: 22px;
+        top: 474px;
+        right: -1px;
+}
+    .manager-location .manager-words {
+        width: 278px;
+        font-size: 14px;
+        top: 511px;
+        right: 39px;
+
+    }
+    .address {
+        position: absolute;
+        top: 3987px;
+        height: 470px;
+}
+    iframe {
+        position: absolute;
+        top: 59px;
+        width: 260px;
+        right: 38px;
+}
+    .address .inforamtion-call {
+        display: none;
+}
+        .address .inforamtion-call p:nth-of-type(1){
+        top:117px;
+        right:65px !important;
+        width:270px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(2){
+        top: 222px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+    }
+    .address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    footer {
+        top:4457px;
+    }
+    .footer-word {
+        position: relative;
+        right: -560px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+        font-size: 18px
+}
+    footer p:nth-of-type(2) {
+        width: 315px;
+        font-size: 18px
+}
+    .loading img {
+        right: 65px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------*/
+@media(min-width:375px) and (max-width:383px){
+    .header .logo {
+        width: 118px;
+        right: 6px;
+}
+    .marquee-news {
+        right: -216px;
+    }
+    .marquee-news .marquee {
+        right: 255px;
+        width: 260px;
+    }
+    .marquee-news .marquee marquee {
+    width:158px;
+    }
+    .marquee-news .marquee p {
+    right: -79px;
+}
+    .year {
+            height: 1276px;
+            overflow: hidden
+            }
+        .first-year {
+            width: 300px;
+            top: 146px;
+            right: 8px;
+            margin-bottom: 10px;
+        }
+    .first-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+    }
+    .first-year .back-face .h3 {
+        width: 300px;
+    }
+    .second-year{
+            width: 300px;
+            top: 146px;
+            right: 8px;
+            margin-bottom: 10px;
+    }
+        .second-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+         .second-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .third-year{
+            width: 300px;
+            top: 146px;
+            right:8px;
+            margin-bottom: 10px;
+    }
+    .third-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+     .third-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+        .service {
+        height: 1000px;
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 55px;
+        right: 76px;
+        }
+    .service .eduction {
+        top: 135px;
+        right: 79px;
+}
+
+    .service .lib {
+        top: 275px;
+        right:79px;
+                }
+    .service .call {
+        top: 415px;
+        right:79px;
+
+}
+    .service .tour {
+        top: 555px;
+        right: 79px;
+}
+    .service .result {
+        top: 696px;
+        right: 79px;
+}
+    .service .absence {
+        top: 838px;
+        right: 79px;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 63px;
+        right:100px;;
+}
+    .circle {
+        display: none;}
+    .manager-location {
+        height: 1047px;
+        top: 2940px;
+}
+    .manager-location .manager img {
+        top: 65px;
+        height: 100%;
+        width: 267px;
+        right: 22px;
+}
+    .manager-location h2 {
+        font-size: 22px;
+        top: 474px;
+        right: -1px;
+}
+    .manager-location .manager-words {
+        width: 278px;
+        font-size: 14px;
+        top: 511px;
+        right: 31px;
+
+    }
+    .address {
+        position: absolute;
+        top: 3987px;
+        height: 470px;
+}
+    iframe {
+        position: absolute;
+        top: 59px;
+        width: 260px;
+        right: 38px;
+}
+    .address .inforamtion-call {
+        display: none;
+}
+
+    footer {
+        top:4457px;
+    }
+    .footer-word {
+        position: relative;
+        right: -560px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+        font-size: 18px
+}
+    footer p:nth-of-type(2) {
+        width: 315px;
+        font-size: 18px
+}
+
+
+    .loading img {
+        right: 83px;
+}
+}
+/*----------------------------------------------------------------------------------------------------------*/
+
+@media (min-width:384px) and (max-width:411px){
+    .marquee-news {
+        right: -216px;
+    }
+    .marquee-news .marquee {
+        right: 243px;
+        width: 316px;
+    }
+    .marquee-news .marquee marquee {
+    width: 212px;
+    }
+    .marquee-news .marquee p {
+    right: -107px;
+}
+    .year {
+            height: 1276px;
+            overflow: hidden
+            }
+        .first-year {
+            width: 300px;
+            top: 146px;
+            right: 30px;
+            margin-bottom: 10px;
+        }
+    .first-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+    }
+    .first-year .back-face .h3 {
+        width: 300px;
+    }
+    .second-year{
+            width: 300px;
+            top: 146px;
+            right:30px;
+            margin-bottom: 10px;
+    }
+        .second-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+         .second-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .third-year{
+            width: 300px;
+            top: 146px;
+            right:30px;
+            margin-bottom: 10px;
+    }
+    .third-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+     .third-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .service {
+        height: 1000px;
+}
+    .service .eduction {
+        top: 135px;
+        right: 93px;
+}
+
+    .service .lib {
+        top: 275px;
+        right: 93px;
+                }
+    .service .call {
+        top: 415px;
+        right: 93px;
+
+}
+    .service .tour {
+        top: 555px;
+        right: 93px;
+}
+    .service .result {
+        top: 696px;
+        right: 93px;
+}
+    .service .absence {
+        top: 838px;
+        right: 93px;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 63px;
+        right: 116px;
+}
+    .circle {
+        display: none;}
+    .manager-location {
+        height:946px;
+        top: 2940px;
+        overflow: hidden
+    }
+    .manager-location .manager img {
+        top: 65px;
+        right: 8px;
+        height: 100%;
+        width: 322px;
+}
+    .manager-location h2 {
+        font-size: 22px;
+        top: 496px;
+        right: -11px;
+    }
+    .manager-location .manager-words {
+         width: 327px;
+        font-size: 15px;
+        top: 545px;
+        right: 22px;
+}
+.address {
+    position: absolute;
+    top: 3886px;
+    width: 100%;
+    height: 772px;
+
+}
+      .address .inforamtion-call p:nth-of-type(1){
+        top:117px;
+        right:65px !important;
+        width:270px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(2){
+        top: 222px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+    }
+    .address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    iframe {
+        top: 59px;
+        width: 312px;
+        right: 25px;
+}
+    .address .inforamtion-call {
+        top: 372px;
+        right: -240px;
+}
+    .address .inforamtion-call h2 {
+        right: 160px;
+}
+    footer {
+    top:4657px;
+    }
+    .footer-word {
+    position: relative;
+    right: -508px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+}
+    footer p:nth-of-type(2) {
+
+    width: 315px;
+}
+    .loading img {
+        right: 83px;
+}
+}
+/*----------------------------------------------------------------------------------------------------------*/
+
+@media (min-width:412px) and (max-width:440px){
+    .marquee-news {
+        right: -216px;
+    }
+    .marquee-news .marquee {
+        right: 253px;
+        width: 316px;
+    }
+    .marquee-news .marquee marquee {
+    width: 212px;
+    }
+    .marquee-news .marquee p {
+    right: -107px;
+}
+    .year {
+            height: 1276px;
+            overflow: hidden
+            }
+        .first-year {
+            width: 300px;
+            top: 146px;
+            right: 30px;
+            margin-bottom: 10px;
+        }
+    .first-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+    }
+    .first-year .back-face .h3 {
+        width: 300px;
+    }
+    .second-year{
+            width: 300px;
+            top: 146px;
+            right:30px;
+            margin-bottom: 10px;
+    }
+        .second-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+         .second-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .third-year{
+            width: 300px;
+            top: 146px;
+            right:30px;
+            margin-bottom: 10px;
+    }
+    .third-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+     .third-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .service {
+        height: 1000px;
+}
+    .service .eduction {
+        top: 135px;
+        right: 93px;
+}
+
+    .service .lib {
+        top: 275px;
+        right: 93px;
+                }
+    .service .call {
+        top: 415px;
+        right: 93px;
+
+}
+    .service .tour {
+        top: 555px;
+        right: 93px;
+}
+    .service .result {
+        top: 696px;
+        right: 93px;
+}
+    .service .absence {
+        top: 838px;
+        right: 93px;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 63px;
+        right: 116px;
+}
+    .circle {
+        display: none;}
+    .manager-location {
+        height:946px;
+        top: 2940px;
+        overflow: hidden
+    }
+    .manager-location .manager img {
+        top: 65px;
+        right: 1px;
+        height: 100%;
+        width: 364px;
+}
+    .manager-location h2 {
+        font-size: 22px;
+        top: 496px;
+        right: -9px;
+    }
+    .manager-location .manager-words {
+         width: 327px;
+        font-size: 15px;
+        top: 545px;
+        right: 32px;
+}
+    .address {
+    position: absolute;
+    top: 3886px;
+    width: 100%;
+    height: 772px;
+
+}
+    .address .inforamtion-call h2 {
+        right: 160px;
+}
+    iframe {
+        top: 59px;
+        width: 312px;
+        right: 41px;
+}
+    .address .inforamtion-call {
+        top: 372px;
+        right: -240px;
+}
+    .address .inforamtion-call p:nth-of-type(1){
+        top:117px;
+        right:65px !important;
+        width:270px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(2){
+        top: 222px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+    }
+    .address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    footer {
+    top:4657px;
+    }
+    .footer-word {
+    position: relative;
+    right: -508px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+}
+    footer p:nth-of-type(2) {
+
+    width: 315px;
+}
+    .loading img {
+        right: 100px;
+}
+}
+/*----------------------------------------------------------------------------------------------------------*/
+
+@media (min-width:441px) and (max-width:479px){
+    .marquee-news {
+        right: -216px;
+    }
+    .marquee-news .marquee {
+        right: 276px;
+        width: 316px;
+    }
+    .marquee-news .marquee marquee {
+    width: 212px;
+    }
+    .marquee-news .marquee p {
+    right: -107px;
+}
+    .year {
+            height: 1276px;
+            overflow: hidden
+            }
+        .first-year {
+            width: 300px;
+            top: 146px;
+            right: 45px;
+            margin-bottom: 10px;
+        }
+    .first-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+    }
+    .first-year .back-face .h3 {
+        width: 300px;
+    }
+    .second-year{
+            width: 300px;
+            top: 146px;
+            right:45px;
+            margin-bottom: 10px;
+    }
+        .second-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+         .second-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .third-year{
+            width: 300px;
+            top: 146px;
+            right:45px;
+            margin-bottom: 10px;
+    }
+    .third-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+     .third-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .service {
+        height: 1000px;
+}
+    .service .eduction {
+        top: 135px;
+        right: 109px;
+}
+
+    .service .lib {
+        top: 275px;
+        right: 109px;
+                }
+    .service .call {
+        top: 415px;
+        right: 109px;
+
+}
+    .service .tour {
+        top: 555px;
+        right: 109px;
+}
+    .service .result {
+        top: 696px;
+        right: 109px;
+}
+    .service .absence {
+        top: 838px;
+        right: 109px;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 63px;
+        right: 122px;
+}
+    .circle {
+        display: none;}
+    .manager-location {
+        height:946px;
+        top: 2940px;
+        overflow: hidden
+    }
+    .manager-location .manager img {
+        top: 65px;
+        right: 34px;
+        height: 100%;
+        width: 322px;
+}
+
+    .manager-location h2 {
+        font-size: 22px;
+        top: 496px;
+        right: -11px;
+    }
+    .manager-location .manager-words {
+         width: 327px;
+        font-size: 15px;
+        top: 545px;
+        right: 45px;
+}
+.address {
+    position: absolute;
+    top: 3886px;
+    width: 100%;
+    height: 772px;
+
+}
+    .address .inforamtion-call p:nth-of-type(1){
+        top:117px;
+        right:65px !important;
+        width:270px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(2){
+        top: 222px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+    }
+    .address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    iframe {
+        top: 59px;
+        width: 312px;
+        right: 58px;
+}
+    .address .inforamtion-call {
+        top: 372px;
+        right: -240px;
+}
+    .address .inforamtion-call h2 {
+        right: 160px;
+}
+    footer {
+    top:4657px;
+    }
+    .footer-word {
+    position: relative;
+    right: -483px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+}
+    footer p:nth-of-type(2) {
+
+    width: 315px;
+}
+    .loading img {
+        right: 110px;
+}
+}
+/*--------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width:480px) and (max-width:540px){
+    .marquee-news {
+        right: -216px;
+    }
+    .marquee-news .marquee {
+        right: 297px;
+        width: 316px;
+    }
+    .marquee-news .marquee marquee {
+    width: 212px;
+    }
+    .marquee-news .marquee p {
+    right: -107px;
+}
+    .year {
+            height: 1276px;
+            overflow: hidden
+            }
+        .first-year {
+            width: 300px;
+            top: 146px;
+            right: 65px;
+            margin-bottom: 10px;
+        }
+    .first-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+    }
+    .first-year .back-face .h3 {
+        width: 300px;
+    }
+    .second-year{
+            width: 300px;
+            top: 146px;
+            right:65px;
+            margin-bottom: 10px;
+    }
+        .second-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+         .second-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .third-year{
+            width: 300px;
+            top: 146px;
+            right:65px;
+            margin-bottom: 10px;
+    }
+    .third-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+     .third-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .service {
+        height: 1000px;
+}
+    .service .eduction {
+        top: 135px;
+        right: 135px;
+}
+
+    .service .lib {
+        top: 275px;
+        right: 135px;
+                }
+    .service .call {
+        top: 415px;
+        right: 135px;
+
+}
+    .service .tour {
+        top: 555px;
+        right: 135px;
+}
+    .service .result {
+        top: 696px;
+        right: 135px;
+}
+    .service .absence {
+        top: 838px;
+        right: 135px;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 63px;
+        right: 153px;
+}
+    .circle {
+        display: none;}
+    .manager-location {
+        height:946px;
+        top: 2940px;
+        overflow: hidden
+    }
+    .manager-location .manager img {
+        top: 65px;
+        right: 57px;
+        height: 100%;
+        width: 322px;
+}
+
+    .manager-location h2 {
+        font-size: 22px;
+        top: 496px;
+        right: -11px;
+    }
+    .manager-location .manager-words {
+         width: 327px;
+        font-size: 15px;
+        top: 545px;
+        right: 71px;
+}
+.address {
+    position: absolute;
+    top: 3886px;
+    width: 100%;
+    height: 772px;
+
+}
+    iframe {
+        top: 59px;
+        width: 312px;
+        right: 80px;
+}
+    .address .inforamtion-call {
+        top: 372px;
+        right: -240px;
+}
+    .address .inforamtion-call p:nth-of-type(1){
+        top:117px;
+        right:65px !important;
+        width:270px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(2){
+        top: 222px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call h2 {
+        right: 160px;
+}
+    footer {
+    top:4657px;
+    }
+    .footer-word {
+    position: relative;
+    right: -457px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+}
+    footer p:nth-of-type(2) {
+
+    width: 315px;
+}
+        .loading img {
+            right: 122px;
+}
+}
+/*--------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width:541px) and (max-width:575px){
+    .header .logo {
+        width: 137px;
+        height: 82px;
+        position: absolute;
+        right: 5px;
+}
+    .navbar-light .navbar-nav .nav-link {
+
+}
+    .marquee-news {
+        right: -216px;
+    }
+    .marquee-news .marquee {
+        right: 271px;
+        width:412px;
+    }
+    .marquee-news .marquee marquee {
+        width: 304px;
+    }
+    .marquee-news .marquee p {
+    right: -158px;
+}
+        .year{
+                height: 1276px;
+                overflow: hidden
+            }
+        .first-year {
+            width: 300px;
+            top: 146px;
+            right:93px;
+            margin-bottom: 10px;
+        }
+    .first-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+    }
+    .first-year .back-face .h3 {
+        width: 300px;
+    }
+    .second-year{
+            width: 300px;
+            top: 146px;
+            right:93px;
+            margin-bottom: 10px;
+    }
+        .second-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+         .second-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .third-year{
+            width: 300px;
+            top: 146px;
+            right:93px;
+            margin-bottom: 10px;
+    }
+    .third-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+     .third-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .service {
+        height: 1000px;
+}
+
+    .service .eduction {
+        top: 135px;
+        right: 160px;
+}
+
+    .service .lib {
+        top: 275px;
+        right: 160px;
+                }
+    .service .call {
+        top: 415px;
+        right: 160px;
+
+}
+    .service .tour {
+        top: 555px;
+        right: 160px;
+}
+    .service .result {
+        top: 696px;
+        right: 160px;
+}
+    .service .absence {
+        top: 838px;
+        right: 160px;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 63px;
+        right: 175px;
+}
+    .circle {
+        display: none;}
+
+    .manager-location {
+        height: 827px;
+        top: 2940px;
+        overflow: hidden
+    }
+    .manager-location .manager img {
+        top: 65px;
+        right: 28px;
+        width: 437px;
+        }
+    .manager-location h2 {
+        font-size: 30px;
+        top: 475px;
+        right: 0px;
+}
+    .manager-location .manager-words {
+        width:410px;
+        top: 527px;
+        right: 59px;
+        font-size:15px
+    }
+    .address {
+    position: absolute;
+    top: 3767px;
+    width: 100%;
+    height: 772px;
+}
+    iframe {
+        top: 59px;
+        width:414px;
+        right: 56px;
+        position: absolute;
+    }
+    .address .inforamtion-call {
+    top: 383px;
+    right: -239px;
+}
+    .address .inforamtion-call p:nth-of-type(1){
+        top:117px;
+        right:65px !important;
+        width:270px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(2){
+        top: 222px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    footer {
+    top:4539px;
+    }
+    .footer-word {
+    position: relative;
+    right: -433px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+}
+    footer p:nth-of-type(2) {
+
+    width: 315px;
+}
+     .loading img {
+            right: 146px;
+}
+}
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+@media(min-width:576px) and (max-width:650px){
+    .header .background-header {
+       width: 204px;
+       height: 85px;
+       position: relative;
+       right: 3px;
+}
+    .header .logo {
+        width: 139px;
+        height: 82px;
+        position: absolute;
+        right: -7px;
+        top:1px;
+
+}
+    .contianer-of-icon-span {
+    width: 174px;
+}
+.span1 {
+    font-size: 17px;
+    position: relative;
+    left: 24px;
+}
+    .span2 {
+        position: relative;
+        left: 4px;
+}
+    .marquee-news {
+        right: -216px;
+    }
+    .marquee-news .marquee {
+        right: 243px;
+        width: 498px;
+    }
+    .marquee-news .marquee marquee {
+    width: 387px;
+    }
+    .marquee-news .marquee p {
+    right: -190px;
+}
+    .year{
+                height: 1276px;
+                overflow: hidden
+            }
+        .first-year {
+            width: 300px;
+            top: 146px;
+            right:100px;
+            margin-bottom: 10px;
+        }
+    .first-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+    }
+    .first-year .back-face .h3 {
+        width: 300px;
+    }
+    .second-year{
+            width: 300px;
+            top: 146px;
+            right:100px;
+            margin-bottom: 10px;
+    }
+        .second-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+         .second-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .third-year{
+            width: 300px;
+            top: 146px;
+            right:100px;
+            margin-bottom: 10px;
+    }
+    .third-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+     .third-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .service {
+        height: 1000px;
+}
+
+    .service .eduction {
+        top: 135px;
+        right:148px
+}
+
+    .service .lib {
+        top: 275px;
+        right: 148px;
+                }
+    .service .call {
+        top: 415px;
+        right: 148px;
+
+}
+    .service .tour {
+        top: 555px;
+        right: 148px;
+}
+    .service .result {
+        top: 696px;
+        right: 148px;
+}
+    .service .absence {
+        top: 838px;
+        right: 148px;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 63px;
+        right: 165px;
+}
+    .circle {
+        display: none;}
+    .manager-location {
+        height: 886px;
+        top: 2940px;
+        overflow: hidden;
+        }
+    .manager-location .manager img {
+
+        top: 65px;
+        right: 9px
+        }
+    .manager-location h2 {
+        top: 478px;
+        right: -3px
+    }
+    .manager-location .manager-words {
+        width: 493px;
+        top: 525px;
+        right: 33px;
+    }
+    .address {
+        top: 3826px;
+        height: 787px;
+
+}
+    iframe {
+        top: 59px;
+        right: 21px;
+        width: 468px;
+}
+    .address .inforamtion-call {
+        top: 381px;
+        right: -266px;
+}
+    .address .inforamtion-call p:nth-of-type(1){
+        top:117px;
+        right:65px !important;
+        width:270px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(2){
+        top: 222px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    footer {
+    top:4613px;
+    }
+    .footer-word {
+    position: relative;
+    right: -413px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+}
+    footer p:nth-of-type(2) {
+
+    width: 315px;
+}
+.loading img {
+    right: 182px;
+}
+}
+/*-----------------------------------------------------------------------------------------------------*/
+
+@media(min-width:651px) and (max-width:767px){
+    .header .background-header {
+        width: 251px;
+        height: 85px;
+        position: relative;
+        right: 40px;
+}
+    .header .logo {
+        width: 139px;
+        height: 82px;
+        position: absolute;
+        right: -7px;
+        top:1px;
+
+}
+    .contianer-of-icon-span {
+    width: 174px;
+}
+.span1 {
+    font-size: 17px;
+    position: relative;
+    left: -16px;
+}
+    .span2 {
+        position: relative;
+        left: -35px;
+}
+    .icon {
+        position: relative;
+        left: -39px;
+}
+    .marquee-news {
+        right: -216px;
+    }
+    .marquee-news .marquee {
+        right: 243px;
+        width: 498px;
+    }
+    .marquee-news .marquee marquee {
+    width: 387px;
+    }
+    .marquee-news .marquee p {
+    right: -190px;
+}
+    .year{
+                height: 1276px;
+                overflow: hidden
+            }
+        .first-year {
+            width: 300px;
+            top: 146px;
+            right:100px;
+            margin-bottom: 10px;
+        }
+    .first-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+        position: relative;
+        font-weight: bold;
+        line-height: 30px;
+    }
+    .first-year .back-face .h3 {
+        width: 300px;
+    }
+    .second-year{
+            width: 300px;
+            top: 146px;
+            right:100px;
+            margin-bottom: 10px;
+    }
+        .second-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+         .second-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .third-year{
+            width: 300px;
+            top: 146px;
+            right:100px;
+            margin-bottom: 10px;
+    }
+    .third-year .front-face span {
+        right: 149px;
+        font-size: 10px;
+        }
+     .third-year .back-face .h3 h3 {
+            font-size: 19px;
+            position: relative;
+            font-weight: bold;
+            line-height: 30px;
+        }
+    .service {
+        height: 1000px;
+}
+
+    .service .eduction {
+        top: 135px;
+        right:148px
+}
+
+    .service .lib {
+        top: 275px;
+        right: 148px;
+                }
+    .service .call {
+        top: 415px;
+        right: 148px;
+
+}
+    .service .tour {
+        top: 555px;
+        right: 148px;
+}
+    .service .result {
+        top: 696px;
+        right: 148px;
+}
+    .service .absence {
+        top: 838px;
+        right: 148px;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 63px;
+        right: 165px;
+}
+    .circle {
+        display: none;}
+    .manager-location {
+        height: 886px;
+        top: 2940px;
+        overflow: hidden;
+        }
+    .manager-location .manager img {
+
+        top: 65px;
+        right: 9px
+        }
+    .manager-location h2 {
+        top: 478px;
+        right: -3px
+    }
+    .manager-location .manager-words {
+        width: 493px;
+        top: 525px;
+        right: 33px;
+    }
+    .address {
+        top: 3826px;
+        height: 787px;
+
+}
+    iframe {
+        top: 59px;
+        right: 21px;
+        width: 468px;
+}
+    .address .inforamtion-call {
+        top: 381px;
+        right: -266px;
+}
+    .address .inforamtion-call p:nth-of-type(1){
+        top:117px;
+        right:65px !important;
+        width:270px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(2){
+        top: 222px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    footer {
+    top:4613px;
+    }
+    .footer-word {
+    position: relative;
+    right: -413px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+}
+    footer p:nth-of-type(2) {
+
+    width: 315px;
+}
+ .loading img {
+    right: 182px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width:768px) and (max-width: 991px){
+    .header .container1{
+        max-width: 79%;
+}
+    .header .logo {
+        right: -50px;
+}
+    .header .background-header {
+
+        right: -15px;
+}
+    .contianer-of-icon-span {
+        width: 160px;
+}
+    .span1 {
+        font-size: 17px;
+        position: relative;
+        left: 37px;
+}
+    .span2 {
+        position: relative;
+        left:5px;
+    }
+    .carousel-caption {
+    right: 11%;
+    }
+    .year{
+            height: 920px;
+            overflow: hidden
+            }
+    .first-year {
+        width: 300px;
+        right: 23px;
+}
+    .first-year .front-face span {
+        right: 166px;
+}
+    .first-year .front-face p {
+        font-size: 30px;
+        font-weight: bold;
+        position: relative;
+        top: 62px;
+        right: -35px;
+        color: white;
+}
+    .first-year .front-face img {
+        height: 200px;
+        position: relative;
+        top: 50px;
+        right: -82px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+
+}
+    .second-year {
+        position: relative;
+        top: 146px;
+        width: 300px;
+        height: 365px;
+        border-top-right-radius: 40px;
+        border-bottom-left-radius: 40px;
+        transform-style: preserve-3d;
+        transition: all 2s linear;
+}
+    .second-year .front-face img {
+        right: -43px;
+}
+    .second-year .front-face p {
+
+        right: -28px;
+
+}
+    .second-year .back-face .h3 h3 {
+        font-size: 19px;
+
+}
+    .third-year {
+        top: 172px;
+        right: 181px;
+        width: 300px;
+}
+    .third-year .front-face img {
+        right: -77px;
+}
+    .third-year .front-face p {
+        right: -33px;
+}
+    .third-year .back-face .h3 h3 {
+        font-size: 19px;
+
+}
+    .service {
+        height: 500px;
+}
+
+    .service .eduction {
+        right: 59px;
+        top: 87px;
+}
+
+    .service .lib {
+        top: 91px;
+        right: 129px;
+                }
+    .service .call {
+        top: 218px;
+        right: 492px;
+
+}
+    .service .tour {
+        top: 346px;
+        right: 492px;
+}
+    .service .result {
+        top: 214px;
+        right: -302px;
+}
+    .service .absence {
+        top: 341px;
+        right: 56px;;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 30px;
+        right: 290px;
+    }
+    .circle {
+        display: none;}
+    .manager-location {
+        height: 925px;
+        top: 2084px;
+    }
+    .manager-location h2 {
+        top: 503px;
+        right: -193px;
+        width: 333px;
+    }
+    .manager-location .manager-words {
+        width: 529px;
+        top: 555px;
+        right: -267px;
+        line-height: 1.7;
+}
+    .address {
+        top: 3009px;
+}
+    iframe {
+        width: 363px;
+        right: 0px;
+    }
+    .address .inforamtion-call {
+        top: 10px;
+        right: -49px;
+        width: 92px;
+    }
+    .address .inforamtion-call p:nth-of-type(1){
+        top:117px;
+        right:65px !important;
+        width:270px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(2){
+        top: 222px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    footer {
+    top: 3479px;
+    }
+    .footer-word {
+    position: relative;
+    right: -325px;
+}
+    footer p:nth-of-type(1) {
+        width: 303px;
+}
+    footer p:nth-of-type(2) {
+
+    width: 315px;
+}
+    .marquee-news {
+        right: -163px;
+}
+    .marquee-news .marquee {
+        top: 55px;
+        right: 243px;
+        width: 612px;
+    }
+    .marquee-news .marquee marquee {
+        width: 496px;
+        top: -40px;
+        right: 48px;
+    }
+    .marquee-news .marquee p {
+        right: -243px;
+    }
+    .loading img {
+        right: 279px;
+}
+}
+/*------------------------------------------------------------------------------------------------*/
+@media (min-width: 992px)and (max-width:1199px){
+    .header .container1 {
+        max-width: 85%
+    }
+    .header .logo {
+    right: -56px;
+}
+    .contianer-of-icon-span {
+    width: 178px;
+}
+    .navbar-light .navbar-nav .nav-link {
+    margin-right: 100px;
+}
+    .carousel-caption {
+        right: 19%
+    }
+    .span2 {
+        position: relative;
+        font-size: 17px;
+        left: -14px;
+}
+    .icon {
+        position: relative;
+        left: -18px;
+}
+    .marquee-news .marquee {
+        right: 236px;
+    }
+    .year{
+                height: 920px;
+                overflow: hidden
+            }
+    .first-year {
+        width: 300px;
+        right: 90px;
+}
+    .first-year .front-face span {
+        right: 166px;
+}
+    .first-year .front-face p {
+        font-size: 30px;
+        font-weight: bold;
+        position: relative;
+        top: 62px;
+        right: -35px;
+        color: white;
+}
+    .first-year .front-face img {
+        height: 200px;
+        position: relative;
+        top: 50px;
+        right: -82px;
+}
+    .first-year .back-face .h3 h3 {
+        font-size: 19px;
+
+}
+    .second-year {
+        top: 146px;
+        width: 300px;
+        right: 58px;
+}
+    .second-year .front-face img {
+        right: -43px;
+}
+    .second-year .front-face p {
+
+        right: -28px;
+
+}
+    .second-year .back-face .h3 h3 {
+        font-size: 19px;
+
+}
+    .third-year {
+        top: 172px;
+        right:288px;
+        width: 300px;
+}
+    .third-year .front-face img {
+        right: -77px;
+}
+    .third-year .front-face p {
+        right: -33px;
+}
+    .third-year .back-face .h3 h3 {
+        font-size: 19px;
+
+}
+.service {
+        height:529px;
+}
+
+    .service .eduction {
+        right: 53px;
+        top: 112px;
+}
+
+    .service .lib {
+        top: 112px;
+        right: 68px;
+                }
+    .service .call {
+        top: 112px;
+        right: 89px;
+
+}
+    .service .tour {
+        top: 346px;
+        right: 49px;;
+}
+    .service .result {
+        top: 346px;
+        right: 64px;
+}
+    .service .absence {
+        top: 349px;
+        right: 93px;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 52px;
+        right: 412px;
+}
+    .circle {
+        animation:circle 16s infinite ease-in-out;
+    }
+    @keyframes circle{
+    0%,100%{
+        transform:translate(6px,40px)
+    }
+    25% {
+        transform: translateX(-905px);
+        }
+    50% {
+        transform: translate(-905px,464px);
+        }
+    75% {
+        transform: translate(6px,464px);
+        }
+
+}
+.manager-location {
+        top: 2113px;
+        height: 487px;
+
+
+}
+    .manager-location .manager img {
+        top: 65px;
+        right: 13px;
+        height: 90%;
+        width: 500px;
+}
+    .manager-location .manager-words {
+        width: 407px;
+        font-size: 16px;
+        right: 65px;
+        top: 105px;
+}
+    .manager-location h2 {
+        font-size: 26px;
+        top: 59px;
+        right: 8px;
+}
+    .address {
+        top: 2600px;
+            }
+    iframe {
+    right: 34px;
+    width: 431px;
+    }
+    .address .inforamtion-call {
+        right: -3px;
+}
+    .address .inforamtion-call p:nth-of-type(1){
+        top:117px;
+        right:65px !important;
+        width:270px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(2){
+        top: 222px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    .address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    footer {
+    top: 3070px;
+    }
+    .footer-word{
+        position: relative;
+        right: -201px;
+    }
+    .marquee-news {
+        right: -212px;
+    }
+    .loading img {
+    right: 431px;
+}
+}
+
+/*---------------------------------------------------------------------------------------------------------------*/
+
+@media(min-width: 1200px) and (max-width:1365px){
+    .header .container1 {
+        max-width: 84%;
+    }
+    .header .background-header {
+        width: 820px;
+        height: 85px;
+        position: relative;
+        right: -84px;
+}
+    .header .logo {
+        right: -89px;
+}
+    .img-fluid {
+        max-width: 933px;
+
+}
+    .contianer-of-icon-span {
+        width: 237px;
+}
+    .span1 {
+        position: relative;
+        left: -10px;
+}
+    .span2 {
+        position: relative;
+        font-size: 17px;
+        left: -8px;
+}
+    .icon {
+    position: relative;
+    left: -7px;
+}
+    .navbar-light .navbar-nav .nav-link {
+    margin-right: 126px;
+}
+    .carousel-caption {
+    right: 24%;
+    }
+    .marquee-news {
+    right: -112px;
+    }
+    .year {
+        height: 560px;
+    }
+    .first-year {
+        right: 14px;
+}
+    .second-year {
+        right: 21px;
+}
+    .third-year {
+        right: 26px;
+        top:146px
+}
+    .service {
+        height: 535px;
+}
+
+    .service .eduction {
+        right: 53px;
+        top: 112px;
+}
+
+    .service .lib {
+        top: 112px;
+        right: 68px;
+                }
+    .service .call {
+        top: 112px;
+        right: 89px;
+
+}
+    .service .tour {
+        top: 346px;
+        right: 49px;;
+}
+    .service .result {
+        top: 346px;
+        right: 64px;
+}
+    .service .absence {
+        top: 349px;
+        right: 93px;
+
+}
+    .service .service-web {
+        width: 150px;
+        height: 50px;
+        top: 52px;
+        right: 467px;
+}
+    .circle {
+        animation:circle 16s infinite ease-in-out;
+    }
+    @keyframes circle{
+    0%,100%{
+        transform:translate(6px,4px)
+    }
+    25% {
+        transform: translateX(-1110px);
+        }
+    50% {
+        transform: translate(-1110px,470px);
+        }
+    75% {
+        transform: translate(6px,470px);
+}
+
+}
+
+    .manager-location {
+        top: 1759px;
+        height: 495px;
+    }
+    .manager-location h2 {
+        right: -10px;
+
+    }
+    .manager-location .manager-words {
+
+        right: 71px;
+        width: 498px;
+        font-size: 17px;
+    }
+    .address{
+    position:absolute;
+    top:2254px;
+    width:100%;
+    height:470px;
+    background-color:#bdc3c7
+}
+iframe{
+    border: 0;
+    border-radius: 10px;
+    top: 59px;
+}
+.address .inforamtion-call{
+    position:absolute;
+    top:10px;
+    right:0px
+}
+.address .inforamtion-call .inforamtion-call-small{
+    position: absolute;
+    top:32px
+}
+.address .inforamtion-call h2{
+    font-family: 'Cairo', sans-serif;
+    font-size:30px;
+    width: 177px;
+    position: absolute;
+    top:50px;
+    right: 185px;
+}
+.address .inforamtion-call h3{
+    font-family: 'Cairo', sans-serif;
+    font-size:17px;
+    color:#1f4b68;
+    width: 115px;
+}
+.address .inforamtion-call h3:nth-of-type(1){
+    position: absolute;
+    top:76px;
+    right:0px;
+}
+.address .inforamtion-call h3:nth-of-type(2){
+    position: absolute;
+    top:175px;
+    right:47px
+}
+.address .inforamtion-call h3:nth-of-type(3){
+    position: absolute;
+    top:273px;
+    right:63px
+}
+.address .inforamtion-call p{
+    position: absolute;
+    font-family: 'Cairo', sans-serif;
+    font-size:18px;
+}
+.address .inforamtion-call p:nth-of-type(1){
+    top:117px;
+    right:65px !important;
+    width:270px !important;
+    text-align: right !important;
+}
+.address .inforamtion-call p:nth-of-type(2){
+    top: 222px;
+    right: 69px !important;
+    width: 328px !important;
+    text-align: right !important;
+}
+.address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    footer {
+    top: 2723px;
+}
+    .footer-word{
+        position: relative;
+        right: -117px;
+    }
+}
+/*------------------------------------------------------------------------------------------------*/
+
+@media(min-width: 1366px){
+    .header .container1 {
+        max-width: 100%;
+    }
+    .header .logo {
+        width:192px;
+        right: 12px;
+}
+    .header .background-header {
+        width: 939px;
+        height: 85px;
+        position: relative;
+        right: -18px;
+    }
+    .img-fluid {
+        max-width: 982px;
+}
+    .cont-span {
+        position: relative !important;
+        left: -12px !important;
+}
+    .contianer-of-icon-span {
+        width: 195px;
+}
+    .icon{
+        position: relative;
+        left: -15px;
+
+    }
+    .span2 {
+        position: relative;
+        font-size: 17px;
+        left:1px;
+}
+    .navbar-light .navbar-nav .nav-link {
+    margin-right: 158px;
+}
+    .carousel-caption {
+        right: 30%;
+
+}
+    .marquee-news{
+    position: absolute;
+    width:100%;
+    background-color:#D1D2D3;
+    top: -16px;
+    right: -28px;
+    height: 137px;
+    z-index:1002;
+
+}
+.marquee-news .marquee{
+    position: absolute;
+    top:55px;
+    right:137px;
+    width:900px;
+    height:54px;
+    border:2px solid transparent;
+    border-radius:50px;
+    text-align: center;
+    background-color: white;
+    box-shadow:2px 2px 2px rgba(76, 25, 3 ,0.5) ,-2px -2px 2px rgba(76, 25, 3 ,0.5);
+    direction: ltr
+}
+.marquee-news .marquee p{
+    font-size:20px;
+    position: relative;
+    top:6px;
+    right: -385px;
+    font-family: 'Cairo', sans-serif;
+    color:red
+}
+.marquee-news .marquee marquee{
+    font-size:20px;
+    position: relative;
+    width:786px;
+    top:-40px;
+    right: 48px;
+    font-family: 'Cairo', sans-serif;
+    margin-right: 9px;
+    height: 54px;
+    cursor:pointer
+}
+.marquee-news .marquee marquee a{
+    margin:  30px ;
+    text-decoration:none;
+    color: black
+}
+    .year {
+        position: relative;
+        width: 100%;
+        height: 562px;
+        background-color: #D1D2D3;
+        perspective: 6000px;
+        top:41px;
+        z-index: 500;
+}
+.first-year {
+    position: relative;
+    width: 350px;
+    height: 365px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    transform-style: preserve-3d;
+    transition: all 2s linear;
+    top: 146px;
+    right: -66px
+
+}
+.first-year:hover{
+    transform:rotateY(180deg)
+}
+.first-year .front-face {
+    position: relative;
+    width: 100%;
+    height: 365px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    background-color: #c0392b;
+    z-index: 30;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+}
+.first-year .front-face img {
+    height: 200px;
+    position: relative;
+    top: 50px;
+    right: -100px;
+}
+.first-year .front-face p {
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: 62px;
+    right: -55px;
+    color: white;
+}
+ .first-year .front-face span {
+    position: absolute;
+    top: 128px;
+    right: 199px;
+    font-family: 'Cairo', sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+}
+.first-year .back-face {
+    position: relative;
+    top: -365px;
+    width: 100%;
+    height: 365px;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background: linear-gradient(to right,#c0392b,#700029);
+    z-index: 29;
+    transform-style: preserve-3d;
+    transform: rotateY(180deg);
+    backface-visibility: hidden;
+}
+.first-year .back-face .h3 {
+    position: relative;
+    width: 350px;
+    height: 320px;
+    top: 27px;
+    right: 26px;
+    text-align: justify;
+    line-height: 40px;
+    color: white;
+}
+.first-year .back-face .h3 h3 {
+    font-size: 23px;
+    position: relative;
+    font-weight: bold;
+    line-height: 30px;
+}
+.first-year .back-face img {
+    width: 150px;
+    height: 200px;
+    position: relative;
+    right: -78px;
+    top: 18px;
+}
+
+.second-year{
+    position: relative;
+    top:146px;
+    width:350px;
+    height:365px;
+    right: 7px;
+    border-top-right-radius:40px;
+    border-bottom-left-radius:40px;
+    transform-style:preserve-3d;
+    transition:all 2s linear
+}
+.second-year:hover{
+    transform:rotateY(180deg)
+}
+.second-year .front-face{
+    position:relative;
+    width:100%;
+    height: 365px;
+    border-top-right-radius:40px;
+    border-bottom-left-radius:40px;
+    background-color:#021337;
+    z-index:30;
+    transform-style:preserve-3d;
+    backface-visibility:hidden
+}
+.second-year .front-face img{
+    height: 200px;
+    position: relative;
+    top: 50px;
+    right: -60px;
+}
+.second-year .front-face p{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: 62px;
+    right: -43px;
+    color: white;
+}
+ .second-year .front-face span{
+    position: relative;
+    top:106px;
+    right:180px;
+    font-family: 'Cairo', sans-serif;
+    font-weight:bold;
+    font-size:11px
+}
+.second-year .back-face{
+    position:relative;
+    width:100%;
+    height:365px;
+    top: -365px;
+    border-top-left-radius:40px;
+    border-bottom-right-radius:40px;
+    background:linear-gradient(to right,#8E0B00,#021337) ;
+    z-index:29;
+    transform-style:preserve-3d;
+    transform:rotateY(180deg);
+    backface-visibility:hidden
+}
+.second-year .back-face .h3{
+    position: relative;
+    width: 350px;
+    height: 320px;
+    top: 50px;
+    right: 22px;
+    text-align: justify;
+    line-height: 40px;
+    color: white;
+}
+.second-year .back-face .h3 h3{
+    font-size: 23px;
+    position: relative;
+    font-weight: bold;
+    line-height: 30px;;
+}
+.second-year .back-face img{
+    width: 150px;
+    height: 200px;
+    position: relative;
+    right: -84px;
+    top: 40px;
+}
+.third-year {
+    position: relative;
+    top: 146px;
+    right:68px;
+    width: 350px;
+    height: 365px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    transform-style: preserve-3d;
+    transition: all 2s linear;
+}
+.third-year:hover{
+    transform:rotateY(180deg)
+}
+.third-year .front-face{
+    position:relative;
+    width:100%;
+    height: 365px;
+    border-top-right-radius:40px;
+    border-bottom-left-radius:40px;
+    background-color:#27ae60;
+    z-index:30;
+    transform-style:preserve-3d;
+    backface-visibility:hidden
+}
+.third-year .front-face img {
+    height: 220px;
+    position: relative;
+    top: 33px;
+    right: -101px;
+}
+.third-year .front-face p {
+    font-size: 30px;
+    font-family: 'Cairo', sans-serif;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+    right: -38px;
+    color: white;
+}
+ .third-year .front-face span{
+    position: relative;
+    top:106px;
+    right:180px;
+    font-family: 'Cairo', sans-serif;
+    font-weight:bold;
+    font-size:11px
+}
+.third-year .back-face{
+    position:relative;
+    width:100%;
+    height:365px;
+    top: -365px;
+    border-top-left-radius:40px;
+    border-bottom-right-radius:40px;
+    background:linear-gradient(to right,#008C8E,#27ae60) ;
+    z-index:29;
+    transform-style:preserve-3d;
+    transform:rotateY(180deg);
+    backface-visibility:hidden
+}
+.third-year .back-face .h3 {
+    position: relative;
+    width: 350px;
+    height: 320px;
+    top: 25px;
+    right: 12px;
+    text-align: justify;
+    line-height: 40px;
+    color: white;
+}
+.third-year .back-face .h3 h3{
+    font-size: 23px;
+    position: relative;
+    font-weight: bold;
+    line-height: 30px;
+}
+.third-year .back-face img {
+    width: 150px;
+    height: 200px;
+    position: relative;
+    right: -92px;
+    top: 51px;
+}
+    .service{
+        position: relative;
+        width:100%;
+        height:450px;
+        top:41px;
+        background-image:url('../img/%D8%A7%D9%84%D8%AE%D9%84%D9%81%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9.jpg');
+        background-attachment:fixed;
+        background-size:100% 100%;
+        background-repeat: no-repeat;
+}
+.service .eduction {
+    position: absolute;
+    width: 190px;
+    height: 120px;
+    right: 59px;
+    background-color: #c8d6e5;
+    top: 87px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    transition: all 0.5s ease-in-out;
+}
+.service .eduction img{
+    position: absolute;
+    right: 40px;
+    top:32px
+}
+.service .eduction p{
+    font-size:20px;
+    text-align: center;
+    position: absolute;
+    top:1px;
+    right:25px;
+    color:black;
+    font-family: 'Cairo', sans-serif;
+}
+.service .lib {
+    position: absolute;
+    width: 190px;
+    height: 120px;
+    background-color: #c8d6e5;
+    top: 87px;
+    right:105px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    transition: all 0.5s ease-in-out;
+}
+.service .lib img{
+    position: absolute;
+    right:51px;
+    top:32px
+}
+.service .lib p{
+    font-size:20px;
+    text-align: center;
+    position: absolute;
+    top:1px;
+    right:17px;
+    color:black;
+    font-family: 'Cairo', sans-serif;
+}
+.service .call {
+    position: absolute;
+    width: 190px;
+    height: 120px;
+    background-color: #c8d6e5;
+    top: 87px;
+    right:129px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    transition: all 0.5s ease-in-out;
+}
+.service .call img{
+    position: absolute;
+    right:49px;
+    top:32px
+}
+.service .call p{
+    font-size:20px;
+    text-align: center;
+    position: absolute;
+    top:-2px;
+    right:61px;
+    color:black;
+    font-family: 'Cairo', sans-serif;
+}
+.service .tour {
+    position: absolute;
+    width: 190px;
+    height: 120px;
+    background-color: #c8d6e5;
+    top: 256px;
+    right:58px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    transition: all 0.5s ease-in-out;
+}
+.service .tour img{
+    position: absolute;
+    right:46px;
+    top:32px;
+    width:86px;
+    height: 77px
+}
+.service .tour p{
+    font-size:20px;
+    text-align: center;
+    position: absolute;
+    top:-4px;
+    right:75px;
+    color:black;
+    font-family: 'Cairo', sans-serif;
+}
+.service .result {
+    position: absolute;
+    width: 190px;
+    height: 120px;
+    background-color: #c8d6e5;
+    top: 256px;
+    right: 512px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    transition: all 0.5s ease-in-out;
+}
+.service .result img{
+    position: absolute;
+    right:46px;
+    top:32px;
+
+}
+.service .result p{
+    font-size:20px;
+    text-align: center;
+    position: absolute;
+    top:-2px;
+    right:66px;
+    color:black;
+    font-family: 'Cairo', sans-serif;
+}
+.service .absence {
+    position: absolute;
+    width: 190px;
+    height: 120px;
+    background-color: #c8d6e5;
+    top: 256px;
+    right: -272px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    transition: all 0.5s ease-in-out;
+}
+.service .absence img{
+    position: absolute;
+    right:49px;
+    top:32px;
+    width:98px;
+    height: 85px
+}
+.service .absence p{
+    font-size:20px;
+    text-align: center;
+    position: absolute;
+    top:-2px;
+    right:42px;
+    color:black;
+    font-family: 'Cairo', sans-serif;
+}
+.service .eduction:hover ,.service .lib:hover ,.service .call:hover ,.service .tour:hover ,.service .result:hover ,.service .absence:hover
+{
+    transform:scale(1.1,1.1);
+    transition:all 0.5s ease-in-out
+}
+.circle{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    background-color: #c8d6e5;
+    position: absolute;
+    top:4px;
+    right:6px;
+    animation:circle 16s infinite ease-in-out;
+}
+.circle .text{
+    font-family: 'Cairo', sans-serif;
+    font-size:12px;
+    text-align: center;
+    position: absolute;
+    top:6px;
+    right:0px;
+}
+.service .service-web{
+    width:150px;
+    height:50px;
+    position: absolute;
+    top: 18px;
+    right: 507px;
+    background-color: #c8d6e5;
+    border-radius:50px;
+    animation:service 0.8s infinite linear
+}
+.service .service-web p{
+    font-family: 'Cairo', sans-serif;
+    font-size:21px;
+    text-align: center;
+    position: absolute;
+    top: 4px;
+    left: 12px;
+}
+    .address{
+    position:absolute;
+    top:2254px;
+    width:100%;
+    height:470px;
+    background-color:#bdc3c7
+}
+iframe{
+    border: 0;
+    border-radius: 10px;
+    position: relative;
+    top: 59px;
+}
+.address .inforamtion-call{
+    position:absolute;
+    top:10px;
+    right:0px
+}
+.address .inforamtion-call .inforamtion-call-small{
+    position: absolute;
+    top:32px
+}
+.address .inforamtion-call h2{
+    font-family: 'Cairo', sans-serif;
+    font-size:30px;
+    width: 177px;
+    position: absolute;
+    top:50px;
+    right: 185px;
+}
+.address .inforamtion-call h3{
+    font-family: 'Cairo', sans-serif;
+    font-size:17px;
+    color:#1f4b68;
+    width: 115px;
+}
+.address .inforamtion-call h3:nth-of-type(1){
+    position: absolute;
+    top:76px;
+    right:0px;
+}
+.address .inforamtion-call h3:nth-of-type(2){
+    top: 222px;
+    right: 69px !important;
+    width: 328px !important;
+    text-align: right !important;
+}
+.address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+.address .inforamtion-call p{
+    position: absolute;
+    font-family: 'Cairo', sans-serif;
+    font-size:18px;
+}
+.address .inforamtion-call p:nth-of-type(1){
+    top:117px;
+    right:65px !important;
+    width:270px !important;
+    text-align: right !important;
+}
+.address .inforamtion-call p:nth-of-type(2){
+    top:222px;
+    right:72px;
+    width:500px
+}
+.address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 69px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+
+/*-----------------------------animation---------------------------------*/
+@keyframes circle{
+    0%,100%{
+        transform:translate(6px,4px)
+    }
+    25%{
+        transform:translateX(-1283px)
+    }
+    50%{
+        transform:translate(-1283px,385px)
+    }
+    75%{
+        transform:translate(6px,385px)
+    }
+
+}
+@keyframes service{
+        0%{
+            transform: rotateZ(0deg)
+        }
+    25%{
+            transform: rotateZ(5deg)
+        }
+    50%{
+            transform: rotateZ(0deg)
+        }
+    75%{
+            transform: rotateZ(-5deg)
+        }
+    100%{
+            transform: rotateZ(0deg)
+        }
+}
+    .manager-location{
+        position: absolute;
+        width:100%;
+        height:520px;
+        top:1675px;
+        background-color:rgba(251, 252, 240, 0.68)
+}
+.manager-location .manager {
+    position: absolute;
+    height: 400px;
+    background-color: #fff;
+}
+.manager-location .manager img {
+    position: absolute;
+    top: 65px;
+    right: 79px;
+    height: 100%;
+    width: 500px;
+    border: 5px solid #dee2e6;
+    border-radius: 5px;
+}
+.manager-location h2 {
+    font-family: 'Cairo', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 77px;
+    right: 77px;
+    color: #04367d;
+}
+.manager-location h2:hover{
+    opacity:0.8
+}
+.manager-location .manager-words {
+    width: 529px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 130px;
+    right: 122px;
+    text-align: justify;
+    line-height: 1.7;
+}
+.address{
+    position:absolute;
+    top:2195px;
+    width:100%;
+    height:470px;
+    background-color:#bdc3c7
+}
+iframe {
+    border: 0;
+    border-radius: 10px;
+    position: absolute;
+    top: 59px;
+    width: 500px;
+    right: -5px;
+}
+.address .inforamtion-call{
+    position:absolute;
+    top:10px;
+    right:0px
+}
+.address .inforamtion-call .inforamtion-call-small{
+    position: absolute;
+    top:32px
+}
+.address .inforamtion-call h2{
+    font-family: 'Cairo', sans-serif;
+    font-size:30px;
+    width: 177px;
+    position: absolute;
+    top:50px;
+    right: 185px;
+}
+.address .inforamtion-call h3{
+    font-family: 'Cairo', sans-serif;
+    font-size:17px;
+    color:#1f4b68;
+    width: 115px;
+}
+.address .inforamtion-call p:nth-of-type(1){
+    top:117px;
+    right:65px !important;
+    width:270px !important;
+    text-align: right !important;
+}
+.address .inforamtion-call h3:nth-of-type(2){
+    position: absolute;
+    top:175px;
+    right:47px
+}
+.address .inforamtion-call h3:nth-of-type(3){
+    position: absolute;
+    top:273px;
+    right:63px
+}
+.address .inforamtion-call p{
+    position: absolute;
+    font-family: 'Cairo', sans-serif;
+    font-size:18px;
+}
+.address .inforamtion-call p:nth-of-type(1){
+    top:117px;
+    right:-80px;
+    width:500px
+}
+.address .inforamtion-call p:nth-of-type(2){
+    top: 222px;
+    right: 69px !important;
+    width: 328px !important;
+    text-align: right !important;
+}
+.address .inforamtion-call p:nth-of-type(3) {
+        top: 323px;
+        right: 72px !important;
+        width: 328px !important;
+        text-align: right !important;
+}
+    footer{
+    position:absolute;
+    top:2665px;
+    width:100%;
+    height: 88px;
+    background-color:#1f4b68;
+}
+    .footer-word {
+        position: relative;
+        right: -116px;
+        top: 7px;
+}
+    .footer-word p{
+        margin-bottom: 0
+    }
+footer p:nth-of-type(1){
+    position: absolute;
+    font-family: 'Cairo', sans-serif;
+    font-size:20px;
+    color:white;
+    top: 7px;
+    right: 528px;
+}
+footer p:nth-of-type(2){
+    position: absolute;
+    font-family: 'Cairo', sans-serif;
+    font-size:21px;
+    color:white;
+    top: 38px;
+    right: 522px;
+}
+
+footer .footer-word p .designed ,footer .footer-word-about p .designed{
+        text-decoration: none;
+        color:#3379E7;
+        position: relative;
+        top: -4px;
+}
+
+
+}
+/*---------------------------------------*/
+/*--------------------90%-----------------------------*/
+@media (min-width:1517px){
+    .contianer-of-icon-span {
+    width: 231px;
+}
+    .contianer-of-icon-span {
+        position: relative;
+        left: 19px;
+}
+    .carousel-caption {
+    right: 29%;
+    }
+    .marquee-news .marquee {
+        right:154px;
+    }
+    .loading img {
+      right: 678px;
+}
+}
+/*------------------------------------*/
+/*--------------------80%-----------------------------*/
+@media (min-width:1707px){
+    .contianer-of-icon-span {
+        width: 258px;
+}
+    .carousel-caption {
+    right: 31%;
+}
+    .marquee-news .marquee {
+    right: 114px;
+}
+        .loading img {
+            right: 757px;
+}
+}
+/*----------------------------------------------*/
+/*--------------------75%-----------------------------*/
+@media (min-width:1820px){
+    .contianer-of-icon-span {
+        width: 270px;
+    }
+    .header .background-header {
+
+        right: -94px;
+     }
+    .contianer-of-icon-span {
+        position: relative;
+        left: 21px;
+}
+    .carousel-caption {
+    right: 33%;
+}
+    .marquee-news .marquee {
+        right:154px;
+    }
+        .loading img {
+            right: 860px;
+}
+}
+/*----------------------------------------------------*/
+/*--------------------67%-----------------------------*/
+@media (min-width:2049px){
+    .contianer-of-icon-span {
+        width: 316px;
+    }
+    .header .background-header {
+
+        right: -160px;
+     }
+    .contianer-of-icon-span {
+        position: relative;
+        left: 21px;
+}
+    .carousel-caption {
+    right: 34%;
+    }
+    .marquee-news .marquee {
+        right: 154px;
+    }
+    footer{
+        height:89px
+    }
+    .loading img {
+          right: 985px;
+}
+}
+/*----------------------------------------------------*/
+/*--------------------50%-----------------------------*/
+@media (min-width:2732px){
+    .contianer-of-icon-span {
+        width: 415px;
+    }
+    .header .background-header {
+
+        right: -350px;
+     }
+    .carousel-caption {
+        right: 38%;
+}
+    .marquee-news .marquee {
+        right: 162px;
+    }
+        .loading img {
+              right: 1386px;
+}
+}
+
+/*----------------------------------------------------*/
+/*--------------------33%-----------------------------*/
+@media (min-width:4097px){
+    .contianer-of-icon-span {
+        width: 647px;
+    }
+    .header .background-header {
+        width:1500px;
+        right: -650px;
+        height: 119px;
+     }
+    .header .logo {
+        width: 345px;
+        right: 12px;
+        height: 116px;
+    }
+    .marquee-news .marquee {
+        right: 129px;
+    }
+
+    .img-fluid {
+        max-width: 1500px;
+}
+    .navbar {
+    top: 120px;
+    }
+    .contianer-of-icon-span .cont-span span{
+        font-size:29px
+    }
+    .carousel-caption {
+        right: 42%;
+}
+    .first-year .front-face span {
+        font-size: 5px;
+}
+
+
+.manager-location {
+    top: 1714px;
+
+}
+}
+/*----------------------------------------------------*/
+/*--------------------25%-----------------------------*/
+@media (min-width:5464px){
+    .contianer-of-icon-span {
+        width: 850px;
+    }
+    .header .background-header {
+        right: -1200px;
+        height: 126px;
+     }
+    .marquee-news .marquee {
+    right: 121px;
+    }
+
+    .carousel-caption {
+    right: 44%;
+}
+        .first-year .front-face span {
+            font-size: 5px;
+}
+    .circle .text {
+        font-size: 5px;
+
+}
+
+.manager-location {
+    top: 1714px;
+
+}
+    .manager-location .manager-words {
+        width: 700px;
+        line-height: 1.3
+
+}
+    footer {
+    height: 89px;
+    }
+}

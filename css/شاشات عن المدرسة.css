@@ -1,0 +1,583 @@
+@media(max-width:320px){
+    .about-school-area {
+        top: 130px;
+        right: 0;
+        height: 937px;
+    }
+    .about-word{
+        position: relative;
+        top: 394px;
+        right:-45px
+    }
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top:138px;
+        right: -73px;
+        font-size: 20px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width: 274px;
+        top: 164px;
+        right: 49px;
+        font-size: 21px;
+        white-space: normal;
+}
+    .about-school-area .img-school-word .img-school img {
+        right: 14px;
+        width: 277px
+}
+    .adress-about-school {
+    top: 1066px;
+}
+    .footer-about-school {
+    top: 1536px;
+}
+}
+/*-------------------------------------------------------------------------------------------------------------*/
+
+@media(min-width:321px) and (max-width:359px){
+    .about-school-area {
+        top: 130px;
+        right: 0;
+        height: 937px;
+    }
+    .about-word{
+        position: relative;
+        top: 394px;
+        right:-45px
+    }
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top:138px;
+        right: -73px;
+        font-size: 20px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width: 274px;
+        top: 164px;
+        right: 54px;
+        font-size: 21px;
+        white-space: normal;
+}
+    .about-school-area .img-school-word .img-school img {
+        right: 23px;
+        width: 277px
+}
+    .adress-about-school {
+    top: 1066px;
+}
+    .footer-about-school {
+    top: 1536px;
+}
+}
+/*--------------------------------------------------------------------------------------------------------------*/
+@media(min-width:360px) and (max-width:383px){
+        .about-school-area {
+        top: 130px;
+        right: 0;
+        height: 937px;
+    }
+    .about-word{
+        position: relative;
+        top:390px;
+        right:-45px
+    }
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top:140px;
+        right: -60px;
+        font-size: 20px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width: 274px;
+        top: 164px;
+        right: 66px;
+        font-size: 21px;
+        white-space: normal;
+}
+    .about-school-area .img-school-word .img-school img {
+        right: 34px;
+        width: 277px
+}
+    .adress-about-school {
+    top: 1066px;
+}
+    .footer-about-school {
+    top: 1536px;
+}
+}
+
+/*----------------------------------------------------------------------------------------------------------*/
+
+@media (min-width:384px) and (max-width:411px){
+            .about-school-area {
+        top: 130px;
+        right: 0;
+        height: 937px;
+    }
+    .about-word{
+        position: relative;
+        top:390px;
+        right:-24px
+    }
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top:140px;
+        right: -73px;
+        font-size: 20px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width: 274px;
+        top: 164px;
+        right: 49px;
+        font-size: 21px;
+        white-space: normal;
+}
+    .about-school-area .img-school-word .img-school img {
+        right: 14px;
+        width: 336px
+}
+    .adress-about-school {
+    top: 1066px;
+}
+    .footer-about-school {
+    top: 1838px;
+}
+}
+/*--------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width:412px) and (max-width:440px){
+            .about-school-area {
+        top: 130px;
+        right: 0;
+        height: 937px;
+    }
+    .about-word{
+        position: relative;
+        top:390px;
+        right:-24px
+    }
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top:140px;
+        right: -56px;
+        font-size: 20px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width: 274px;
+        top: 164px;
+        right: 73px;
+        font-size: 21px;
+        white-space: normal;
+}
+    .about-school-area .img-school-word .img-school img {
+        right: 35px;
+        width: 336px
+}
+    .adress-about-school {
+    top: 1066px;
+}
+    .footer-about-school {
+    top: 1838px;
+}
+}
+
+/*-----------------------------------------------------------------------------------------------------*/
+@media (min-width:441px) and (max-width:479px){
+            .about-school-area {
+        top: 130px;
+        right: 0;
+        height: 937px;
+    }
+    .about-word{
+        position: relative;
+        top:390px;
+        right:-24px
+    }
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top:140px;
+        right: -44px;
+        font-size: 20px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width: 274px;
+        top: 164px;
+        right: 85px;
+        font-size: 21px;
+        white-space: normal;
+}
+    .about-school-area .img-school-word .img-school img {
+        right: 45px;
+        width: 336px
+}
+    .adress-about-school {
+    top: 1066px;
+}
+    .footer-about-school {
+    top: 1838px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------*/
+@media (min-width:480px) and (max-width:540px){
+    .about-school-area {
+        top: 130px;
+        right: 0;
+        height: 937px;
+        overflow: hidden
+    }
+    .about-word{
+        position: relative;
+        top:390px;
+        right:25px
+    }
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top:140px;
+        right: -73px;
+        font-size: 20px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width: 274px;
+        top: 164px;
+        right: 49px;
+        font-size: 21px;
+        white-space: normal;
+}
+    .about-school-area .img-school-word .img-school img {
+        right: 68px;
+        width: 336px
+}
+    .adress-about-school {
+    top: 1066px;
+}
+    .footer-about-school {
+    top: 1838px;
+}
+}
+/*-----------------------------------------------------------------------------------------------------*/
+@media(min-width:541px) and (max-width:575px){
+    .about-school-area {
+        top: 130px;
+        right: 0;
+        height: 937px;
+        overflow: hidden
+    }
+    .about-word{
+        position: relative;
+        top:390px;
+        right:25px
+    }
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top:140px;
+        right:-48px;
+        font-size: 20px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width: 315px;
+        top: 164px;
+        right: 62px;
+        font-size: 21px;
+        white-space: normal;
+}
+    .about-school-area .img-school-word .img-school img {
+        right: 93px;
+        width: 336px
+}
+    .adress-about-school {
+    top: 1066px;
+}
+    .footer-about-school {
+    top: 1838px;
+}
+}
+/*-----------------------------------------------------------------------------------------------------*/
+
+@media(min-width:576px) and (max-width:650px){
+    .about-school-area {
+        top: 130px;
+        right: 0;
+        height: 937px;
+        overflow: hidden
+    }
+    .about-word{
+        position: relative;
+        top:442px;
+        right:25px
+    }
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top:140px;
+        right: -20px;
+        font-size: 20px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width:405px;
+        top: 164px;
+        right:35px;
+        font-size: 21px;
+        white-space: normal;
+}
+    .about-school-area .img-school-word .img-school img {
+        right: 68px;
+        width: 395px
+}
+    .adress-about-school {
+    top: 1066px;
+}
+    .footer-about-school {
+    top: 1838px;
+}
+}
+
+/*---------------------------------------------------------------------------------------------------------------*/
+@media(min-width:651px) and (max-width:767px){
+        .about-school-area {
+        top: 130px;
+        right: 0;
+        height: 937px;
+        overflow: hidden
+    }
+    .about-word{
+        position: relative;
+        top:442px;
+        right:25px
+    }
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top:140px;
+        right: -20px;
+        font-size: 20px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width:405px;
+        top: 164px;
+        right:35px;
+        font-size: 21px;
+        white-space: normal;
+}
+    .about-school-area .img-school-word .img-school img {
+        right: 68px;
+        width: 395px
+}
+    .adress-about-school {
+    top: 1066px;
+}
+    .footer-about-school {
+    top: 1838px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------------*/
+@media (min-width:768px) and (max-width: 991px){
+    .about-school-area {
+
+        height: 482px;
+}
+    .about-school-area .img-school-word .img-school img {
+        top: 23px;
+        right: -11px;
+        width: 391px;
+        height: 448px;
+}
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top: 97px;
+        right: -11px;
+        font-size: 29px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width: 314px;
+        top: 164px;
+        right: 49px;
+        font-size: 21px;
+}
+}
+/*------------------------------------------------------------------------------------------------*/
+@media (min-width: 992px)and (max-width:1999px){
+
+        .about-school-area {
+
+        height: 482px;
+}
+    .about-school-area .img-school-word .img-school img {
+        top: 23px;
+        right: 30px;
+        width: 391px;
+        height: 448px;
+}
+    .about-school-area .img-school-word .about-word h2 {
+        width: 355px;
+        top: 97px;
+        right: -11px;
+        font-size: 29px;
+}
+    .about-school-area .img-school-word .about-word span {
+        width:418px;
+        top: 164px;
+        right:10px;
+        font-size: 21px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------------*/
+
+@media(min-width: 1200px) and (max-width:1365px){
+    .about-school-area{
+    position: absolute;
+    top: 130px;
+    right: 0;
+    width:100%;
+    height: 480px;
+    background-color:#dedede
+}
+.about-school-area .img-school-word .img-school img {
+    position: absolute;
+    top: 33px;
+    right:85px;
+    width: 506px;
+    height: 422px;
+    border-radius: 18px;
+}
+.about-school-area .img-school-word .about-word h2 {
+    position: absolute;
+    width: 372px;
+    top: 97px;
+    right: 143px;
+    font-size: 38px;
+    color: #04367d;
+    font-family: 'Cairo', sans-serif;
+}
+.about-school-area .img-school-word .about-word span{
+    position: absolute;
+    width: 531px;
+    top: 164px;
+    right:49px;
+    font-size: 21px;
+    line-height: 42px;
+    text-align: justify;
+}
+.adress-about-school{
+    top:610px
+
+}
+.footer-about-school{
+    top:1080px
+}
+}
+/*------------------------------------------------------------------------------------------------*/
+
+@media(min-width: 1366px){
+        .about-school-area{
+    position: absolute;
+    top: 130px;
+    right: 0;
+    width:100%;
+    height: 480px;
+    background-color:#dedede
+}
+.about-school-area .img-school-word .img-school img {
+    position: absolute;
+    top: 33px;
+    right:85px;
+    width: 506px;
+    height: 422px;
+    border-radius: 18px;
+}
+.about-school-area .img-school-word .about-word h2 {
+    position: absolute;
+    width: 375px;
+    top: 97px;
+    right: 165px;
+    font-size: 38px;
+    color: #04367d;
+    font-family: 'Cairo', sans-serif;
+}
+.about-school-area .img-school-word .about-word span{
+    position: absolute;
+    width: 597px;
+    top: 164px;
+    right:49px;
+    font-size: 21px;
+    line-height: 42px;
+    text-align: justify;
+}
+.adress-about-school{
+    top:610px
+
+}
+.footer-about-school{
+    top:1080px
+}
+}
+/*----------------------------------------------------------------------------------------------------*/
+/*------------------------50%--------------------------------*/
+@media(min-width:2698px){
+    .about-school-area {
+        top: 130px;
+        width: 100%;
+        height: 529px;
+}
+    .adress-about-school {
+    top: 660px;
+    height: 499px;
+}
+    .footer-about-school {
+    top: 1160px;
+}
+}
+/*----------------------------------------------------------------------------------------------------*/
+/*------------------------30%--------------------------------*/
+@media(min-width:4047px){
+    .about-school-area {
+        top: 130px;
+        width: 100%;
+        height: 955px;
+}
+    .iframe-about-school{
+        top: 177px
+    }
+    .img-school-word{
+    position: relative;
+    top: 225px;
+}
+    .adress-about-school {
+        top: 1086px;
+        height: 700px;
+}
+    .address .inforamtion-call-about-school {
+    position: absolute;
+    top: 137px;
+    right: 0px;
+}
+    .footer-about-school {
+    top: 1785px;
+}
+}
+    /*----------------------------------------------------------------------------------------------------*/
+/*------------------------25%--------------------------------*/
+@media(min-width:5396px){
+    .about-school-area {
+        top: 130px;
+        width: 100%;
+        height: 1385px;
+}
+    .iframe-about-school{
+        top:265px
+    }
+    .img-school-word{
+    position: relative;
+    top: 485px;
+}
+    .adress-about-school {
+        top: 1516px;
+        height: 894px;;
+}
+    .address .inforamtion-call-about-school {
+    position: absolute;
+    top: 236px;
+    right: 0px;
+}
+    .footer-about-school {
+    top:2410px;
+}
+}

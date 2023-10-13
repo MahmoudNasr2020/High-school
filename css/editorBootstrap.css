@@ -1,0 +1,123 @@
+.navbar {
+    z-index: 1000;
+    top: 84px;
+    position: absolute;
+    width: 100%;
+}
+.bg-light {
+    background-color: #1f4b68 !important;
+}
+.navbar-light .navbar-nav  .nav-link{
+    color: white;
+    font-size: 18px;
+    padding: 2px;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+    margin-right: 158px;
+}
+.dropdown-menu{
+    left:-102px
+}
+.dropdown-item {
+    padding-bottom: 20px;
+    margin-top: -8px;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 20px;
+}
+.dropdown-item:hover, .dropdown-item:focus {
+    background-color: gold;
+}
+.dropdown-menu a:nth-of-type(3){
+    margin-bottom:-8px
+}
+.dropdown-toggle::after {
+    vertical-align: 0.1em;
+}
+.carousel {
+    top:43px;
+    z-index:600
+}
+.carousel-inner {
+    height: 536px;
+    top: -2px;
+}
+.w-100 {
+    height: 536px;
+}
+.carousel-caption {
+    right: 27%;
+    bottom: 42px;
+    left: 15%;
+    padding-top: 8px;
+    padding-bottom: 0px;
+    background-color: rgba(2, 2, 2, 0.5);
+      width: 601px;
+    border-radius: 20px;
+    height: 43px;
+}
+.carousel-indicators {
+    bottom: -12px;
+    margin-right: 13%;
+    margin-left: 15%;
+    list-style: none;
+}
+.carousel-indicators li {
+    width:40px;
+    height:20px;
+    margin-right: 3px;
+    margin-left: 3px;
+    border-top-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+.carousel-indicators .active {
+    background-color: #1f4b68;
+}
+.alert-error{
+    display:none;
+    border-radius: 47px;
+    text-align: center;
+    position: absolute;
+}
+.error-name{
+    top: 101px;
+    right: -61px;
+    width: 301px;
+}
+.error-email{
+    width: 165px;
+    top: 177px;
+    right: 69px;
+}
+.error-address{
+    top: 255px;
+    right: 29px;
+    width: 200px;
+}
+.error-mobile{
+    top: 327px;
+    right: 30px;
+    width: 193px;
+}
+.error-message{
+     width: 219px;
+    top: 193px;
+    right: 1147px;
+}
+.error-login {
+    width: 230px;
+    top: 335px;
+    right: 1100px;
+    position: absolute;
+}
+.msg-success{
+    width: 232px;
+    position: relative;
+    top: 42px;
+    right: 375px;
+    font-weight: bold;
+}
+

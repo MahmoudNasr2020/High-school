@@ -1,0 +1,5527 @@
+@media(max-width:320px){
+	.science-electrinc {
+		height: 1761px;
+		overflow: hidden
+	}
+	.years-of-subject {
+		top: 75px;
+}
+	.years-of-subject .fisrt-year-button {
+		top: 30px;
+		right: 44px;
+	}
+	.years-of-subject .second-year-button {
+		top: 175px;
+		right: 39px;
+	}
+	.years-of-subject .third-year-button {
+		top: 338px;
+		right: 39px;
+	}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .first-year-sebject .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		top: 1234px;
+		right: 78px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		top: 1400px;
+		right: 78px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		top: 1565px;
+		right: 78px;
+	}
+	.subject-of-types .science-button {
+		top: 153px;
+		right: -137px;
+	}
+	.subject-of-types .literary-button {
+		top: 272px;
+		right: -137px;
+	}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 3px;
+		right: 91px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+		top: 22px;
+		right: 254px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 260px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+		top: 22px;
+		right: 233px;
+	}
+	.subject-of-types-third .science-button {
+		top: 116px;
+		right: -133px;
+	}
+	.subject-of-types-third .math-button {
+		top: 262px;
+		right: -133px;
+	}
+	.subject-of-types-third .literary-button {
+		top: 395px;
+		right: -133px;
+	}
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 38px;
+		right: 94px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-1  {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		top: 30px;
+		right: 250px;
+	}
+		.science-electrinc .third-year-subject .math-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		top: 32px;
+		right: 243px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"] {
+		right: 248px;
+	}
+	.adress-education-school{
+		top: 1891px;
+	}
+	.footer-education-school{
+		top: 2360px;
+	}
+}
+/*-------------------------------------------------------------------------------------------------------------*/
+
+@media(min-width:321px) and (max-width:359px){
+	.science-electrinc {
+		height: 1761px;
+		overflow: hidden
+	}
+	.years-of-subject {
+		top: 75px;
+		right: -2px;
+}
+	.years-of-subject .fisrt-year-button {
+		top: 30px;
+		right: 44px;
+	}
+	.years-of-subject .second-year-button {
+		top: 175px;
+		right: 39px;
+	}
+	.years-of-subject .third-year-button {
+		top: 338px;
+		right: 39px;
+	}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 102px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		top: 231px;
+		right: 102px;
+}
+	.science-electrinc .first-year-sebject .subject-3 {
+		top: 405px;
+		right: 102px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		top:567px;
+		right: 102px
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		top: 739px;
+		right: 102px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		top: 906px;
+		right: 102px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		top: 1069px;
+		right:102px
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		top: 1234px;
+		right: 102px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		top: 1400px;
+		right: 102px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		top: 1565px;
+		right: 102px;
+	}
+	.subject-of-types .science-button {
+		top: 153px;
+		right: -137px;
+	}
+	.subject-of-types .literary-button {
+		top: 272px;
+		right: -137px;
+	}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 3px;
+		right: 91px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+		top: 22px;
+		right: 254px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 260px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+		top: 22px;
+		right: 233px;
+	}
+	.subject-of-types-third .science-button {
+		top: 116px;
+		right: -133px;
+	}
+	.subject-of-types-third .math-button {
+		top: 262px;
+		right: -133px;
+	}
+	.subject-of-types-third .literary-button {
+		top: 395px;
+		right: -133px;
+	}
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 38px;
+		right: 94px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-1  {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		top: 30px;
+		right: 250px;
+	}
+		.science-electrinc .third-year-subject .math-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		top: 32px;
+		right: 243px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"] {
+		right: 248px;
+	}
+	.adress-education-school{
+		top: 1891px;
+	}
+	.footer-education-school{
+		top: 2360px;
+	}
+}
+/*--------------------------------------------------------------------------------------------------------------*/
+@media(min-width:360px) and (max-width:383px){
+	.science-electrinc {
+		height: 1761px;
+		overflow: hidden
+	}
+	.years-of-subject {
+		top: 75px;
+		right: 22px;
+}
+	.years-of-subject .fisrt-year-button {
+		top: 30px;
+		right: 44px;
+	}
+	.years-of-subject .second-year-button {
+		top: 175px;
+		right: 39px;
+	}
+	.years-of-subject .third-year-button {
+		top: 338px;
+		right: 39px;
+	}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		top: 231px;
+		right: 110px;
+}
+	.science-electrinc .first-year-sebject .subject-3 {
+		top: 405px;
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		top:567px;
+		right: 110px
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		top: 739px;
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		top: 906px;
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		top: 1069px;
+		right:110px
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		top: 1234px;
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		top: 1400px;
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		top: 1565px;
+		right: 110px;
+	}
+	.subject-of-types .science-button {
+		top: 153px;
+		right: -137px;
+	}
+	.subject-of-types .literary-button {
+		top: 272px;
+		right: -137px;
+	}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 3px;
+		right: 91px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+		top: 22px;
+		right: 254px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 260px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+		top: 22px;
+		right: 233px;
+	}
+	.subject-of-types-third .science-button {
+		top: 116px;
+		right: -133px;
+	}
+	.subject-of-types-third .math-button {
+		top: 262px;
+		right: -133px;
+	}
+	.subject-of-types-third .literary-button {
+		top: 395px;
+		right: -133px;
+	}
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 38px;
+		right: 94px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-1  {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		top: 30px;
+		right: 250px;
+	}
+		.science-electrinc .third-year-subject .math-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		top: 32px;
+		right: 243px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"] {
+		right: 248px;
+	}
+	.adress-education-school{
+		top: 1891px;
+	}
+	.footer-education-school{
+		top: 2360px;
+	}
+}
+
+/*----------------------------------------------------------------------------------------------------------*/
+@media (min-width:384px) and (max-width:411px){
+	.science-electrinc {
+		height: 1761px;
+		overflow: hidden
+	}
+	.years-of-subject {
+		top: 75px;
+		right: 22px;
+}
+	.years-of-subject .fisrt-year-button {
+		top: 30px;
+		right: 44px;
+	}
+	.years-of-subject .second-year-button {
+		top: 175px;
+		right: 39px;
+	}
+	.years-of-subject .third-year-button {
+		top: 338px;
+		right: 39px;
+	}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		top: 231px;
+		right: 110px;
+}
+	.science-electrinc .first-year-sebject .subject-3 {
+		top: 405px;
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		top:567px;
+		right: 110px
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		top: 739px;
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		top: 906px;
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		top: 1069px;
+		right:110px
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		top: 1234px;
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		top: 1400px;
+		right: 110px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		top: 1565px;
+		right: 110px;
+	}
+	.subject-of-types .science-button {
+		top: 153px;
+		right: -137px;
+	}
+	.subject-of-types .literary-button {
+		top: 272px;
+		right: -137px;
+	}
+	.subject-of-types {
+		right: 207px;
+	}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 3px;
+		right: 91px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		right: 289px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+		top: 22px;
+		right: 254px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+    right: 294px;
+}
+
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+		top: 22px;
+		right: 233px;
+	}
+	.subject-of-types-third {
+		right: 210px;
+}
+	.subject-of-types-third .science-button {
+		top: 116px;
+		right: -133px;
+	}
+	.subject-of-types-third .math-button {
+		top: 262px;
+		right: -133px;
+	}
+	.subject-of-types-third .literary-button {
+		top: 395px;
+		right: -133px;
+	}
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 38px;
+		right: 94px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 57px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-1  {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		top: 30px;
+		right: 250px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+    	right: 52px;
+}
+		.science-electrinc .third-year-subject .math-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		top: 32px;
+		right: 243px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 51px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"] {
+		right: 248px;
+	}
+	.adress-education-school{
+		top: 1891px;
+	}
+	.footer-education-school{
+		top: 2662px;
+	}
+}
+/*--------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width:412px) and (max-width:440px){
+	.science-electrinc {
+		height: 1761px;
+		overflow: hidden
+	}
+	.years-of-subject {
+		top: 75px;
+		right: 42px;
+}
+	.years-of-subject .fisrt-year-button {
+		top: 30px;
+		right: 44px;
+	}
+	.years-of-subject .second-year-button {
+		top: 175px;
+		right: 39px;
+	}
+	.years-of-subject .third-year-button {
+		top: 338px;
+		right: 39px;
+	}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 144px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		top: 231px;
+		right: 144px;
+}
+	.science-electrinc .first-year-sebject .subject-3 {
+		top: 405px;
+		right: 144px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		top:567px;
+		right: 144px
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		top: 739px;
+		right: 144px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		top: 906px;
+		right: 144px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		top: 1069px;
+		right:144px
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		top: 1234px;
+		right: 144px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		top: 1400px;
+		right: 144px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		top: 1565px;
+		right: 144px;
+	}
+	.subject-of-types .science-button {
+		top: 153px;
+		right: -137px;
+	}
+	.subject-of-types .literary-button {
+		top: 272px;
+		right: -137px;
+	}
+	.subject-of-types {
+    	right: 227px;
+}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 3px;
+		right: 91px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		right: 306px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+		top: 22px;
+		right: 254px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+    right: 307px;
+}
+
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+		top: 22px;
+		right: 233px;
+	}
+	.subject-of-types-third {
+		right: 224px;
+}
+	
+	.subject-of-types-third .science-button {
+		top: 116px;
+		right: -133px;
+	}
+	.subject-of-types-third .math-button {
+		top: 262px;
+		right: -133px;
+	}
+	.subject-of-types-third .literary-button {
+		top: 395px;
+		right: -133px;
+	}
+	
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 38px;
+		right: 94px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 57px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-1  {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		top: 30px;
+		right: 250px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 61px;
+}
+		.science-electrinc .third-year-subject .math-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		top: 32px;
+		right: 243px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 58px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"] {
+		right: 248px;
+	}
+	.adress-education-school{
+		top: 1891px;
+	}
+	.footer-education-school{
+		top: 2663px;
+	}
+}
+/*-----------------------------------------------------------------------------------------------------*/
+@media (min-width:441px) and (max-width:479px){
+	.science-electrinc {
+		height: 1761px;
+		overflow: hidden
+	}
+	.years-of-subject {
+		top: 75px;
+		right: 60px;
+}
+	.years-of-subject .fisrt-year-button {
+		top: 30px;
+		right: 44px;
+	}
+	.years-of-subject .second-year-button {
+		top: 175px;
+		right: 39px;
+	}
+	.years-of-subject .third-year-button {
+		top: 338px;
+		right: 39px;
+	}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 151px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		top: 231px;
+		right: 151px;
+}
+	.science-electrinc .first-year-sebject .subject-3 {
+		top: 405px;
+		right: 151px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		top:567px;
+		right: 151px
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		top: 739px;
+		right: 151px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		top: 906px;
+		right: 151px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		top: 1069px;
+		right:151px
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		top: 1234px;
+		right: 151px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		top: 1400px;
+		right: 151px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		top: 1565px;
+		right: 151px;
+	}
+	.subject-of-types .science-button {
+		top: 153px;
+		right: -137px;
+	}
+	.subject-of-types .literary-button {
+		top: 272px;
+		right: -137px;
+	}
+	.subject-of-types {
+    	right: 227px;
+}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 3px;
+		right: 91px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		right: 315px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+		top: 22px;
+		right: 254px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+    right: 320px;
+}
+
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 {
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 {
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 {
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+		top: 22px;
+		right: 233px;
+	}
+	.subject-of-types-third {
+		right: 224px;
+}
+	
+	.subject-of-types-third .science-button {
+		top: 116px;
+		right: -133px;
+	}
+	.subject-of-types-third .math-button {
+		top: 262px;
+		right: -133px;
+	}
+	.subject-of-types-third .literary-button {
+		top: 395px;
+		right: -133px;
+	}
+	
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 38px;
+		right: 94px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 70px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-1  {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 {
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		top: 30px;
+		right: 250px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 70px;
+}
+		.science-electrinc .third-year-subject .math-department .subject-1 {
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		top: 32px;
+		right: 243px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 65px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		top: 231px;
+		right: 78px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		top: 405px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		top:567px;
+		right: 78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		top: 739px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		top: 906px;
+		right: 78px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		top: 1069px;
+		right:78px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"] {
+		right: 248px;
+	}
+	.adress-education-school{
+		top: 1891px;
+	}
+	.footer-education-school{
+		top: 2663px;
+	}
+}
+/*---------------------------------------------------------------------------------------------------------*/
+@media (min-width:480px) and (max-width:540px){
+	.science-electrinc {
+		height: 716px;
+		overflow: hidden
+	}
+	.years-of-subject {
+		top: 102px;
+    	right: 83px;
+}
+	.years-of-subject .fisrt-year-button {
+		top: 30px;
+		right: 44px;
+	}
+	.years-of-subject .second-year-button {
+		top: 175px;
+		right: 39px;
+	}
+	.years-of-subject .third-year-button {
+		top: 338px;
+		right: 39px;
+	}
+	.science-electrinc .first-year-sebject {
+		position: relative;
+		right: -10px;
+}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		top: 62px;
+    	right: 184px;
+}
+	.science-electrinc .first-year-sebject .subject-3 {
+		top: 62px;
+    	right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		 top: 214px;
+    	right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		top: 214px;
+    	right: 184px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		top: 214px;
+		right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		 top: 375px;
+		 right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		top: 375px;
+    	right: 184px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		top: 375px;
+    	right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		top: 538px;
+    	right: 187px;
+	}
+	.subject-of-types .science-button {
+		top: 153px;
+		right: -137px;
+	}
+	.subject-of-types .literary-button {
+		top: 272px;
+		right: -137px;
+	}
+	.subject-of-types {
+    	right: 270px;
+}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 3px;
+		right: 91px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		right: 315px;
+		top: 34px;
+
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 {
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 {
+	    top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 {
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		top: 417px;
+		right: 115px;
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+	top: 7px;
+    right: 372px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+    	right: 314px;
+		top: 30px;
+}
+
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 {
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 {
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 {
+		top: 235px;
+		right: 260px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 {
+		top: 417px;
+		right: 115px;
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+		top: 5px;
+		right: 372px;
+	}
+	.subject-of-types-third {
+		right: 251px;
+}
+	
+	.subject-of-types-third .science-button {
+		top: 116px;
+		right: -133px;
+	}
+	.subject-of-types-third .math-button {
+		top: 262px;
+		right: -133px;
+	}
+	.subject-of-types-third .literary-button {
+		top: 395px;
+		right: -133px;
+	}
+	
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 38px;
+		right: 94px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 70px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-1  {
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 {
+		top: 417px;
+		right: 115px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		top: 25px;
+		right: 373px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 70px;
+}
+		.science-electrinc .third-year-subject .math-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2{
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		top: 417px;
+		right: 115px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		top: 26px;
+    	right: 361px;
+
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 65px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		top: 417px;
+		right: 115px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"] {
+	    right: 358px;
+	}
+	.adress-education-school{
+		top: 845px;
+	}
+	.footer-education-school{
+		top: 1617px;
+	}
+}
+/*-----------------------------------------------------------------------------------------------------*/
+@media(min-width:541px) and (max-width:575px){
+	.science-electrinc {
+    	height: 716px;
+		overflow: hidden
+	}
+	.years-of-subject {
+		top: 102px;
+    	right: 113px;
+}
+	.years-of-subject .fisrt-year-button {
+		top: 30px;
+		right: 44px;
+	}
+	.years-of-subject .second-year-button {
+		top: 175px;
+		right: 39px;
+	}
+	.years-of-subject .third-year-button {
+		top: 338px;
+		right: 39px;
+	}
+	.science-electrinc .first-year-sebject {
+		position: relative;
+		right:31px;
+}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		top: 62px;
+    	right: 184px;
+}
+	.science-electrinc .first-year-sebject .subject-3 {
+		top: 62px;
+    	right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		 top: 214px;
+    	right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		top: 214px;
+    	right: 184px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		top: 214px;
+		right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		 top: 375px;
+		 right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		top: 375px;
+    	right: 184px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		top: 375px;
+    	right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		top: 538px;
+    	right: 187px;
+	}
+	.subject-of-types .science-button {
+		top: 153px;
+		right: -137px;
+	}
+	.subject-of-types .literary-button {
+		top: 272px;
+		right: -137px;
+	}
+	.subject-of-types {
+    	right: 281px;
+}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 21px;
+    	right: 116px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		right: 351px;
+		top: 34px;
+
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 {
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 {
+	    top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 {
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		top: 417px;
+		right: 115px;
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+	top: 7px;
+    right: 372px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+    	right: 352px;
+		top: 30px;
+}
+
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 {
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 {
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 {
+		top: 235px;
+		right: 260px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 {
+		top: 417px;
+		right: 115px;
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+		top: 5px;
+		right: 372px;
+	}
+	.subject-of-types-third {
+		right: 285px;
+}
+	
+	.subject-of-types-third .science-button {
+		top: 116px;
+		right: -133px;
+	}
+	.subject-of-types-third .math-button {
+		top: 262px;
+		right: -133px;
+	}
+	.subject-of-types-third .literary-button {
+		top: 395px;
+		right: -133px;
+	}
+	
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 38px;
+		right: 94px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 100px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-1  {
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 {
+		top: 417px;
+		right: 115px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		top: 25px;
+		right: 373px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 100px;
+}
+		.science-electrinc .third-year-subject .math-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2{
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		top: 417px;
+		right: 115px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		top: 26px;
+    	right: 361px;
+
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 100px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		top: 417px;
+		right: 115px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"] {
+	    right: 358px;
+	}
+	.adress-education-school{
+		top: 845px;
+	}
+	.footer-education-school{
+		top: 1617px;
+	}
+}
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+@media(min-width:576px) and (max-width:650px){
+	.science-electrinc {
+    	height: 716px;
+		overflow: hidden
+	}
+	.years-of-subject {
+		top: 102px;
+    	right: 125px;
+}
+	.years-of-subject .fisrt-year-button {
+		top: 30px;
+		right: 44px;
+	}
+	.years-of-subject .second-year-button {
+		top: 175px;
+		right: 39px;
+	}
+	.years-of-subject .third-year-button {
+		top: 338px;
+		right: 39px;
+	}
+	.science-electrinc .first-year-sebject {
+		position: relative;
+		right: 52px
+}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		top: 62px;
+    	right: 184px;
+}
+	.science-electrinc .first-year-sebject .subject-3 {
+		top: 62px;
+    	right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		 top: 214px;
+    	right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		top: 214px;
+    	right: 184px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		top: 214px;
+		right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		 top: 375px;
+		 right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		top: 375px;
+    	right: 184px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		top: 375px;
+    	right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		top: 538px;
+    	right: 187px;
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+		left: 66px;
+}
+	.subject-of-types .science-button {
+		top: 153px;
+		right: -137px;
+	}
+	.subject-of-types .literary-button {
+		top: 272px;
+		right: -137px;
+	}
+	.subject-of-types {
+    	right: 315px;
+}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 21px;
+    	right: 116px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		right: 370px;
+		top: 34px;
+
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 {
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 {
+	    top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 {
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		top: 417px;
+		right: 115px;
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+	top: 7px;
+    right: 372px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+    	right: 370px;
+		top: 30px;
+}
+
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 {
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 {
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 {
+		top: 235px;
+		right: 260px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 {
+		top: 417px;
+		right: 115px;
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+		top: 5px;
+		right: 372px;
+	}
+	.subject-of-types-third {
+		right: 303px;
+}
+	
+	.subject-of-types-third .science-button {
+		top: 116px;
+		right: -133px;
+	}
+	.subject-of-types-third .math-button {
+		top: 262px;
+		right: -133px;
+	}
+	.subject-of-types-third .literary-button {
+		top: 395px;
+		right: -133px;
+	}
+	
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 38px;
+		right: 94px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 122px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-1  {
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 {
+		top: 417px;
+		right: 115px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		top: 25px;
+		right: 373px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 122px;
+}
+		.science-electrinc .third-year-subject .math-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2{
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		top: 417px;
+		right: 115px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		top: 26px;
+    	right: 361px;
+
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 122px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		top: 417px;
+		right: 115px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"] {
+	    right: 358px;
+	}
+	.adress-education-school{
+		top: 845px;
+	}
+	.footer-education-school{
+		top: 1617px;
+	}
+}
+/*---------------------------------------------------------------------------------------------------------------*/
+@media(min-width:651px) and (max-width:767px){
+		.science-electrinc {
+    	height: 716px;
+		overflow: hidden
+	}
+	.years-of-subject {
+		top: 102px;
+    	right: 170px;
+}
+	.years-of-subject .fisrt-year-button {
+		top: 30px;
+		right: 44px;
+	}
+	.years-of-subject .second-year-button {
+		top: 175px;
+		right: 39px;
+	}
+	.years-of-subject .third-year-button {
+		top: 338px;
+		right: 39px;
+	}
+	.science-electrinc .first-year-sebject {
+		position: relative;
+		right: 92px
+}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		top: 62px;
+    	right: 184px;
+}
+	.science-electrinc .first-year-sebject .subject-3 {
+		top: 62px;
+    	right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		 top: 214px;
+    	right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		top: 214px;
+    	right: 184px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		top: 214px;
+		right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		 top: 375px;
+		 right: 25px;
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		top: 375px;
+    	right: 184px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		top: 375px;
+    	right: 337px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		top: 538px;
+    	right: 187px;
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+		left: 111px;
+}
+	.subject-of-types .science-button {
+		top: 153px;
+		right: -137px;
+	}
+	.subject-of-types .literary-button {
+		top: 272px;
+		right: -137px;
+	}
+	.subject-of-types {
+    	right: 350px;
+}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 21px;
+    	right: 116px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		right: 420px;
+		top: 34px;
+
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 {
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 {
+	    top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 {
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		top: 417px;
+		right: 115px;
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+	top: 7px;
+    right: 372px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+    	right: 420px;
+		top: 30px;
+}
+
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 {
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 {
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 {
+		top: 235px;
+		right: 260px
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 {
+		top: 417px;
+		right: 115px;
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+		top: 5px;
+		right: 372px;
+	}
+	.subject-of-types-third {
+		right: 338px;
+}
+	
+	.subject-of-types-third .science-button {
+		top: 116px;
+		right: -133px;
+	}
+	.subject-of-types-third .math-button {
+		top: 262px;
+		right: -133px;
+	}
+	.subject-of-types-third .literary-button {
+		top: 395px;
+		right: -133px;
+	}
+	
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 38px;
+		right: 94px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 170px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-1  {
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 {
+		top: 417px;
+		right: 115px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		top: 25px;
+		right: 373px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 170px;
+}
+		.science-electrinc .third-year-subject .math-department .subject-1 {
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2{
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		top: 417px;
+		right: 115px
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		top: 26px;
+    	right: 361px;
+
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 170px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right:-50px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		top: 62px;
+		right: 106px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		top: 62px;
+    	right: 260px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		top: 235px;
+		right: -50px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		top: 235px;
+    	right: 106px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		top: 235px;
+		right: 260px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		top: 417px;
+		right: 115px
+	}
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"] {
+	    right: 358px;
+	}
+	.adress-education-school{
+		top: 845px;
+	}
+	.footer-education-school{
+		top: 1617px;
+	}
+}
+/*---------------------------------------------------------------------------------------------------------------*/
+@media (min-width:768px) and (max-width: 850px){
+	.science-electrinc{
+		overflow: hidden
+	}
+	.years-of-subject{
+    	right: -128px;
+	    top: -15px;
+	}
+	.science-electrinc .first-year-sebject {
+		position: relative;
+		right: -24px;
+}
+	.years-of-subject .third-year-button {
+		top: 283px;
+		right: 392px;
+	}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .first-year-sebject .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		right: 507px;
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		right: 651px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		right: 28px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		right: 181px;
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		right: 343px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		right: 507px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		right: 651px;
+	}
+	.subject-of-types {
+    	right: -89px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		right: 306px;
+}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 18px;
+		right: 809px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		right: 250px;
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+		top: 27px;
+		right: 649px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7{
+		right: 250px;
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+    	right: 691px;
+	}
+	.subject-of-types-third {
+		right: 54px;
+	    top: -11px;
+
+	}
+	.subject-of-types-third .literary-button {
+		top: 279px;
+		right: 209px;
+	}
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 53px;
+		right: 643px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 56px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7{
+		right: 250px;
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		right: 660px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 49px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		right: 250px;
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		right: 660px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		right: 250px;
+	}
+	
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"]{
+		right: 660px;
+	}
+	.adress-education-school {
+    	top: 610px;
+}
+	.footer-education-school {
+    	top: 1079px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------------*/
+@media (min-width:851px) and (max-width: 991px){
+	.science-electrinc{
+		overflow: hidden
+	}
+	.years-of-subject{
+    	right: -91px;
+	    top: -15px;
+	}
+	.science-electrinc .first-year-sebject {
+		position: relative;
+    	right: 25px;
+}
+	.years-of-subject .third-year-button {
+		top: 283px;
+		right: 392px;
+	}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .first-year-sebject .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		right: 507px;
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		right: 651px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		right: 28px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		right: 181px;
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		right: 343px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		right: 507px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		right: 651px;
+	}
+	.subject-of-types {
+    	right: -89px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		right: 352px;
+}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 18px;
+		right: 809px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		right: 250px;
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+		top: 27px;
+		right: 649px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 337px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7{
+		right: 250px;
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+    	right: 691px;
+	}
+	.subject-of-types-third {
+		right:87px;
+	    top: -11px;
+
+	}
+	.subject-of-types-third .literary-button {
+		top: 279px;
+		right: 209px;
+	}
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 53px;
+		right: 643px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 91px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7{
+		right: 250px;
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		right: 660px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 94px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		right: 250px;
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		right: 660px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+    	right: 97px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		right: 250px;
+	}
+	
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"]{
+		right: 660px;
+	}
+	.adress-education-school {
+    	top: 610px;
+}
+	.footer-education-school {
+    	top: 1079px;
+}
+}
+/*------------------------------------------------------------------------------------------------*/
+@media (min-width: 992px)and (max-width:1999px){
+	.science-electrinc{
+		overflow: hidden
+	}
+	.years-of-subject{
+    	right:-4px;
+	    top: -15px;
+	}
+	.science-electrinc .first-year-sebject {
+		position: relative;
+    	right: 90px;
+}
+	.years-of-subject .third-year-button {
+		top: 283px;
+		right: 392px;
+	}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .first-year-sebject .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		right: 507px;
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		right: 651px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		right: 28px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		right: 181px;
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		right: 343px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		right: 507px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		right: 651px;
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+		left: 117px;
+	}
+	.subject-of-types {
+    	right: -17px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		right: 410px;
+}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 18px;
+		right: 809px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		right: 250px;
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+		top: 27px;
+		right: 649px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 398px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7{
+		right: 250px;
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+    	right: 691px;
+	}
+	.subject-of-types-third {
+		right:160px;
+	    top: -11px;
+
+	}
+	.subject-of-types-third .literary-button {
+		top: 279px;
+		right: 209px;
+	}
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 53px;
+		right: 643px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 160px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7{
+		right: 250px;
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		right: 660px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 160px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		right: 250px;
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		right: 660px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+    	right: 160px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		right: 250px;
+	}
+	
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"]{
+		right: 660px;
+	}
+	.adress-education-school {
+    	top: 610px;
+}
+	.footer-education-school {
+    	top: 1079px;
+}
+}
+/*---------------------------------------------------------------------------------------------------------------*/
+
+@media(min-width: 1200px) and (max-width:1365px){
+	.science-electrinc{
+		overflow: hidden
+	}
+	.years-of-subject{
+    	right:-65px;
+	    top: -15px;
+	}
+	.science-electrinc .first-year-sebject {
+		position: relative;
+    	right: 226px;
+}
+	.years-of-subject .third-year-button {
+		top: 185px;
+    	right: 937px;
+	}
+	.science-electrinc .first-year-sebject .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .first-year-sebject .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .first-year-sebject .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .first-year-sebject .subject-4 {
+		right: 507px;
+	}
+	.science-electrinc .first-year-sebject .subject-5 {
+		right: 651px;
+	}
+	.science-electrinc .first-year-sebject .subject-6 {
+		right: 28px;
+	}
+	.science-electrinc .first-year-sebject .subject-7 {
+		right: 181px;
+	}
+	.science-electrinc .first-year-sebject .subject-8 {
+		right: 343px;
+	}
+	.science-electrinc .first-year-sebject .subject-9 {
+		right: 507px;
+	}
+	.science-electrinc .first-year-sebject .subject-10 {
+		right: 651px;
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+		left: 285px;
+	}
+	.subject-of-types {
+    	right: 120px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		right: 512px;
+}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		top: 18px;
+		right: 809px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 {
+		right: 250px;
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+		top: 27px;
+		right: 649px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 512px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 {
+		right: 343px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7{
+		right: 250px;
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+    	right: 691px;
+	}
+	.subject-of-types-third {
+		right:298px;
+	    top: -11px;
+
+	}
+	.subject-of-types-third .literary-button {
+		top: 279px;
+		right: 209px;
+	}
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		top: 53px;
+		right: 643px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 288px;
+}
+	.science-electrinc .third-year-subject .science-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7{
+		right: 250px;
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		right: 660px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 288px;
+}
+	.science-electrinc .third-year-subject .math-department .subject-1 {
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2 {
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		right: 250px;
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		right: 660px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+    	right: 288px;
+}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		right: 181px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3{
+		right: 343px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		right: 497px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		right: 495px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		right: 28px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		right: 250px;
+	}
+	
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"]{
+		right: 660px;
+	}
+	.adress-education-school {
+    	top: 610px;
+}
+	.footer-education-school {
+    	top: 1079px;
+}
+}
+/*------------------------------------------------------------------------------------------------*/
+
+@media(min-width: 1366px){
+	
+	.science-electrinc{
+		position: absolute;
+		width: 100%;
+		height: 480px;
+		background-image: url(../img/background-science.png);
+		background-repeat:no-repeat;
+		top:130px;
+		right: 0;
+		background-attachment:fixed;
+		background-size: 100% 100%
+	}
+	.years-of-subject{
+		position: absolute;
+		top:20px;
+		z-index:20;
+		right: 0px;
+	}
+	.science-electrinc .first-year-sebject {
+		position: relative;
+		right: 8px;
+}
+	.years-of-subject .fisrt-year-button{
+		position: absolute;
+		top: 185px;
+		right: 220px;
+		width: 223px;
+		height: 60px;
+		background-color: rgb(255, 131, 83);
+		border-radius:30px;
+		cursor: pointer;
+		transition:all 0.5s linear
+
+	}
+	.years-of-subject .fisrt-year-button button{
+		width:100%;
+		height:100%;
+		font-size:23px;
+		border:none;
+		background: none;
+		outline:none;
+		font-family: 'Cairo', sans-serif;
+		font-weight:bold;
+		cursor: pointer;
+		color:white
+	}
+	.years-of-subject .second-year-button{
+		position: absolute;
+		top: 185px;
+		right: 572px;
+		width: 223px;
+		height: 60px;
+		background-color:#056787;
+		border-radius:30px;
+		cursor: pointer;
+		transition:all 0.5s linear
+
+	}
+	.years-of-subject .second-year-button button{
+		width:100%;
+		height:100%;
+		font-size:23px;
+		border:none;
+		background: none;
+		outline:none;
+		font-family: 'Cairo', sans-serif;
+		font-weight:bold;
+		cursor: pointer;
+		color:white;
+
+
+	}
+	.years-of-subject .third-year-button{
+		position: absolute;
+		top: 185px;
+		right: 920px;
+		width: 223px;
+		height: 60px;
+		background-color:  rgb(75, 63, 139);
+		border-radius:30px;
+		cursor: pointer;
+		transition:all 0.5s linear
+
+	}
+	.years-of-subject .third-year-button button{
+		width:100%;
+		height:100%;
+		font-size:23px;
+		border:none;
+		background: none;
+		outline:none;
+		font-family: 'Cairo', sans-serif;
+		font-weight:bold;
+		cursor: pointer;
+		color:white
+	}
+	.years-of-subject .fisrt-year-button:hover,.years-of-subject .second-year-button:hover,.years-of-subject .third-year-button:hover
+	{
+		transform:scale(1.07,1.07);
+		transition:all 0.5s linear
+	}
+	.science-electrinc .first-year-sebject{
+		display:none;
+		z-index:25
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+		position: absolute;
+		top: 23px;
+		left: 33px;
+		font-size: 20px;
+		color: #2A0801;
+		cursor: pointer;
+	}
+
+	.science-electrinc .first-year-sebject .subject-1{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: rgb(255, 131, 83);
+		border-radius: 50%;
+		top: 60px;
+		right: 50px;
+		transition:all 0.5s linear
+	}
+	.science-electrinc .first-year-sebject .subject-1 img{
+		width: 92px;
+		height: 70px;
+		position: absolute;
+		top: 22px;
+		right: 20px;
+		cursor: pointer;
+	}
+	.science-electrinc .first-year-sebject .subject-1 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 10px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .first-year-sebject .subject-2{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #5D05C1;
+		border-radius: 50%;
+		top: 60px;
+		right: 319px;
+		transition:all 0.5s linear
+	}
+	.science-electrinc .first-year-sebject .subject-2 img {
+		width: 97px;
+		height: 77px;
+		position: absolute;
+		top: 13px;
+		right: 13px;
+		cursor: pointer;
+	}
+	.science-electrinc .first-year-sebject .subject-2 h3 {
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 4px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .first-year-sebject .subject-3{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #5D054A;
+		border-radius: 50%;
+		top: 60px;
+		right: 601px;	
+		transition:all 0.5s linear
+	}
+	.science-electrinc .first-year-sebject .subject-3 img{
+		width: 94px;
+		height: 68px;
+		position: absolute;
+		top: 30px;
+		right: 13px;
+		cursor: pointer;
+	}
+	.science-electrinc .first-year-sebject .subject-3 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 2px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .first-year-sebject .subject-4{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #c0392b;
+		border-radius: 50%;
+		top: 60px;
+		right: 892px;
+		transition:all 0.5s linear
+	}
+	.science-electrinc .first-year-sebject .subject-4 img{
+		width: 103px;
+		height: 78px;
+		position: absolute;
+		top: 21px;
+		right: 12px;
+		cursor: pointer;
+	}
+	.science-electrinc .first-year-sebject .subject-4 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 26px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .first-year-sebject .subject-5{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color:rgb(157, 54, 399);
+		border-radius: 50%;
+		top: 60px;
+		right: 1168px;
+		transition:all 0.5s linear
+	}
+	.science-electrinc .first-year-sebject .subject-5 img{
+		width: 99px;
+		height: 76px;
+		position: absolute;
+		top: 15px;
+		right: 12px;
+		cursor: pointer;
+	}
+	.science-electrinc .first-year-sebject .subject-5 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 31px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .first-year-sebject .subject-6{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #7072EC;
+		border-radius: 50%;
+		top: 282px;
+		right: 50px;
+		transition:all 0.5s linear
+	}
+	.science-electrinc .first-year-sebject .subject-6 img{
+		width: 119px;
+		height: 80px;
+		position: absolute;
+		top: 17px;
+		right: -31px;
+		cursor: pointer;
+	}
+	.science-electrinc .first-year-sebject .subject-6 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 37px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .first-year-sebject .subject-7{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #056787;
+		border-radius: 50%;
+		top: 282px;
+		right: 319px;
+		transition:all 0.5s linear
+	}
+	.science-electrinc .first-year-sebject .subject-7 img{
+		 width: 99px;
+		height: 75px;
+		position: absolute;
+		top: 22px;
+		right: 10px;
+		cursor: pointer;
+	}
+	.science-electrinc .first-year-sebject .subject-7 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 26px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+
+	.science-electrinc .first-year-sebject .subject-8{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #012E43;
+		border-radius: 50%;
+		top: 282px;
+		right: 601px;
+		transition:all 0.5s linear
+	}
+	.science-electrinc .first-year-sebject .subject-8 img{
+		width: 102px;
+		height: 82px;
+		position: absolute;
+		top: 10px;
+		right: 8px;
+		cursor: pointer;
+	}
+	.science-electrinc .first-year-sebject .subject-8 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 27px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .first-year-sebject .subject-9{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: rgb(75, 63, 139);
+		border-radius: 50%;
+		top: 282px;
+		right: 892px;
+		transition:all 0.5s linear
+
+	}
+	.science-electrinc .first-year-sebject .subject-9 img{
+		width: 78px;
+		height: 72px;
+		position: absolute;
+		top: 16px;
+		right: 21px;
+		cursor: pointer;
+	}
+	.science-electrinc .first-year-sebject .subject-9 h3{
+		 color: white;
+		position: absolute;
+		top: 121px;
+		right: 31px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .first-year-sebject .subject-10{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color:#27AD87;
+		border-radius: 50%;
+		top: 282px;
+		right: 1168px;
+		transition:all 0.5s linear
+
+	}
+	.science-electrinc .first-year-sebject .subject-10 img{
+		width: 96px;
+		height: 75px;
+		position: absolute;
+		top: 20px;
+		right: 14px;
+		cursor: pointer;
+	}
+	.science-electrinc .first-year-sebject .subject-10 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 39px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .first-year-sebject .subject-1:hover,.science-electrinc .first-year-sebject .subject-2:hover,.science-electrinc .first-year-sebject .subject-3:hover,.science-electrinc .first-year-sebject .subject-4:hover,.science-electrinc .first-year-sebject .subject-5:hover,.science-electrinc .first-year-sebject .subject-6:hover,.science-electrinc .first-year-sebject .subject-7:hover,.science-electrinc .first-year-sebject .subject-8:hover,.science-electrinc .first-year-sebject .subject-9:hover,.science-electrinc .first-year-sebject .subject-10:hover
+	{
+		transform:scale(1.1,1.1);
+		transition:all 0.5s linear
+	}
+
+	.subject-of-types{
+		position: absolute;
+		top:20px;
+		z-index:30;
+		right: 176px;
+		display: none
+	}
+	.subject-of-types .science-button{
+		position: absolute;
+		top: 185px;
+		right: 220px;
+		width: 223px;
+		height: 60px;
+		background-color: rgb(255, 131, 83);
+		border-radius:30px;
+		cursor: pointer;
+		transition:all 0.5s linear
+
+	}
+	.subject-of-types .science-button button{
+		width:100%;
+		height:100%;
+		font-size:23px;
+		border:none;
+		background: none;
+		outline:none;
+		font-family: 'Cairo', sans-serif;
+		font-weight:bold;
+		cursor: pointer;
+		color:white
+	}
+	.subject-of-types .literary-button{
+		position: absolute;
+		top: 185px;
+		right: 572px;
+		width: 223px;
+		height: 60px;
+		background-color:#056787;
+		border-radius:30px;
+		cursor: pointer;
+		transition:all 0.5s linear
+
+	}
+	.subject-of-types .literary-button button{
+		width:100%;
+		height:100%;
+		font-size:23px;
+		border:none;
+		background: none;
+		outline:none;
+		font-family: 'Cairo', sans-serif;
+		font-weight:bold;
+		cursor: pointer;
+		color:white;
+
+
+	}
+
+	.subject-of-types .science-button:hover,.subject-of-types .literary-button:hover
+	{
+		transform:scale(1.07,1.07);
+		transition:all 0.5s linear
+	}
+	.science-electrinc .subject-of-types i[ class="fas fa-arrow-left back2"] {
+		position: absolute;
+		top: 3px;
+		right: 1131px;
+		font-size: 20px;
+		color: #2A0801;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject i[ class="fas fa-arrow-left back3"] {
+		position: absolute;
+		top: 14px;
+		right: 1295px;
+		font-size: 20px;
+		color: #2A0801;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+		display: none;
+		position: absolute;
+		right: 266px;
+	}
+	.science-electrinc .second-year-subject
+	{
+		 position: absolute;
+		right: -246px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-1{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		border-radius: 50%;
+		top: 60px;
+		right: 149px;
+		transition: all 0.5s linear;
+		background-color: rgb(255, 131, 83);
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 img{
+		width: 82px;
+		height: 78px;
+		position: absolute;
+		top: 19px;
+		right: 24px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-1 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 16px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #5D05C1;
+		border-radius: 50%;
+		top: 60px;
+		right: 446px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 img{
+		width: 87px;
+		height: 78px;
+		position: absolute;
+		top: 18px;
+		right: 18px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-2 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 3px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		width: 112px;
+		font-size: 18px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 {
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #5D054A;
+		border-radius: 50%;
+		top: 60px;
+		right: 740px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 img{
+		width: 87px;
+		height: 78px;
+		position: absolute;
+		top: 25px;
+		right: 18px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-3 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 2px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+		width: 110px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #c0392b;
+		border-radius: 50%;
+		top: 282px;
+		right: 149px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 img{
+		width: 107px;
+		height: 80px;
+		position: absolute;
+		top: 17px;
+		right: 10px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-4 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 25px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: rgb(157, 54, 399);
+		border-radius: 50%;
+		top: 60px;
+		right: 1005px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 img{
+		width: 93px;
+		height: 86px;
+		position: absolute;
+		top: 14px;
+		right: 14px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-5 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 34px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+
+	.science-electrinc .second-year-subject .scientific-department .subject-6{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: rgb(75, 63, 139);
+		border-radius: 50%;
+		top: 282px;
+		right: 587px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 img{
+		width: 76px;
+		height: 74px;
+		position: absolute;
+		top: 17px;
+		right: 21px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-6 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 31px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #27AD87;
+		border-radius: 50%;
+		top: 282px;
+		right: 1005px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 img{
+		width: 84px;
+		height: 78px;
+		position: absolute;
+		top: 20px;
+		right: 19px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .scientific-department .subject-7 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right:-74px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		width: 158px;
+		font-size: 18px;
+	}
+	.science-electrinc .second-year-subject .subject-1:hover,.science-electrinc .second-year-subject .subject-2:hover,.science-electrinc .second-year-subject .subject-3:hover,.science-electrinc .second-year-subject .subject-4:hover,.science-electrinc .second-year-subject .subject-5:hover,.science-electrinc .second-year-subject .subject-6:hover,.science-electrinc .second-year-subject .subject-7:hover
+	{
+		transform:scale(1.1,1.1);
+		transition:all 0.5s linear
+	}
+	.science-electrinc .second-year-subject
+	{
+			position: absolute;
+		right: -246px;
+	}
+
+	.science-electrinc .second-year-subject .Literary-department
+	{
+		 position: absolute;
+		 right: 288px;
+		 display: none
+	}
+	.science-electrinc .second-year-subject .Literary-department i[ class="fas fa-arrow-left back4"] {
+		position: absolute;
+		top: 29px;
+		right: 1257px;
+		font-size: 20px;
+		color: #2A0801;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-1{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		border-radius: 50%;
+		top: 60px;
+		right: 149px;
+		transition: all 0.5s linear;
+		background-color: rgb(255, 131, 83);
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-1 img{
+		width: 82px;
+		height: 78px;
+		position: absolute;
+		top: 19px;
+		right: 24px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-1 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 16px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #5D05C1;
+		border-radius: 50%;
+		top: 60px;
+		right: 446px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 img{
+		width: 87px;
+		height: 78px;
+		position: absolute;
+		top: 18px;
+		right: 18px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-2 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 3px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		width: 112px;
+		font-size: 18px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-3{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #5D054A;
+		border-radius: 50%;
+		top: 60px;
+		right: 740px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 img{
+		width: 87px;
+		height: 78px;
+		position: absolute;
+		top: 25px;
+		right: 18px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-3 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 2px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+		width: 110px;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #7072EC;
+		border-radius: 50%;
+		top: 282px;
+		right: 149px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 img{
+		width: 107px;
+		height: 80px;
+		position: absolute;
+		top: 17px;
+		right: -20px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-4 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 35px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: rgb(157, 54, 399);
+		border-radius: 50%;
+		top: 60px;
+		right: 1005px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 img{
+		width: 93px;
+		height: 86px;
+		position: absolute;
+		top: 14px;
+		right: 14px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-5 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 26px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+
+	.science-electrinc .second-year-subject .Literary-department .subject-6{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color:#012E43;
+		border-radius: 50%;
+		top: 282px;
+		right: 587px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 img{
+		width: 106px;
+		height: 82px;
+		position: absolute;
+		top: 9px;
+		right: 8px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-6 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 31px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color:#c0392b;
+		border-radius: 50%;
+		top: 282px;
+		right: 1005px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 img{
+		width: 84px;
+		height: 78px;
+		position: absolute;
+		top: 20px;
+		right: 19px;
+		cursor: pointer;
+	}
+	.science-electrinc .second-year-subject .Literary-department .subject-7 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: -23px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		width: 158px;
+		font-size: 18px;
+	}
+
+	/* تالتة ثانوي*/
+
+
+	.subject-of-types-third{
+		position: absolute;
+		top:20px;
+		z-index:30;
+		right: 176px;
+		display:none
+	}
+	.subject-of-types-third i[class="fas fa-arrow-left back5"] {
+		position: absolute;
+		top: 0px;
+		right: 1133px;
+		font-size: 20px;
+		color: #2A0801;
+		cursor: pointer;
+	}
+	.subject-of-types-third .science-button{
+		position: absolute;
+		top: 185px;
+		right: 19px;
+		width: 223px;
+		height: 60px;
+		background-color:#056787;
+		border-radius:30px;
+		cursor: pointer;
+		transition:all 0.5s linear
+
+	}
+	.subject-of-types-third .science-button button{
+		width:100%;
+		height:100%;
+		font-size:23px;
+		border:none;
+		background: none;
+		outline:none;
+		font-family: 'Cairo', sans-serif;
+		font-weight:bold;
+		cursor: pointer;
+		color:white
+	}
+	.subject-of-types-third .math-button{
+		position: absolute;
+		top: 185px;
+		right: 389px;
+		width: 223px;
+		height: 60px;
+		background-color: rgb(255, 131, 83);
+		border-radius:30px;
+		cursor: pointer;
+		transition:all 0.5s linear
+	}
+	.subject-of-types-third .math-button button{
+		width:100%;
+		height:100%;
+		font-size:23px;
+		border:none;
+		background: none;
+		outline:none;
+		font-family: 'Cairo', sans-serif;
+		font-weight:bold;
+		cursor: pointer;
+		color:white
+	}
+	.subject-of-types-third .literary-button{
+		position: absolute;
+		top: 185px;
+		right: 741px;
+		width: 223px;
+		height: 60px;
+		background-color:rgb(75, 63, 139);
+		border-radius:30px;
+		cursor: pointer;
+		transition:all 0.5s linear
+	
+}
+	.subject-of-types-third .literary-button button{
+		width:100%;
+		height:100%;
+		font-size:23px;
+		border:none;
+		background: none;
+		outline:none;
+		font-family: 'Cairo', sans-serif;
+		font-weight:bold;
+		cursor: pointer;
+		color:white;
+	}
+
+	.subject-of-types-third .science-button:hover,
+	.subject-of-types-third .math-button:hover,
+	.subject-of-types-third .literary-button:hover
+	{
+		transform:scale(1.07,1.07);
+		transition:all 0.5s linear
+	}
+	/* علمي علوم */
+	.science-electrinc .third-year-subject .science-department {
+		display:none ;
+		position: absolute;
+		right: 20px;
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back6"] {
+		position: absolute;
+		top: 30px;
+		right: 1286px;
+		font-size: 20px;
+		color: #2A0801;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-1{
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: rgb(255, 131, 83);
+		border-radius: 50%;
+		top: 60px;
+		right: 149px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-1 img{
+		width: 81px;
+		height: 78px;
+		position: absolute;
+		top: 21px;
+		right: 25px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-1 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 15px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2{
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: #5D05C1;
+		border-radius: 50%;
+		top: 60px;
+		right: 446px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 img{
+		width: 89px;
+		height: 78px;
+		position: absolute;
+		top: 17px;
+		right: 18px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-2 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 5px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+		width: 110px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-3 {
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: #5D054A;
+		border-radius: 50%;
+		top: 60px;
+		right: 740px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-3 img{
+		width: 85px;
+		height: 78px;
+		position: absolute;
+		top: 23px;
+		right: 16px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-3 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 5px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+		width: 110px;
+
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4{
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: #c0392b;
+		border-radius: 50%;
+		top: 282px;
+		right: 149px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4 img{
+		width: 77px;
+		height: 83px;
+		position: absolute;
+		top: 14px;
+		right: 23px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-4 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 24px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5{
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: rgb(157, 54, 399);
+		border-radius: 50%;
+		top: 60px;
+		right: 1005px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5 img{
+		width: 88px;
+		height: 78px;
+		position: absolute;
+		top: 22px;
+		right: 17px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-5 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 34px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+
+	.science-electrinc .third-year-subject .science-department .subject-6{
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: rgb(75, 63, 139);
+		border-radius: 50%;
+		top: 282px;
+		right: 587px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6 img{
+		width: 67px;
+		height: 72px;
+		position: absolute;
+		top: 19px;
+		right: 28px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-6 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 32px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7{
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: #27AD87;
+		border-radius: 50%;
+		top: 282px;
+		right: 1005px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 img{
+		width: 92px;
+		height: 78px;
+		position: absolute;
+		top: 18px;
+		right: 19px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-7 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 38px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .third-year-subject .science-department .subject-1:hover,.science-electrinc .third-year-subject .science-department .subject-2:hover,.science-electrinc .third-year-subject .science-department .subject-3:hover,.science-electrinc .third-year-subject .science-department .subject-4:hover,.science-electrinc .third-year-subject .science-department .subject-5:hover,.science-electrinc .third-year-subject .science-department .subject-5:hover,.science-electrinc .third-year-subject .science-department .subject-6:hover,.science-electrinc .third-year-subject .science-department .subject-7:hover
+	{
+		transform:scale(1.1,1.1);
+		transition:all 0.5s linear
+	}
+	/*علمي رياضة*/
+	.science-electrinc .third-year-subject .math-department {
+		display:none;
+		position: absolute;
+		right: 20px;
+	}
+	.third-year-subject i[ class="fas fa-arrow-left back7"] {
+		position: absolute;
+		top: 32px;
+		right: 1285px;
+		font-size: 20px;
+		color: #2A0801;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-1{
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: rgb(255, 131, 83);
+		border-radius: 50%;
+		top: 60px;
+		right: 149px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-1 img{
+		 width: 80px;
+		height: 78px;
+		position: absolute;
+		top: 21px;
+		right: 27px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-1 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 11px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2{
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: #5D05C1;
+		border-radius: 50%;
+		top: 60px;
+		right: 446px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2 img{
+		width: 86px;
+		height: 78px;
+		position: absolute;
+		top: 16px;
+		right: 19px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-2 h3{
+		width: 112px;
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 3px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+	.science-electrinc .third-year-subject .math-department .subject-3 {
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: #5D054A;
+		border-radius: 50%;
+		top: 60px;
+		right: 740px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-3 img{
+		width: 86px;
+		height: 65px;
+		position: absolute;
+		top: 33px;
+		right: 18px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-3 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 6px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+		width: 110px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #c0392b;
+		border-radius: 50%;
+		top: 282px;
+		right: 149px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4 img{
+		width: 98px;
+		height: 83px;
+		position: absolute;
+		top: 16px;
+		right: 16px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-4 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 7px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5{
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color:rgb(157, 54, 399);
+		border-radius: 50%;
+		top: 60px;
+		right: 1005px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5 img{
+		width: 87px;
+		height: 78px;
+		position: absolute;
+		top: 21px;
+		right: 18px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-5 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 33px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+
+	.science-electrinc .third-year-subject .math-department .subject-6{
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: rgb(75, 63, 139);
+		border-radius: 50%;
+		top: 282px;
+		right: 587px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6 img{
+		width: 63px;
+		height: 66px;
+		position: absolute;
+		top: 21px;
+		right: 28px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-6 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 28px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7{
+		position: absolute;
+		width: 120px;
+		height: 110px;;
+		background-color: #27AD87;
+		border-radius: 50%;
+		top: 282px;
+		right: 1005px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7 img{
+		width: 92px;
+		height: 78px;
+		position: absolute;
+		top: 16px;
+		right: 14px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-7 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right:-32px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+		width: 158px;
+	}
+	.science-electrinc .third-year-subject .math-department .subject-1:hover,.science-electrinc .third-year-subject .math-department .subject-2:hover,.science-electrinc .third-year-subject .math-department .subject-3:hover,.science-electrinc .third-year-subject .math-department .subject-4:hover,.science-electrinc .third-year-subject .math-department .subject-5:hover,.science-electrinc .third-year-subject .math-department .subject-5:hover,.science-electrinc .third-year-subject .math-department .subject-6:hover,.science-electrinc .third-year-subject .math-department .subject-7:hover
+	{
+		transform:scale(1.1,1.1);
+		transition:all 0.5s linear
+	}
+
+	/*القسم الادبي تالته ثانوي*/
+	.science-electrinc .third-year-subject .Literary-department-third {
+		display:none;
+		position: absolute;
+		right: 20px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third i[ class="fas fa-arrow-left back8"] {
+		position: absolute;
+		top: 30px;
+		right: 1269px;
+		font-size: 20px;
+		color: #2A0801;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: rgb(255, 131, 83);
+		border-radius: 50%;
+		top: 60px;
+		right: 149px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1 img{
+		width: 80px;
+		height: 78px;
+		position: absolute;
+		top: 17px;
+		right: 27px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 12px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #5D05C1;
+		border-radius: 50%;
+		top: 60px;
+		right: 446px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2 img{
+		width: 84px;
+		height: 78px;
+		position: absolute;
+		top: 15px;
+		right: 20px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-2 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 0px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+		width: 112px;
+
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3 {
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #5D054A;
+		border-radius: 50%;
+		top: 60px;
+		right: 740px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3 img{
+		width: 89px;
+		height: 66px;
+		position: absolute;
+		top: 33px;
+		right: 18px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-3 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 6px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+		width: 110px;
+
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #7072EC;
+		border-radius: 50%;
+		top: 282px;
+		right: 149px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4 img{
+		width: 98px;
+		height: 83px;
+		position: absolute;
+		top: 16px;
+		right: -14px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-4 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 34px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color:#056787;
+		border-radius: 50%;
+		top: 60px;
+		right: 1005px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5 img{
+		width: 87px;
+		height: 78px;
+		position: absolute;
+		top: 18px;
+		right: 17px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-5 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 27px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+
+	}
+
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #012E43;
+		border-radius: 50%;
+		top: 282px;
+		right: 587px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6 img{
+		width: 93px;
+		height: 75px;
+		position: absolute;
+		top: 13px;
+		right: 14px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-6 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: 30px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7{
+		position: absolute;
+		width: 120px;
+		height: 110px;
+		background-color: #c0392b;
+		border-radius: 50%;
+		top: 282px;
+		right: 1005px;
+		transition: all 0.5s linear;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7 img{
+		width: 80px;
+		height: 78px;
+		position: absolute;
+		top: 20px;
+		right: 21px;
+		cursor: pointer;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-7 h3{
+		color: white;
+		position: absolute;
+		top: 121px;
+		right: -18px;
+		font-family: 'Cairo', sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+		width: 158px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third .subject-1:hover,.science-electrinc .third-year-subject .Literary-department-third .subject-2:hover,.science-electrinc .third-year-subject .Literary-department-third .subject-3:hover,.science-electrinc .third-year-subject .Literary-department-third .subject-4:hover,.science-electrinc .third-year-subject .math-department .subject-5:hover,.science-electrinc .third-year-subject .Literary-department-third .subject-5:hover,.science-electrinc .third-year-subject .Literary-department-third .subject-6:hover,.science-electrinc .third-year-subject .Literary-department-third .subject-7:hover
+	{
+		transform:scale(1.1,1.1);
+		transition:all 0.5s linear
+	}
+
+	}
+
+/*---------------------------------------*/
+/*--------------------90%-----------------------------*/
+@media (min-width:1517px){
+	.years-of-subject {
+		right: 63px;
+	}
+	.science-electrinc .first-year-sebject {
+    	right: 81px;
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+    	left: 101px;
+	}
+	.subject-of-types {
+    	right: 234px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+    	right: 383px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 348px;
+	}
+	.subject-of-types-third {
+		right: 256px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 143px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 103px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 108px;
+}
+}
+/*------------------------------------*/
+/*--------------------80%-----------------------------*/
+@media (min-width:1707px){
+	.years-of-subject {
+		right: 156px;
+	}
+	.science-electrinc .first-year-sebject {
+    	right: 166px;
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+    	left: 190px;
+	}
+	.subject-of-types {
+    	right: 345px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+    	right: 475px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 457px;
+	}
+	.subject-of-types-third {
+		right: 334px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 213px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 202px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 223px;
+	}
+}
+/*----------------------------------------------*/
+/*--------------------75%-----------------------------*/
+@media (min-width:1820px){
+	.years-of-subject {
+		right: 225px;
+	}
+	.science-electrinc .first-year-sebject {
+    	right: 248px;
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+    	left: 323px;
+	}
+	.subject-of-types {
+    	right: 396px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+    	right: 520px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 515px;
+	}
+	.subject-of-types-third {
+		right: 403px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 293px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 293px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 293px;
+	}
+}
+/*----------------------------------------------------*/
+/*--------------------67%-----------------------------*/
+@media (min-width:2049px){
+	.science-electrinc{
+		overflow: hidden
+	}
+	.years-of-subject {
+		right: 348px;
+	}
+	.science-electrinc .first-year-sebject {
+    	right: 357px;
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+    	left: 407px;
+	}
+	.subject-of-types {
+    	right: 502px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+    	right: 650px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 650px;
+	}
+	.subject-of-types-third {
+		right: 530px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 353px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 353px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 353px;
+	}
+	.adress-education-school{
+		top:611px
+	}
+	.footer-education-school{
+		top: 1082px;
+	}
+}
+/*----------------------------------------------------*/
+/*--------------------50%-----------------------------*/
+@media (min-width:2732px){
+	.science-electrinc{
+		overflow: hidden
+	}
+	.years-of-subject {
+		right: 742px;
+	}
+	.science-electrinc .first-year-sebject {
+    	right: 744px;
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+    	left: 875px;
+	}
+	.subject-of-types {
+    	right: 880px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+    	right: 1006px;
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 1006px;
+	}
+	.subject-of-types-third {
+		right: 913px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 767px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 767px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 767px;
+	}
+	.adress-education-school {
+		top: 610px;
+		height: 550px;
+}
+	iframe {
+		top: 99px;
+}
+	.address .inforamtion-call {
+		top: 68px;
+	}
+	.footer-education-school{
+		top: 1160px;
+	}
+}
+/*----------------------------------------------------*/
+/*--------------------33%-----------------------------*/
+@media (min-width:4097px){
+	.science-electrinc{
+		overflow: hidden;
+		height: 800px;
+	}
+	.years-of-subject {
+		right: 1241px;
+    	top: 196px;
+	}
+	.science-electrinc .first-year-sebject {
+		right: 1266px;
+		top: 196px
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+    	left: 1875px;
+	}
+	.subject-of-types {
+		right: 1466px;
+		top: 196px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+    	right: 1517px;
+		top: 196px
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 1517px;
+		top: 196px
+	}
+	.subject-of-types-third {
+		right: 1513px;
+		top: 196px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 1316px;
+		top: 196px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 1316px;
+		top: 196px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 1316px;
+		top: 196px;
+	}
+	.adress-education-school {
+		top: 931px;
+    	height: 847px;
+}
+	iframe {
+		top: 240px;
+}
+	.address .inforamtion-call {
+		top: 193px;
+	}
+	.footer-education-school{
+		top: 1780px;
+		height: 96px;
+	}
+}
+/*----------------------------------------------------*/
+/*--------------------25%-----------------------------*/
+@media (min-width:5464px){
+	.science-electrinc{
+		overflow: hidden;
+		height: 1113px;
+	}
+	.years-of-subject {
+		right: 1895px;
+		top: 340px;
+	}
+	.science-electrinc .first-year-sebject {
+		right: 1896px;
+    	top: 340px;
+	}
+	.science-electrinc .first-year-sebject i[ class="fas fa-arrow-left back1"] {
+    	left: 2559px;
+	}
+	.subject-of-types {
+		right: 2068px;
+		top: 340px;
+	}
+	.science-electrinc .second-year-subject .scientific-department {
+    	right: 2110px;
+		top: 340px
+	}
+	.science-electrinc .second-year-subject .Literary-department {
+		right: 2110px;
+		top: 340px
+	}
+	.subject-of-types-third {
+		right: 1983px;
+		top: 340px;
+	}
+	.science-electrinc .third-year-subject .science-department {
+		right: 1916px;
+    	top: 340px;
+	}
+	.science-electrinc .third-year-subject .math-department {
+		right: 1916px;
+    	top: 340px;
+	}
+	.science-electrinc .third-year-subject .Literary-department-third {
+		right: 1916px;
+    	top: 340px;
+	}
+	.adress-education-school {
+		top: 1243px;
+		height: 1144px;
+}
+	iframe {
+		top: 452px;
+}
+	.address .inforamtion-call {
+		top: 389px;
+		right: 38px;
+	}
+	.footer-education-school{
+		top: 2389px;
+    	height: 110px;
+	}
+}

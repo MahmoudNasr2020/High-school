@@ -1,0 +1,588 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+body{
+    overflow-x: hidden;
+    background-color: #D1D2D3;
+
+
+}
+.header {
+    position: absolute;
+    width: 100%;
+    height: 117px;
+    background-color: #1f4b68 !important;
+}
+.header h2{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-left: -15px;
+    position: relative;
+    right: 15px;
+    top: 117px;
+    direction: rtl;
+}
+.col-4{
+    position: relative;
+    width: 100%;
+     padding-right: 0px;
+     padding-left:0
+}
+.list-group-item+.list-group-item,.list-group-item:first-child {
+    text-align: center;
+    padding: 17px 0 18.35px 0;
+    font-size: 18px;
+}
+.list-group-item:first-child,.list-group-item:last-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.content-of-setting {
+    position: absolute;
+    top: 264px;
+    right: 678px;
+    height: 400px;
+}
+.content-of-setting .label1{
+    text-align: center;
+    position: relative;
+    right: 35px;
+    font-weight: bold;
+    top: -76px;
+}
+select {
+    word-wrap: normal;
+    position: relative;
+    right: 133px;
+    top: 56px;
+    width: 73px;
+    height: 33px;
+}
+.btn-submit-setting{
+    position: relative !important;
+    top: 71px !important;
+
+}
+.content-of-setting .label2 {
+    top: 13px;
+    left: -20px;
+    font-weight: bold;
+}
+.input-sitename{
+    position: absolute;
+    right: 72px;
+    text-align: center;
+    top: -77px;
+}
+.input-siteemail{
+    position: absolute;
+    right: 72px;
+    text-align: center;
+    top: -50px;
+    margin-top: 17px;
+
+}
+.label-email{
+    text-align: center;
+    position: relative;
+    right: 35px;
+    font-weight: bold;
+    top: -28px;
+}
+.label-phone,.label-address{
+    position: relative;
+    margin-top: 13px;
+    left: -5px;
+    font-weight: bold;
+}
+.input-sitephone,.input-siteaddress {
+    position: relative;
+    right: 87px;
+    width: 204px;
+}
+
+.btn-danger {
+    position: relative;
+    right: 0;
+    top: 100px;
+}
+
+.h2setting{
+    position: absolute;
+    top: 135px;
+    left: 377px;
+    color: #1f4b68 !important;
+}
+.content-of-about-school {
+    position: absolute;
+    top: 203px;
+    left: 298px;
+}
+.input-address-news{
+    width: 262px;
+    margin-bottom: 17px;
+    direction: rtl;
+}
+.label-add{
+    position: relative;
+    left: 97px;
+    font-weight: bold;
+}
+.label-text{
+    position: relative;
+    left: 111px;
+    font-weight: bold;
+}
+textarea{
+    margin-top: 0px;
+    margin-bottom: 0;
+    height: 122px;
+    width: 264px;
+    resize:none;
+    direction:rtl;
+    margin-bottom: 17px;
+}
+.fileimg{
+    position: absolute;
+    left: 56px;
+    margin-bottom: 17px;
+}
+.label-img{
+    position: relative;
+    right: -103px;
+    font-weight: bold;
+}
+.danger-about{
+    position: relative;
+    right: -115px;
+    top: 54px;
+}
+.h2about {
+    position: absolute;
+    top: -54px;
+    left: 70px;
+    width: 165px;
+    color: #1f4b68 !important;
+}
+.danger-add{
+    position: absolute;
+    top: 226px;
+    left: 74px;
+}
+.danger-text {
+    position: absolute;
+    top: 357px;
+    left: 103px;
+}
+.danger-img {
+    position: absolute;
+    top: 487px;
+    left: 103px;
+}
+.success-about{
+    position: absolute;
+    top: 543px;
+    left: 130px;
+}
+.success-setting{
+    position: absolute;
+    top: 540px;
+    left: 170px
+}
+.errorname{
+    position: absolute;
+    top: 540px;
+    left: 170px
+}
+.addnews {
+    position: relative;
+    top: -365px;
+    left: 419px;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    color:white
+}
+a:hover{
+    text-decoration: none;
+    list-style: none;
+    color:white
+}
+.group-news{
+    position: relative;
+    top: -357px;
+    left: 49px;
+}
+.group-news .input-news {
+    width: 541px;
+    direction: rtl;
+    position: relative;
+    left: 129px;
+    top: 14px;
+}
+.input-submit{
+    top: 22px;
+    left: 385px;
+}
+.lebal-news {
+    left: 365px;
+    top: 15px;
+    font-weight: bold;
+}
+.news-alert {
+    position: absolute;
+    top: 136px;
+    left: 218px;
+}
+.fetch-news {
+    position: relative;
+    width: 541px;
+    text-align: right;
+    top: -341px;
+    left: 174px;
+}
+.remove-news{
+    position: relative;
+    right: 301px;
+    top: 0px;
+}
+.update-news{
+    position: relative;
+    right: 166px;
+}
+.edit-news{
+    position: relative;
+    top: -345px;
+    left: 177px;
+}
+.input-edit{
+    width: 541px;
+    text-align:right
+}
+.btn1-edit{
+    position: relative;
+    top: 11px;
+    left: 258px;
+}
+.lebal-edit {
+    left: 242px;
+    font-weight: bold;
+}
+.del-news{
+    position: relative;
+    top: -345px;
+    left: 177px;
+}
+.input-del{
+    width: 541px;
+    text-align:right
+}
+.del-edit{
+    width: 541px;
+    text-align:right
+}
+.btn-del{
+    top: 11px;
+    left: 258px;
+}
+.lebal-del {
+    left: 242px;
+    font-weight: bold;
+}
+.del-alert {
+    position: absolute;
+    top: 136px;
+    left: 160px;
+}
+.group-res{
+    position: relative;
+    top: -303px;
+    left: 210px;
+    width: 491px;
+}
+.group-res1,.group-res2,.group-res3{
+    width: 453px;
+}
+.input-res1,.input-res2,.input-res3{
+    width: 449px;
+}
+.input-submit-res {
+    top: 22px;
+    left: 194px;
+}
+.lebal-result-1,.lebal-result-2,.lebal-result-3{
+    position: relative;
+    left: 129px;
+    font-weight: bold;
+    width: 200px;
+
+}
+.h2-res{
+    position: relative;
+    top: -334px;
+    left: 383px;
+    color:#1f4b68 !important
+}
+.res-alert {
+    position: absolute;
+    top: 168px;
+    left: 509px;
+}
+.form-res{
+        height: 70px
+}
+.form-slider{
+    height: 250px
+}
+.btn-slider{
+    position: relative;
+    top: -357px;
+    left: 404px;
+}
+.slider-content{
+    position: relative;
+    top: -323px;
+    left: 200px;
+    width: 473px;
+}
+.slider-content input:nth-of-type(1){
+    margin-bottom:20px;
+    position: relative;
+}
+.input-slider{
+    direction:rtl
+}
+.file-slider{
+    position: relative;
+    left: 145px;
+}
+.label-slider{
+    position: relative;
+    left: 221px;
+    font-weight: bold;
+}
+.submit-slider{
+    position: relative;
+    top: -16px;
+    left: 229px;
+}
+.group-slider1,.group-slider2{
+    position: relative;
+    width: 453px;
+}
+.input-slider{
+    width: 494px;
+    position: relative;
+}
+.img-data{
+        width: 78px;
+}
+.slider-news {
+    position: relative;
+    width: 541px;
+    text-align: right;
+    top: -341px;
+    left: 174px;
+}
+.img-database {
+    width: 70px;
+    position: relative;
+    right: -137px;
+    height: 55px;
+}
+.slider-update{
+    position: relative;
+    right: 304px;
+    top: 38px;
+}
+.slider-remove{
+    position: relative;
+    right: 445px;
+    top: 38px;
+}
+.slider-add-alert {
+    position: relative;
+    top: -350px;
+    width: 253px;
+    left: 304px;
+}
+.slider-add-success {
+    position: relative;
+    top: -350px;
+    width: 253px;
+    left: 304px;
+}
+.slider-edit-alert {
+    position: relative;
+    top: -350px;
+    width: 253px;
+    left: 304px;
+}
+.slider-edit-success {
+    position: relative;
+    top: -350px;
+    width: 253px;
+    left: 304px;
+}
+.slider-del-alert {
+    position:relative;
+    top: -350px;
+    width: 253px;
+    left: 304px;
+}
+.slider-del-success {
+    position: relative;
+    top: -350px;
+    width: 253px;
+    left: 304px;
+}
+.date {
+    position: relative;
+    top: 9px;
+    left: 316px;
+    width: 189px;
+}
+.btn-slidermain{
+    position: relative;
+    top: -357px;
+    left: 246px;
+}
+.img-database1 {
+    width: 70px;
+    position: relative;
+    right: 0;
+    height: 55px;
+}
+.date-stc{
+    position: relative;
+    top: 17px;
+}
+.btn-att1 {
+    position: relative;
+    top: -330px;
+    left: 725px;
+}
+.btn-att2 {
+    position: relative;
+    top: -261px;
+    left: 616px;
+}
+.btn-att3 {
+    position: relative;
+    top: -198px;
+    left: 503px;
+}
+.btn-show1{
+    position: relative;
+    top: -370px;
+    left: 418px;
+}
+.btn-ins1{
+    position: relative;
+    top: -370px;
+    left: 100px;
+}
+.content-of-std {
+    width: 401px;
+    position: relative;
+    top: -300px;
+    left: 229px;
+}
+.label-id-std{
+    position: relative;
+    left: 72px;
+    font-weight: bold;
+}
+.input-id-std{
+    margin-bottom: 18px;
+    text-align: right;
+}
+.label-name-std{
+    position: relative;
+    left: 105px;
+    font-weight: bold;
+}
+.input-name-std{
+    margin-bottom: 18px;
+    text-align: right;
+}
+.input-day-std{
+    text-align: right;
+}
+.label-day-std{
+    position: relative;
+    left: 94px;
+    font-weight: bold;
+}
+.std_btn {
+    position: relative;
+    top: 30px;
+    left: 131px;
+}
+.first-att {
+    height: 344px;
+}
+.alert-att {
+    width: 269px;
+    position: relative;
+    top: -376px;
+    left: 79px;
+}
+.alert-show-att1{
+    position: relative;
+    width: 498px;
+    top: -317px;
+    left: 147px;
+    text-align: right;
+}
+.p-att1{
+    font-weight: bold;
+    color: black;
+}
+.span-att1{
+    color: #0062cc;
+}
+.span-att2{
+    color: #1e7e34;
+}
+.span-att3{
+    color: #dc3545;
+}
+.update-std{
+    position: relative;
+    left: -262px;
+}
+.delete-std {
+    position: relative;
+    top: 0px;
+    left:-400px;
+}
+.alert-att-edit {
+    width: 269px;
+    position: relative;
+    top: -578px;
+    left: 77px;
+}
+.first-att1-del{
+    height: 188px;
+}
+.h5log {
+    top: -36px;
+    position: relative;
+    left: 36px;
+    font-size: 17px;
+}
+.img-shut {
+       width: 17px;
+    position: relative;
+    top: -63px;
+    left: 15px;
+}

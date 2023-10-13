@@ -1,0 +1,47 @@
+
+.version-school{
+	position: absolute;
+	top: 129px;
+	width:100%;
+	height: 485px;
+	background-color:#dedede
+}
+.version-word{
+    position: relative;
+    right: -664px;
+	top: -10px;
+
+}
+.version-school .version-img img{
+	position: absolute;
+    top: 36px;
+    right: -20px;
+    width: 488px;
+    height: 415px;
+}
+
+.version-school .version-word h2 {
+	width: 339px;
+    position: absolute;
+    top: 52px;
+    right: 789px;
+    font-size: 38px;
+    color: #04367d;
+    font-family: 'Cairo', sans-serif;
+}
+.version-school .version-word span{
+	position: absolute;
+    top: 109px;
+    right: 708px;
+    font-size: 21px;
+    line-height: 45px;
+    text-align: justify;
+    width: 536px;
+}
+.adress-version-school{
+	top:610px
+
+}
+.footer-version-school{
+	top:1080px
+}
